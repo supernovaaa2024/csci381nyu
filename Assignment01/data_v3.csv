@@ -1,0 +1,2423 @@
+customerID,gender,PhoneService,InternetService,StreamingTV,Contract,TotalCharges,Churn
+9305-CDSKC,Female,Yes,Fiber optic,Yes,Month-to-month,820.5,Yes
+1452-KIOVK,Male,Yes,Fiber optic,Yes,Month-to-month,1949.4,No
+7892-POOKP,Female,Yes,Fiber optic,Yes,Month-to-month,3046.05,Yes
+8091-TTVAX,Male,Yes,Fiber optic,Yes,One year,5681.1,No
+0280-XJGEX,Male,Yes,Fiber optic,Yes,Month-to-month,5036.3,Yes
+5129-JLPIS,Male,Yes,Fiber optic,Yes,Month-to-month,2686.05,No
+3655-SNQYZ,Female,Yes,Fiber optic,Yes,Two year,7895.15,No
+9959-WOFKT,Male,Yes,Fiber optic,Yes,Two year,7382.25,No
+6467-CHFZW,Male,Yes,Fiber optic,Yes,Month-to-month,4749.15,Yes
+5248-YGIJN,Male,Yes,DSL,Yes,Two year,6369.45,No
+8773-HHUOZ,Female,Yes,DSL,Yes,Month-to-month,1093.1,Yes
+4929-XIHVW,Male,Yes,Fiber optic,Yes,Month-to-month,181.65,No
+6234-RAAPL,Female,Yes,Fiber optic,Yes,Two year,7251.7,No
+5380-WJKOV,Male,Yes,Fiber optic,Yes,Month-to-month,3549.25,Yes
+8168-UQWWF,Female,Yes,Fiber optic,Yes,Month-to-month,1105.4,Yes
+9489-DEDVP,Female,Yes,DSL,Yes,Two year,4872.35,No
+4671-VJLCL,Female,Yes,DSL,Yes,Two year,4861.45,No
+4080-IIARD,Female,Yes,DSL,Yes,Month-to-month,981.45,No
+7760-OYPDY,Female,Yes,Fiber optic,Yes,Month-to-month,144.15,Yes
+7639-LIAYI,Male,Yes,DSL,Yes,Two year,4217.8,No
+8012-SOUDQ,Female,Yes,Fiber optic,Yes,Month-to-month,3838.75,No
+9420-LOJKX,Female,Yes,Fiber optic,Yes,Month-to-month,1426.4,Yes
+6575-SUVOI,Female,Yes,DSL,Yes,Month-to-month,1752.65,No
+1658-BYGOY,Male,Yes,Fiber optic,Yes,Month-to-month,1752.55,Yes
+8769-KKTPH,Female,Yes,Fiber optic,Yes,One year,6311.2,No
+5067-XJQFU,Male,Yes,Fiber optic,Yes,One year,7076.35,No
+5954-BDFSG,Female,Yes,Fiber optic,Yes,Two year,7853.7,No
+0434-CSFON,Female,Yes,Fiber optic,Yes,Month-to-month,4707.1,No
+1215-FIGMP,Male,Yes,Fiber optic,Yes,Month-to-month,5450.7,No
+5698-BQJOH,Female,Yes,Fiber optic,Yes,Month-to-month,857.25,Yes
+5122-CYFXA,Female,Yes,DSL,Yes,Month-to-month,244.1,No
+3410-YOQBQ,Female,Yes,DSL,Yes,Two year,2497.2,No
+1891-QRQSA,Male,Yes,Fiber optic,Yes,Two year,7099,No
+2673-CXQEU,Female,Yes,Fiber optic,Yes,One year,6139.5,No
+0191-ZHSKZ,Male,Yes,DSL,Yes,Month-to-month,2111.3,No
+5919-TMRGD,Female,Yes,Fiber optic,Yes,Month-to-month,79.35,Yes
+9919-YLNNG,Female,Yes,Fiber optic,Yes,Month-to-month,4327.5,No
+4445-ZJNMU,Male,Yes,Fiber optic,Yes,Month-to-month,918.75,No
+4808-YNLEU,Female,Yes,DSL,Yes,One year,2215.45,No
+7233-PAHHL,Male,Yes,DSL,Yes,Two year,5714.25,No
+6067-NGCEU,Female,Yes,Fiber optic,Yes,Month-to-month,7107,No
+9848-JQJTX,Male,Yes,Fiber optic,Yes,Two year,7459.05,No
+4598-XLKNJ,Female,Yes,Fiber optic,Yes,Month-to-month,2514.5,Yes
+7123-WQUHX,Male,Yes,Fiber optic,Yes,One year,3605.6,No
+3192-NQECA,Male,Yes,Fiber optic,Yes,Two year,7611.85,Yes
+6728-DKUCO,Female,Yes,Fiber optic,Yes,One year,7303.05,No
+8597-CWYHH,Male,Yes,Fiber optic,Yes,One year,3921.3,No
+0486-HECZI,Male,Yes,Fiber optic,Yes,Month-to-month,5238.9,Yes
+5712-AHQNN,Female,Yes,Fiber optic,Yes,Month-to-month,3954.1,No
+3071-VBYPO,Male,Yes,Fiber optic,Yes,Month-to-month,248.4,No
+5299-RULOA,Female,Yes,Fiber optic,Yes,Month-to-month,1064.65,Yes
+1091-SOZGA,Female,Yes,Fiber optic,Yes,One year,5515.45,No
+4622-YNKIJ,Male,Yes,Fiber optic,Yes,Two year,3027.65,No
+3146-MSEGF,Female,Yes,DSL,Yes,Two year,6425.65,No
+1095-WGNGG,Female,Yes,Fiber optic,Yes,Two year,5971.25,No
+5716-EZXZN,Female,Yes,Fiber optic,Yes,Two year,6416.7,No
+6440-DKQGE,Male,Yes,DSL,Yes,One year,1929.95,No
+3780-YVMFA,Female,Yes,DSL,Yes,Month-to-month,564.35,No
+3874-EQOEP,Male,Yes,Fiber optic,Yes,Month-to-month,655.5,Yes
+1679-JRFBR,Female,Yes,Fiber optic,Yes,One year,7930.55,No
+9073-ZZIAY,Male,Yes,DSL,Yes,Two year,5215.25,No
+9167-APMXZ,Female,Yes,Fiber optic,Yes,Month-to-month,1821.95,No
+6371-NZYEG,Male,Yes,DSL,Yes,Two year,1024,No
+5997-OPVFA,Male,Yes,DSL,Yes,Two year,6254.45,No
+1875-QIVME,Female,Yes,Fiber optic,Yes,Month-to-month,242.8,Yes
+6727-IOTLZ,Male,Yes,DSL,Yes,Two year,1181.75,No
+0691-JVSYA,Female,Yes,Fiber optic,Yes,One year,5000.2,Yes
+5947-SGKCL,Female,Yes,Fiber optic,Yes,Month-to-month,1559.25,No
+5524-KHNJP,Male,Yes,DSL,Yes,One year,2453.3,No
+9680-NIAUV,Female,Yes,Fiber optic,Yes,Two year,8129.3,No
+2604-IJPDU,Female,Yes,Fiber optic,Yes,Month-to-month,1901.65,No
+6168-YBYNP,Male,Yes,Fiber optic,Yes,Month-to-month,6519.75,No
+7255-SSFBC,Male,Yes,Fiber optic,Yes,Two year,8041.65,No
+9323-HGFWY,Female,Yes,Fiber optic,Yes,One year,2681.15,No
+3363-DTIVD,Male,Yes,Fiber optic,Yes,Two year,7405.5,No
+7018-WBJNK,Male,Yes,Fiber optic,Yes,Month-to-month,1033.95,No
+7825-ECJRF,Female,Yes,Fiber optic,Yes,Month-to-month,1934.45,Yes
+1347-KTTTA,Male,Yes,Fiber optic,Yes,One year,6654.1,No
+2040-LDIWQ,Male,Yes,DSL,Yes,Two year,5324.5,No
+6496-JDSSB,Female,Yes,Fiber optic,Yes,Month-to-month,624.6,No
+6341-JVQGF,Female,Yes,DSL,Yes,One year,2545.75,No
+2232-DMLXU,Female,Yes,DSL,Yes,Month-to-month,55.2,Yes
+0945-TSONX,Female,Yes,DSL,Yes,Two year,4107.25,No
+2651-ZCBXV,Male,Yes,Fiber optic,Yes,Two year,5760.65,No
+0094-OIFMO,Female,Yes,Fiber optic,Yes,Month-to-month,1120.3,Yes
+7301-ABVAD,Female,Yes,DSL,Yes,Two year,6350.5,No
+6614-FHDBO,Male,Yes,Fiber optic,Yes,Two year,7878.3,No
+7576-ASEJU,Female,Yes,DSL,Yes,One year,3187.65,No
+4075-JFPGR,Female,Yes,Fiber optic,Yes,One year,4619.55,No
+3282-ZISZV,Male,Yes,DSL,Yes,One year,2633.3,No
+7017-VFHAY,Female,Yes,Fiber optic,Yes,Two year,7008.15,No
+6655-LHBYW,Male,Yes,Fiber optic,Yes,One year,5791.1,No
+3606-TWKGI,Male,Yes,Fiber optic,Yes,Month-to-month,1364.3,Yes
+1950-KSVVJ,Female,Yes,Fiber optic,Yes,One year,5032.25,No
+0123-CRBRT,Female,Yes,DSL,Yes,Two year,5526.75,No
+3197-ARFOY,Female,Yes,Fiber optic,Yes,Month-to-month,2007.25,No
+4385-GZQXV,Female,Yes,Fiber optic,Yes,Month-to-month,1511.2,Yes
+4716-HHKQH,Male,Yes,Fiber optic,Yes,Month-to-month,2172.05,No
+4484-GLZOU,Female,Yes,Fiber optic,Yes,Month-to-month,5624.85,Yes
+9512-UIBFX,Male,Yes,Fiber optic,Yes,Month-to-month,1779.95,Yes
+4847-TAJYI,Female,Yes,Fiber optic,Yes,Month-to-month,567.8,No
+6851-WEFYX,Male,Yes,Fiber optic,Yes,Month-to-month,3437.5,No
+2985-JUUBZ,Male,Yes,DSL,Yes,Month-to-month,3015.75,No
+0895-LMRSF,Male,Yes,DSL,Yes,One year,1509.8,No
+8098-LLAZX,Female,Yes,Fiber optic,Yes,Month-to-month,396.1,Yes
+4115-BNPJY,Male,Yes,DSL,Yes,Two year,2054.4,No
+3167-SNQPL,Male,Yes,Fiber optic,Yes,Month-to-month,3741.85,No
+4091-TVOCN,Male,Yes,DSL,Yes,One year,3682.45,No
+1557-EMYVT,Female,Yes,Fiber optic,Yes,Two year,4895.1,No
+7563-BIUPC,Male,Yes,Fiber optic,Yes,Month-to-month,415.55,Yes
+5027-YOCXN,Male,Yes,Fiber optic,Yes,One year,5686.4,No
+2321-OMBXY,Female,Yes,DSL,Yes,One year,3058.65,Yes
+2840-XANRC,Male,Yes,Fiber optic,Yes,Month-to-month,2231.05,Yes
+6745-JEFZB,Male,Yes,Fiber optic,Yes,Month-to-month,3236.35,No
+5020-ZSTTY,Female,Yes,DSL,Yes,One year,4350.1,Yes
+4983-CLMLV,Female,Yes,Fiber optic,Yes,Month-to-month,5138.1,No
+5701-YVSVF,Female,Yes,Fiber optic,Yes,Month-to-month,880.05,No
+2379-GYFLQ,Male,Yes,Fiber optic,Yes,One year,4422.95,No
+6680-NENYN,Female,Yes,Fiber optic,Yes,Two year,4759.85,Yes
+2088-IEBAU,Female,Yes,DSL,Yes,Two year,6148.45,No
+7982-VCELR,Female,Yes,Fiber optic,Yes,Month-to-month,3565.65,No
+1343-EHPYB,Male,Yes,Fiber optic,Yes,Month-to-month,6603,Yes
+6885-PKOAM,Female,Yes,DSL,Yes,Two year,6223.8,No
+2034-GDRCN,Female,Yes,Fiber optic,Yes,Month-to-month,168.2,Yes
+4115-NZRKS,Female,Yes,Fiber optic,Yes,Month-to-month,574.35,No
+8984-EYLLL,Male,Yes,Fiber optic,Yes,Two year,6823.4,No
+9833-TGFHX,Male,Yes,Fiber optic,Yes,One year,4016.75,No
+5229-DTFYB,Female,Yes,Fiber optic,Yes,Two year,3959.15,No
+1010-DIAUQ,Male,Yes,Fiber optic,Yes,Month-to-month,492.55,Yes
+9571-EDEBV,Male,Yes,Fiber optic,Yes,One year,6962.85,No
+3520-FJGCV,Male,Yes,Fiber optic,Yes,Two year,8126.65,No
+0259-GBZSH,Male,Yes,Fiber optic,Yes,Month-to-month,181.5,Yes
+6862-CQUMB,Male,Yes,Fiber optic,Yes,Month-to-month,3646.8,No
+7156-MXBJE,Female,Yes,DSL,Yes,One year,3662.25,No
+9601-BRXPO,Female,Yes,Fiber optic,Yes,Month-to-month,2566.5,Yes
+2863-IMQDR,Female,Yes,DSL,Yes,Two year,5308.7,No
+6583-SZVGP,Male,Yes,Fiber optic,Yes,Two year,5067.45,No
+3597-MVHJT,Female,Yes,Fiber optic,Yes,Month-to-month,2595.25,No
+9774-NRNAU,Male,Yes,DSL,Yes,Month-to-month,2309.55,No
+3951-NJCVI,Female,Yes,Fiber optic,Yes,Month-to-month,3944.5,No
+2977-CEBSX,Female,Yes,DSL,Yes,Two year,5965.95,No
+0177-PXBAT,Male,Yes,Fiber optic,Yes,Month-to-month,3694.7,No
+0979-PHULV,Male,Yes,Fiber optic,Yes,Month-to-month,7007.6,Yes
+4742-DRORA,Male,Yes,Fiber optic,Yes,One year,5812,No
+0111-KLBQG,Male,Yes,Fiber optic,Yes,Month-to-month,2861.45,No
+2806-MLNTI,Male,Yes,Fiber optic,Yes,One year,5376.4,No
+4376-KFVRS,Male,Yes,Fiber optic,Yes,Two year,8468.2,No
+0771-WLCLA,Female,Yes,Fiber optic,Yes,Month-to-month,1882.55,No
+5628-RKIFK,Female,Yes,Fiber optic,Yes,Month-to-month,5070.4,No
+0206-TBWLC,Female,Yes,Fiber optic,Yes,One year,6049.5,No
+7752-XUSCI,Female,Yes,Fiber optic,Yes,Month-to-month,6396.45,Yes
+5168-MSWXT,Male,Yes,Fiber optic,Yes,Month-to-month,759.55,No
+1090-ESELR,Male,Yes,Fiber optic,Yes,Two year,7611.55,No
+8313-NDOIA,Female,Yes,Fiber optic,Yes,Month-to-month,2494.65,No
+5149-CUZUJ,Male,Yes,Fiber optic,Yes,One year,2768.35,No
+0942-KOWSM,Female,Yes,DSL,Yes,Two year,2369.3,No
+6614-VBEGU,Female,Yes,DSL,Yes,Month-to-month,1614.05,No
+0880-TKATG,Male,Yes,Fiber optic,Yes,Month-to-month,385.9,Yes
+3811-VBYBZ,Male,Yes,Fiber optic,Yes,Month-to-month,673.25,Yes
+1480-BKXGA,Male,Yes,Fiber optic,Yes,Two year,8404.9,No
+9076-AXYIK,Male,Yes,Fiber optic,Yes,Two year,6538.45,No
+5968-XQIVE,Male,Yes,Fiber optic,Yes,One year,6588.95,No
+1304-BCCFO,Male,Yes,DSL,Yes,Month-to-month,564.4,No
+3780-DDGSE,Male,Yes,DSL,Yes,Month-to-month,2747.2,No
+4431-EDMIQ,Female,Yes,DSL,Yes,Month-to-month,554.05,No
+0306-JAELE,Male,Yes,Fiber optic,Yes,Month-to-month,453.4,Yes
+5168-MQQCA,Female,Yes,Fiber optic,Yes,One year,8003.8,No
+5949-XIKAE,Female,Yes,Fiber optic,Yes,Month-to-month,680.05,Yes
+9094-AZPHK,Female,Yes,Fiber optic,Yes,Month-to-month,1415,No
+3649-JPUGY,Male,Yes,DSL,Yes,Two year,6201.95,No
+3552-CTCYF,Male,Yes,Fiber optic,Yes,Two year,6597.25,No
+6778-YSNIH,Female,Yes,DSL,Yes,Month-to-month,114.15,No
+4374-YMUSQ,Male,Yes,Fiber optic,Yes,One year,3899.05,No
+5736-YEJAX,Male,Yes,DSL,Yes,Two year,5502.55,No
+7218-HKQFK,Male,Yes,Fiber optic,Yes,Month-to-month,167.5,Yes
+8535-SFUTN,Male,Yes,Fiber optic,Yes,Month-to-month,6300.15,No
+8677-HDZEE,Female,Yes,Fiber optic,Yes,Month-to-month,5916.95,No
+9412-GHEEC,Male,Yes,Fiber optic,Yes,Month-to-month,4131.95,Yes
+5174-ITUMV,Male,Yes,Fiber optic,Yes,One year,6989.45,No
+8397-MVTAZ,Male,Yes,Fiber optic,Yes,Month-to-month,3480,Yes
+0750-EBAIU,Male,Yes,Fiber optic,Yes,One year,4738.3,No
+8606-CIQUL,Male,Yes,Fiber optic,Yes,Two year,8399.15,No
+3571-DPYUH,Male,Yes,Fiber optic,Yes,One year,5430.35,No
+0356-OBMAC,Female,Yes,Fiber optic,Yes,Two year,5706.3,No
+4234-XTNEA,Male,Yes,Fiber optic,Yes,Month-to-month,174.45,No
+1297-VQDRP,Male,Yes,Fiber optic,Yes,One year,7379.8,No
+5348-CAGXB,Male,Yes,Fiber optic,Yes,Month-to-month,1021.75,No
+8905-IAZPF,Female,Yes,Fiber optic,Yes,One year,6744.2,No
+5394-MEITZ,Female,Yes,DSL,Yes,Two year,4946.7,No
+6859-QNXIQ,Female,Yes,Fiber optic,Yes,Two year,8248.5,No
+1342-JPNKI,Male,Yes,Fiber optic,Yes,Month-to-month,834.1,Yes
+6986-IJDHX,Male,Yes,Fiber optic,Yes,Month-to-month,3266,Yes
+2560-PPCHE,Female,Yes,Fiber optic,Yes,One year,6744.25,No
+4676-MQUEA,Male,Yes,Fiber optic,Yes,One year,5265.5,No
+3580-HYCSP,Male,Yes,Fiber optic,Yes,Two year,7966.9,No
+1352-HNSAW,Female,Yes,Fiber optic,Yes,Two year,8220.4,No
+1154-HYWWO,Male,Yes,DSL,Yes,One year,2708.2,No
+6815-ABQFQ,Male,Yes,Fiber optic,Yes,One year,6033.3,No
+3701-SFMUH,Male,Yes,DSL,Yes,Month-to-month,516.15,No
+6103-LIANB,Male,Yes,Fiber optic,Yes,Two year,5861.75,No
+7319-VENRZ,Male,Yes,DSL,Yes,Month-to-month,445.95,No
+6967-QIQRV,Male,Yes,Fiber optic,Yes,One year,1667.25,No
+5781-RFZRP,Male,Yes,DSL,Yes,Two year,5357.75,No
+0939-YAPAF,Female,Yes,Fiber optic,Yes,Month-to-month,3527.6,Yes
+4710-FDUIZ,Male,Yes,Fiber optic,Yes,One year,5614.45,Yes
+6030-REHUX,Female,Yes,Fiber optic,Yes,Month-to-month,3204.4,No
+9548-LIGTA,Male,Yes,DSL,Yes,Two year,4747.65,No
+5150-LJNSR,Male,Yes,Fiber optic,Yes,One year,3082.1,No
+2865-TCHJW,Female,Yes,Fiber optic,Yes,Month-to-month,346.2,Yes
+5192-EBGOV,Female,Yes,Fiber optic,Yes,Month-to-month,85.7,Yes
+4568-KNYWR,Male,Yes,DSL,Yes,Two year,3342.45,No
+0795-LAFGP,Male,Yes,DSL,Yes,Two year,6668.05,No
+0619-OLYUR,Male,Yes,Fiber optic,Yes,Two year,8071.05,No
+0459-SPZHJ,Male,Yes,DSL,Yes,Two year,5435,No
+2001-MCUUW,Male,Yes,Fiber optic,Yes,Two year,4903.2,No
+2731-GJRDG,Female,Yes,Fiber optic,Yes,One year,3608,No
+4723-BEGSG,Male,Yes,DSL,Yes,Two year,6094.25,No
+6516-NKQBO,Male,Yes,DSL,Yes,Two year,3084.9,No
+8207-DMRVL,Male,Yes,Fiber optic,Yes,Two year,8306.05,No
+3419-SNJJD,Female,Yes,Fiber optic,Yes,Month-to-month,6786.4,Yes
+6689-VRRTK,Female,Yes,Fiber optic,Yes,One year,4860.35,No
+7134-MJPDY,Female,Yes,Fiber optic,Yes,One year,6976.75,No
+4851-BQDNX,Male,Yes,Fiber optic,Yes,One year,3355.65,No
+3003-CMDUU,Female,Yes,Fiber optic,Yes,Month-to-month,2395.7,No
+6797-UCJHZ,Female,Yes,Fiber optic,Yes,One year,6819.45,No
+2469-DTSGX,Female,Yes,Fiber optic,Yes,Two year,7943.45,No
+5099-BAILX,Male,Yes,Fiber optic,Yes,Month-to-month,4687.9,Yes
+1775-KWJKQ,Male,Yes,DSL,Yes,Two year,6562.9,No
+7207-RMRDB,Female,Yes,Fiber optic,Yes,Month-to-month,6985.65,Yes
+7954-MLBUN,Male,Yes,Fiber optic,Yes,Two year,3109.9,No
+4913-EHYUI,Male,Yes,Fiber optic,Yes,One year,5794.65,Yes
+4580-TMHJU,Female,Yes,DSL,Yes,Month-to-month,2499.3,Yes
+0970-ETWGE,Male,Yes,Fiber optic,Yes,Month-to-month,89.55,Yes
+1626-ERCMM,Male,Yes,Fiber optic,Yes,Month-to-month,1899.65,Yes
+2391-IPLOP,Male,Yes,DSL,Yes,One year,3442.15,No
+5183-SNMJQ,Male,Yes,Fiber optic,Yes,Month-to-month,865.1,No
+8100-PNJMH,Male,Yes,DSL,Yes,Two year,6132.7,No
+7838-LAZFO,Male,Yes,DSL,Yes,One year,3597.5,No
+3729-OWRVL,Male,Yes,Fiber optic,Yes,Two year,7246.15,No
+5760-IFJOZ,Male,Yes,Fiber optic,Yes,Month-to-month,313.6,No
+7501-IWUNG,Female,Yes,DSL,Yes,Two year,4616.05,No
+4957-TREIR,Male,Yes,DSL,Yes,Month-to-month,195.65,No
+7251-LJBQN,Female,Yes,Fiber optic,Yes,One year,4188.4,No
+0078-XZMHT,Male,Yes,DSL,Yes,Two year,6316.2,No
+9978-HYCIN,Male,Yes,Fiber optic,Yes,One year,4018.05,No
+1525-LNLOJ,Male,Yes,DSL,Yes,Two year,4189.7,No
+9450-TRJUU,Male,Yes,Fiber optic,Yes,Month-to-month,2848.45,No
+8329-UTMVM,Male,Yes,Fiber optic,Yes,One year,2964,No
+3347-YJZZE,Male,Yes,DSL,Yes,Month-to-month,2211.8,No
+5575-TPIZQ,Male,Yes,Fiber optic,Yes,Month-to-month,4245.55,No
+5244-IRFIH,Male,Yes,Fiber optic,Yes,Month-to-month,3105.55,Yes
+6786-OBWQR,Female,Yes,Fiber optic,Yes,Month-to-month,356.1,No
+6647-ZEDXT,Female,Yes,Fiber optic,Yes,One year,3327.05,No
+7503-MIOGA,Female,Yes,DSL,Yes,Two year,6697.35,No
+5138-WVKYJ,Male,Yes,Fiber optic,Yes,Month-to-month,1008.55,Yes
+2499-AJYUA,Female,Yes,Fiber optic,Yes,Two year,7882.25,No
+6919-ELBGL,Male,Yes,Fiber optic,Yes,Two year,8196.4,No
+8405-IGQFX,Female,Yes,Fiber optic,Yes,One year,5817,No
+9477-LGWQI,Male,Yes,DSL,Yes,Two year,5600.15,No
+0139-IVFJG,Female,Yes,Fiber optic,Yes,Month-to-month,190.5,No
+6683-VLCTZ,Male,Yes,Fiber optic,Yes,Month-to-month,1842.8,Yes
+1894-IGFSG,Female,Yes,Fiber optic,Yes,Month-to-month,1907.85,Yes
+0236-HFWSV,Male,Yes,Fiber optic,Yes,Month-to-month,1444.65,Yes
+2037-XJFUP,Male,Yes,Fiber optic,Yes,One year,3036.75,Yes
+8823-RLPWL,Female,Yes,Fiber optic,Yes,Two year,8065.65,No
+5676-CFLYY,Male,Yes,DSL,Yes,Two year,5154.5,No
+0691-IFBQW,Female,Yes,Fiber optic,Yes,One year,4874.8,Yes
+0810-BDHAW,Female,Yes,DSL,Yes,One year,1832.4,No
+9871-ELEYA,Female,Yes,DSL,Yes,Two year,2339.3,No
+3009-JWMPU,Male,Yes,Fiber optic,Yes,One year,6125.4,Yes
+1450-GALXR,Female,Yes,Fiber optic,Yes,Month-to-month,1058.25,Yes
+3174-AKMAS,Female,Yes,DSL,Yes,Two year,3009.5,No
+3138-BKYAV,Male,Yes,Fiber optic,Yes,Month-to-month,489.45,Yes
+9926-PJHDQ,Female,Yes,DSL,Yes,Two year,5468.45,No
+2798-NYLMZ,Male,Yes,Fiber optic,Yes,Two year,7616,No
+4289-DTDKW,Male,Yes,Fiber optic,Yes,Month-to-month,4113.1,Yes
+2239-JALAW,Male,Yes,Fiber optic,Yes,One year,6017.65,Yes
+4853-RULSV,Male,Yes,Fiber optic,Yes,Two year,7250.15,Yes
+3196-NVXLZ,Female,Yes,Fiber optic,Yes,Month-to-month,2088.05,No
+0036-IHMOT,Female,Yes,Fiber optic,Yes,One year,5656.75,No
+0115-TFERT,Male,Yes,Fiber optic,Yes,Month-to-month,2317.1,Yes
+4220-TINQT,Female,Yes,Fiber optic,Yes,Month-to-month,6751.35,No
+5318-YKDPV,Male,Yes,DSL,Yes,Two year,3566.6,No
+7975-TZMLR,Male,Yes,Fiber optic,Yes,One year,4889.3,No
+0295-QVKPB,Male,Yes,DSL,Yes,Month-to-month,318.1,No
+2311-QYMUQ,Female,Yes,Fiber optic,Yes,Month-to-month,1430.25,Yes
+3643-AHCFP,Male,Yes,Fiber optic,Yes,Month-to-month,644.35,Yes
+3104-OWCGK,Male,Yes,Fiber optic,Yes,One year,5453.4,Yes
+9101-BWFSS,Female,Yes,Fiber optic,Yes,One year,5610.7,Yes
+2672-TGEFF,Female,Yes,Fiber optic,Yes,Month-to-month,3340.55,No
+9231-ZJYAM,Female,Yes,Fiber optic,Yes,Month-to-month,292.8,Yes
+6092-QZVPP,Male,Yes,DSL,Yes,Month-to-month,2854.95,No
+0727-BMPLR,Female,Yes,Fiber optic,Yes,One year,5509.3,Yes
+0392-BZIUW,Female,Yes,Fiber optic,Yes,Two year,7589.8,No
+3027-ZTDHO,Male,Yes,Fiber optic,Yes,Month-to-month,89.9,Yes
+6916-HIJSE,Female,Yes,DSL,Yes,Two year,5459.2,No
+9778-OGKQZ,Male,Yes,DSL,Yes,Two year,6782.15,No
+7408-OFWXJ,Female,Yes,DSL,Yes,Two year,6510.45,No
+6007-TCTST,Female,Yes,Fiber optic,Yes,Two year,8476.5,No
+2252-NKNSI,Male,Yes,DSL,Yes,Two year,4461.85,No
+7905-TVXTA,Female,Yes,DSL,Yes,Month-to-month,352.65,No
+2382-BCKQJ,Female,Yes,Fiber optic,Yes,One year,6413.65,Yes
+8374-UULRV,Male,Yes,DSL,Yes,Two year,6309.65,No
+9944-HKVVB,Female,Yes,Fiber optic,Yes,Month-to-month,307.4,Yes
+4124-MMETB,Male,Yes,Fiber optic,Yes,Month-to-month,2104.55,Yes
+1937-OTUKY,Female,Yes,Fiber optic,Yes,Two year,7015.9,No
+1573-LGXBA,Male,Yes,Fiber optic,Yes,One year,5598,No
+4713-ZBURT,Male,Yes,Fiber optic,Yes,Two year,4634.35,No
+0207-MDKNV,Female,Yes,Fiber optic,Yes,Month-to-month,1582.75,Yes
+9851-KIELU,Male,Yes,Fiber optic,Yes,Month-to-month,1043.3,Yes
+3199-NPKCN,Female,Yes,Fiber optic,Yes,One year,7511.65,No
+2123-AGEEN,Female,Yes,Fiber optic,Yes,Month-to-month,609.65,No
+1258-YMZNM,Female,Yes,Fiber optic,Yes,One year,2857.6,No
+0048-LUMLS,Male,Yes,Fiber optic,Yes,One year,3247.55,No
+7549-MYGPK,Female,Yes,Fiber optic,Yes,Month-to-month,6215.35,Yes
+3804-RVTGV,Male,Yes,Fiber optic,Yes,Month-to-month,5017.9,Yes
+8975-SKGRX,Male,Yes,Fiber optic,Yes,Two year,8310.55,No
+0678-RLHVP,Female,Yes,Fiber optic,Yes,Two year,5682.25,No
+4315-MURBD,Female,Yes,Fiber optic,Yes,Month-to-month,1120.95,Yes
+9734-YWGEX,Female,Yes,Fiber optic,Yes,Month-to-month,923.5,Yes
+2719-BDAQO,Male,Yes,Fiber optic,Yes,Month-to-month,1625.65,Yes
+5285-MVEHD,Female,Yes,Fiber optic,Yes,One year,6068.65,No
+0379-DJQHR,Male,Yes,DSL,Yes,Two year,5398.6,No
+0781-LKXBR,Male,Yes,Fiber optic,Yes,Month-to-month,918.6,Yes
+5543-QDCRY,Male,Yes,DSL,Yes,Month-to-month,234.85,No
+0835-JKADZ,Female,Yes,Fiber optic,Yes,Two year,7984.15,No
+7508-SMHXL,Female,Yes,Fiber optic,Yes,Month-to-month,1288.3,No
+3865-YIOTT,Male,Yes,Fiber optic,Yes,One year,7848.5,No
+5149-TGWDZ,Female,Yes,Fiber optic,Yes,One year,2239.4,No
+9199-PWQVC,Female,Yes,DSL,Yes,One year,4786.15,No
+0862-PRCBS,Female,Yes,Fiber optic,Yes,Two year,7039.45,No
+6630-UJZMY,Female,Yes,Fiber optic,Yes,Month-to-month,308.05,No
+5709-LVOEQ,Female,Yes,DSL,Yes,Two year,,No
+2692-AQCPF,Female,Yes,Fiber optic,Yes,One year,7118.9,No
+6353-BRMMA,Female,Yes,Fiber optic,Yes,Month-to-month,5645.8,No
+9904-EHEVJ,Female,Yes,Fiber optic,Yes,Month-to-month,2896.55,No
+7028-DVOIQ,Male,Yes,Fiber optic,Yes,Month-to-month,3395.8,Yes
+5382-SOYZL,Male,Yes,Fiber optic,Yes,Month-to-month,2162.6,No
+5651-YLPRD,Female,Yes,Fiber optic,Yes,Month-to-month,2723.75,No
+9489-UTFKA,Male,Yes,DSL,Yes,Month-to-month,551.95,No
+9889-TMAHG,Male,Yes,Fiber optic,Yes,Month-to-month,832.35,Yes
+3429-IFLEM,Female,Yes,DSL,Yes,Two year,5550.1,No
+3158-MOERK,Female,Yes,Fiber optic,Yes,Month-to-month,174.8,Yes
+7294-TMAOP,Female,Yes,Fiber optic,Yes,Month-to-month,90.55,Yes
+5002-GCQFH,Male,Yes,Fiber optic,Yes,Month-to-month,4733.1,No
+0556-FJEGU,Male,Yes,DSL,Yes,Two year,4048.95,No
+0604-THJFP,Female,Yes,DSL,Yes,Two year,4542.35,No
+2834-JRTUA,Male,Yes,Fiber optic,Yes,Two year,7532.15,Yes
+6646-QVXLR,Male,Yes,Fiber optic,Yes,One year,6383.35,Yes
+1374-DMZUI,Female,Yes,Fiber optic,Yes,Month-to-month,424.45,Yes
+3234-VKACU,Male,Yes,DSL,Yes,Month-to-month,132.4,No
+8357-EQXFO,Female,Yes,Fiber optic,Yes,Month-to-month,660.9,Yes
+2858-EIMXH,Female,Yes,Fiber optic,Yes,One year,5016.25,No
+8818-XYFCQ,Male,Yes,Fiber optic,Yes,Month-to-month,3204.65,Yes
+7426-RHZGU,Male,Yes,Fiber optic,Yes,Month-to-month,827.45,No
+8242-SOQUO,Female,Yes,Fiber optic,Yes,Month-to-month,392.5,No
+7868-TMWMZ,Female,Yes,Fiber optic,Yes,Two year,6668.35,No
+4822-RVYBB,Male,Yes,Fiber optic,Yes,Month-to-month,819.4,Yes
+6732-FZUGP,Female,Yes,Fiber optic,Yes,One year,4615.25,No
+8436-BJUMM,Male,Yes,Fiber optic,Yes,Month-to-month,2070.6,Yes
+4184-TJFAN,Female,Yes,Fiber optic,Yes,Month-to-month,273.75,Yes
+1352-VHKAJ,Male,Yes,DSL,Yes,Month-to-month,1957.1,No
+4145-UQXUQ,Female,Yes,Fiber optic,Yes,Month-to-month,729.95,Yes
+8146-QQKZH,Female,Yes,DSL,Yes,Two year,5924.4,No
+6445-TNRXS,Male,Yes,Fiber optic,Yes,Two year,7849.85,No
+1236-WFCDV,Male,Yes,Fiber optic,Yes,Month-to-month,1266.1,Yes
+3524-WQDSG,Female,Yes,Fiber optic,Yes,Month-to-month,4209.95,No
+0810-DHDBD,Female,Yes,DSL,Yes,One year,3877.65,No
+7013-PSXHK,Female,Yes,DSL,Yes,One year,3208.65,No
+5981-ITEMU,Male,Yes,Fiber optic,Yes,Month-to-month,3706.95,Yes
+1624-WOIWJ,Female,Yes,Fiber optic,Yes,Month-to-month,832.05,Yes
+2074-GKOWZ,Male,Yes,Fiber optic,Yes,Month-to-month,185.55,Yes
+0376-YMCJC,Male,Yes,Fiber optic,Yes,Month-to-month,1943.2,Yes
+4829-ZLJTK,Female,Yes,Fiber optic,Yes,Two year,8046.85,No
+7143-BQIBA,Male,Yes,DSL,Yes,Month-to-month,612.95,No
+0634-SZPQA,Female,Yes,Fiber optic,Yes,Month-to-month,2169.8,Yes
+5536-RTPWK,Male,Yes,Fiber optic,Yes,Month-to-month,4853.75,Yes
+0655-RBDUG,Male,Yes,Fiber optic,Yes,Month-to-month,713,Yes
+4361-BKAXE,Female,Yes,Fiber optic,Yes,Month-to-month,4527.45,Yes
+1751-NCDLI,Male,Yes,Fiber optic,Yes,Month-to-month,4564.9,No
+8999-BOHSE,Female,Yes,Fiber optic,Yes,Month-to-month,1047.7,Yes
+7029-RPUAV,Male,Yes,Fiber optic,Yes,Month-to-month,1622.45,Yes
+9036-CSKBW,Female,Yes,Fiber optic,Yes,One year,5680.9,No
+5832-TRLPB,Male,Yes,DSL,Yes,One year,2243.9,No
+1338-CECEE,Male,Yes,DSL,Yes,One year,2839.95,No
+7439-DKZTW,Male,Yes,Fiber optic,Yes,Month-to-month,80.55,No
+4646-QZXTF,Female,Yes,DSL,Yes,Month-to-month,580.1,No
+4607-CHPCA,Male,Yes,Fiber optic,Yes,One year,2178.6,Yes
+7722-CVFXN,Male,Yes,Fiber optic,Yes,One year,5637.85,No
+4159-NAAIX,Female,Yes,Fiber optic,Yes,Two year,6253,No
+2176-LVPNX,Female,Yes,DSL,Yes,Two year,6293.45,No
+3312-UUMZW,Male,Yes,Fiber optic,Yes,Month-to-month,3145.9,No
+6891-JPYFF,Female,Yes,Fiber optic,Yes,Month-to-month,4997.5,No
+3696-XRIEN,Female,Yes,DSL,Yes,One year,4179.1,No
+8111-SLLHI,Male,Yes,Fiber optic,Yes,Month-to-month,4284.8,Yes
+3452-ABWRL,Male,Yes,Fiber optic,Yes,Month-to-month,3865.6,No
+8257-RZAHR,Female,Yes,DSL,Yes,Month-to-month,941,Yes
+5293-WXJAK,Female,Yes,Fiber optic,Yes,Month-to-month,1133.65,Yes
+1779-PWPMG,Female,Yes,Fiber optic,Yes,Two year,8333.95,No
+0774-IFUVM,Male,Yes,DSL,Yes,Month-to-month,723.35,No
+9553-DLCLU,Female,Yes,DSL,Yes,Two year,1161.75,No
+0411-EZJZE,Female,Yes,DSL,Yes,Month-to-month,170.5,No
+7851-WZEKY,Female,Yes,Fiber optic,Yes,Month-to-month,196.9,Yes
+8844-TONUD,Male,Yes,Fiber optic,Yes,Month-to-month,1162.85,Yes
+4320-QMLLA,Male,Yes,DSL,Yes,Month-to-month,370.4,No
+8777-PVYGU,Female,Yes,DSL,Yes,One year,3410.6,No
+6870-ZWMNX,Male,Yes,DSL,Yes,Two year,5264.25,No
+5268-DSMNQ,Female,Yes,Fiber optic,Yes,One year,5936.55,No
+4086-YQSNZ,Female,Yes,Fiber optic,Yes,Month-to-month,224.05,Yes
+6242-MBHPK,Female,Yes,Fiber optic,Yes,Month-to-month,2326.05,No
+0135-NMXAP,Female,Yes,Fiber optic,Yes,Month-to-month,1052.4,Yes
+9127-FHJBZ,Male,Yes,Fiber optic,Yes,Two year,8093.15,No
+6270-OMFIW,Male,Yes,Fiber optic,Yes,One year,5610.25,Yes
+1641-RQDAY,Female,Yes,Fiber optic,Yes,Month-to-month,3217.65,No
+3992-YWPKO,Female,Yes,Fiber optic,Yes,Month-to-month,669.45,Yes
+2933-XEUJM,Female,Yes,DSL,Yes,Two year,3593.8,No
+0125-LZQXK,Male,Yes,Fiber optic,Yes,Month-to-month,1553.95,Yes
+5461-QKNTN,Male,Yes,Fiber optic,Yes,Month-to-month,3953.15,No
+8399-YNDCH,Male,Yes,DSL,Yes,Month-to-month,1236.15,Yes
+0887-WBJVH,Female,Yes,Fiber optic,Yes,One year,4872.2,No
+4660-IRIBM,Male,Yes,Fiber optic,Yes,Month-to-month,1500.5,No
+8089-UZWLX,Female,Yes,Fiber optic,Yes,Two year,7413.55,No
+0080-OROZO,Female,Yes,Fiber optic,Yes,One year,3532,No
+6807-SIWJI,Male,Yes,Fiber optic,Yes,One year,3887.25,No
+1579-KLYDT,Male,Yes,Fiber optic,Yes,Month-to-month,593.45,Yes
+5232-NXPAY,Female,Yes,DSL,Yes,Two year,3510.3,No
+0455-ENTCR,Male,Yes,DSL,Yes,Two year,5538.35,No
+5370-IIVVL,Male,Yes,Fiber optic,Yes,One year,3778,No
+3927-NLNRY,Male,Yes,Fiber optic,Yes,One year,4867.95,Yes
+0013-MHZWF,Female,Yes,DSL,Yes,Month-to-month,571.45,No
+5494-HECPR,Female,Yes,Fiber optic,Yes,Month-to-month,80.25,Yes
+7979-CORPM,Male,Yes,Fiber optic,Yes,Month-to-month,2282.55,Yes
+2294-DMMUS,Female,Yes,DSL,Yes,Month-to-month,4300.45,No
+9091-WTUUY,Male,Yes,DSL,Yes,Two year,4447.75,No
+2040-VZIKE,Female,Yes,Fiber optic,Yes,Month-to-month,4847.35,No
+0178-SZBHO,Male,Yes,Fiber optic,Yes,Month-to-month,4017.45,No
+1689-MRZQR,Male,Yes,Fiber optic,Yes,Month-to-month,2564.3,Yes
+4525-VZCZG,Male,Yes,Fiber optic,Yes,One year,5826.65,No
+1543-LLLFT,Male,Yes,Fiber optic,Yes,One year,6066.55,No
+5565-FILXA,Female,Yes,Fiber optic,Yes,Month-to-month,1529.2,Yes
+0319-QZTCO,Female,Yes,DSL,Yes,Month-to-month,168.6,No
+6507-ZJSUR,Male,Yes,Fiber optic,Yes,Month-to-month,2117.25,No
+9408-HRXRK,Female,Yes,Fiber optic,Yes,Month-to-month,4730.9,No
+7321-PKUYW,Female,Yes,Fiber optic,Yes,Month-to-month,987.95,Yes
+6766-HFKLA,Female,Yes,Fiber optic,Yes,Two year,5744.35,No
+9220-ZNKJI,Female,Yes,Fiber optic,Yes,Two year,4805.3,No
+2226-ICFDO,Female,Yes,DSL,Yes,Two year,6110.75,No
+4187-CINZD,Female,Yes,Fiber optic,Yes,One year,4424.2,Yes
+6244-BESBM,Male,Yes,Fiber optic,Yes,Two year,6671.7,No
+1004-NoZNR,Male,Yes,Fiber optic,Yes,One year,5264.3,No
+2612-PHGOX,Male,Yes,DSL,Yes,Two year,4818.8,No
+2408-TZMJL,Male,Yes,Fiber optic,Yes,One year,6448.05,Yes
+8480-PPONV,Male,Yes,Fiber optic,Yes,Two year,7159.05,No
+7182-OVLBJ,Female,Yes,Fiber optic,Yes,Two year,6638.35,No
+7005-CYUIL,Female,Yes,Fiber optic,Yes,Two year,7168.25,No
+2388-LAESQ,Female,Yes,Fiber optic,Yes,Two year,8317.95,No
+6260-ONULR,Male,Yes,DSL,Yes,Month-to-month,62.8,No
+4389-UEFCZ,Female,Yes,Fiber optic,Yes,Two year,7544,No
+9134-CEQMF,Male,Yes,Fiber optic,Yes,Month-to-month,676.7,Yes
+8985-OOPOS,Female,Yes,DSL,Yes,One year,74.1,No
+8800-ZKRFW,Female,Yes,Fiber optic,Yes,Month-to-month,3242.5,No
+3108-PCCGG,Male,Yes,DSL,Yes,Two year,5899.85,No
+8390-FESFV,Female,Yes,DSL,Yes,Two year,5193.2,No
+3022-BEXHZ,Male,Yes,Fiber optic,Yes,Two year,7530.8,No
+6248-TKCQV,Female,Yes,DSL,Yes,Two year,5460.2,No
+6729-GDNGC,Female,Yes,Fiber optic,Yes,Month-to-month,1614.2,No
+1291-CUOCY,Male,Yes,Fiber optic,Yes,Two year,7962.2,No
+3230-IUALN,Female,Yes,DSL,Yes,Two year,3533.6,No
+4945-RVMTE,Female,Yes,DSL,Yes,Month-to-month,1646.45,No
+0201-OAMXR,Female,Yes,Fiber optic,Yes,One year,8127.6,Yes
+3372-KWFBM,Male,Yes,Fiber optic,Yes,Month-to-month,1281,Yes
+7831-QGOXH,Female,Yes,Fiber optic,Yes,Month-to-month,1553.9,Yes
+6393-WRYZE,Female,Yes,Fiber optic,Yes,Month-to-month,3207.55,Yes
+6599-RCLCJ,Male,Yes,Fiber optic,Yes,Month-to-month,5124.55,Yes
+4791-QRGMF,Male,Yes,Fiber optic,Yes,One year,5961.1,Yes
+3838-OZURD,Male,Yes,Fiber optic,Yes,Month-to-month,7133.25,Yes
+9269-CQOOL,Male,Yes,DSL,Yes,Month-to-month,169.45,Yes
+7690-KPNCU,Male,Yes,DSL,Yes,One year,4688.65,No
+2293-IJWPS,Female,Yes,Fiber optic,Yes,One year,5985,No
+1184-PJVDB,Male,Yes,Fiber optic,Yes,Month-to-month,857.2,Yes
+9415-DPEWS,Female,Yes,Fiber optic,Yes,Month-to-month,1639.3,Yes
+7130-YXBRO,Male,Yes,Fiber optic,Yes,Month-to-month,5315.1,No
+7943-RQCHR,Female,Yes,Fiber optic,Yes,Month-to-month,889.9,Yes
+3793-MMFUH,Female,Yes,Fiber optic,Yes,Month-to-month,1290,Yes
+3084-DOWLE,Female,Yes,DSL,Yes,Two year,6474.4,No
+1084-MNSMJ,Female,Yes,DSL,Yes,Two year,4421.95,No
+7249-WBIYX,Male,Yes,Fiber optic,Yes,Month-to-month,813.85,Yes
+6567-HOOPW,Female,Yes,Fiber optic,Yes,Month-to-month,79.2,Yes
+9793-WECQC,Male,Yes,Fiber optic,Yes,Month-to-month,2192.9,No
+8999-YPYBV,Male,Yes,DSL,Yes,Two year,3858.05,No
+3164-AALRN,Male,Yes,DSL,Yes,One year,347.4,Yes
+3071-MVJCD,Male,Yes,DSL,Yes,Two year,5815.15,No
+1697-BCSHV,Female,Yes,DSL,Yes,Month-to-month,3970.4,No
+1131-SUEKT,Male,Yes,Fiber optic,Yes,One year,6145.2,No
+9432-RUVSL,Female,Yes,Fiber optic,Yes,Two year,4904.25,No
+8060-HIWJJ,Male,Yes,DSL,Yes,Two year,5632.55,No
+9089-UOWJG,Female,Yes,DSL,Yes,Month-to-month,740.55,No
+2272-JKMSI,Female,Yes,Fiber optic,Yes,One year,6840.95,No
+0471-LVHGK,Male,Yes,DSL,Yes,One year,3001.2,Yes
+9518-RWHZL,Female,Yes,Fiber optic,Yes,One year,6254.2,Yes
+5419-CONWX,Female,Yes,Fiber optic,Yes,Month-to-month,442.85,Yes
+2373-NTKOD,Male,Yes,DSL,Yes,Month-to-month,546.45,No
+5678-VFNEQ,Female,Yes,Fiber optic,Yes,One year,7412.25,No
+7024-OHCCK,Female,Yes,Fiber optic,Yes,Month-to-month,170.85,Yes
+2692-BUCFV,Male,Yes,Fiber optic,Yes,Month-to-month,2948.6,No
+7861-UVUFT,Female,Yes,Fiber optic,Yes,Month-to-month,1308.4,Yes
+5302-BDJNT,Male,Yes,Fiber optic,Yes,Month-to-month,3418.2,No
+5223-UZAVK,Male,Yes,Fiber optic,Yes,One year,6603.8,No
+8785-CJSHH,Female,Yes,Fiber optic,Yes,Month-to-month,5985.75,No
+3870-SPZSI,Female,Yes,Fiber optic,Yes,Two year,7869.05,No
+0680-DFNNY,Male,Yes,Fiber optic,Yes,Month-to-month,1504.05,Yes
+7077-XJMET,Male,Yes,DSL,Yes,Month-to-month,741.4,No
+6718-BDGHG,Female,Yes,DSL,Yes,One year,2908.2,No
+6439-LAJXL,Male,Yes,DSL,Yes,Month-to-month,593.85,No
+1571-SAVHK,Male,Yes,Fiber optic,Yes,Month-to-month,1132.75,Yes
+9052-VKDUW,Female,Yes,Fiber optic,Yes,Month-to-month,7227.45,No
+9546-CQJSU,Female,Yes,Fiber optic,Yes,Month-to-month,193.6,Yes
+2480-EJWYP,Female,Yes,Fiber optic,Yes,One year,5458.8,No
+3253-HKOKL,Female,Yes,Fiber optic,Yes,One year,5244.45,No
+5514-YQENT,Male,Yes,Fiber optic,Yes,Two year,4507.15,No
+3211-AAPKX,Male,Yes,Fiber optic,Yes,Month-to-month,2031.95,No
+6890-PFRQX,Male,Yes,DSL,Yes,Month-to-month,1199.4,No
+5899-OUVKV,Male,Yes,Fiber optic,Yes,Month-to-month,2979.2,No
+3473-XIIIT,Female,Yes,Fiber optic,Yes,Month-to-month,1534.75,Yes
+6362-QHAFM,Male,Yes,Fiber optic,Yes,One year,4586.15,No
+3070-BDOQC,Female,Yes,Fiber optic,Yes,Two year,5941.05,No
+6234-PFPXL,Male,Yes,Fiber optic,Yes,Month-to-month,2234.95,No
+8970-ANWXO,Female,Yes,DSL,Yes,One year,1756.6,No
+5394-SVGJV,Male,Yes,Fiber optic,Yes,Month-to-month,3475.55,Yes
+9777-WJJPR,Male,Yes,Fiber optic,Yes,Month-to-month,2683.2,No
+7079-QRCBC,Female,Yes,Fiber optic,Yes,Month-to-month,2407.3,Yes
+6048-UWKAL,Female,Yes,Fiber optic,Yes,Two year,6998.95,No
+5469-CTCWN,Male,Yes,Fiber optic,Yes,One year,6547.7,Yes
+9851-QXEEQ,Male,Yes,Fiber optic,Yes,Month-to-month,4346.4,Yes
+9290-SHCMB,Female,Yes,Fiber optic,Yes,Month-to-month,1235.55,No
+2277-BKJKN,Female,Yes,Fiber optic,Yes,Two year,7213.75,No
+9809-IMGCQ,Male,Yes,Fiber optic,Yes,Month-to-month,2082.95,Yes
+5035-PGZXH,Female,Yes,Fiber optic,Yes,One year,5914.4,No
+8016-ZMGMO,Female,Yes,DSL,Yes,One year,4738.85,No
+3254-YRILK,Male,Yes,Fiber optic,Yes,Month-to-month,1775.8,Yes
+0481-SUMCB,Female,Yes,Fiber optic,Yes,One year,4735.35,No
+9314-IJWSQ,Female,Yes,Fiber optic,Yes,Month-to-month,1203.9,No
+6198-RTPMF,Female,Yes,Fiber optic,Yes,Month-to-month,1579.7,No
+2924-KHUVI,Male,Yes,Fiber optic,Yes,One year,5514.95,No
+1656-DRSMG,Female,Yes,Fiber optic,Yes,Month-to-month,7002.95,No
+2984-AFWNC,Female,Yes,Fiber optic,Yes,Month-to-month,293.15,No
+2882-WDTBA,Male,Yes,DSL,Yes,Two year,5388.15,No
+2091-GPPIQ,Female,Yes,DSL,Yes,Two year,5730.15,No
+6326-MTTXK,Male,Yes,Fiber optic,Yes,Month-to-month,819.55,Yes
+5193-QLVZB,Male,Yes,Fiber optic,Yes,Two year,6536.5,No
+2886-KEFUM,Female,Yes,Fiber optic,Yes,One year,6873.75,Yes
+5522-NYKPB,Male,Yes,Fiber optic,Yes,Month-to-month,2199.05,No
+2245-ADZFJ,Female,Yes,DSL,Yes,Two year,2471.6,No
+9651-GTSAQ,Female,Yes,Fiber optic,Yes,One year,5769.75,Yes
+3186-BAXNB,Female,Yes,Fiber optic,Yes,Month-to-month,91.7,Yes
+2660-EMUBI,Male,Yes,Fiber optic,Yes,Month-to-month,898.35,Yes
+4751-ERMAN,Male,Yes,DSL,Yes,Two year,5480.25,No
+1436-ZMJAN,Female,Yes,DSL,Yes,Month-to-month,653.15,No
+3292-PBZEJ,Male,Yes,Fiber optic,Yes,Month-to-month,1183.05,No
+2003-CKLOR,Male,Yes,Fiber optic,Yes,Month-to-month,6710.5,Yes
+9254-RBFON,Female,Yes,Fiber optic,Yes,One year,1704.95,Yes
+1205-WNWPJ,Female,Yes,DSL,Yes,Month-to-month,415.95,Yes
+5127-BZENZ,Female,Yes,DSL,Yes,One year,3512.15,No
+4522-XRWWI,Male,Yes,DSL,Yes,One year,3375.9,No
+3766-EJLFL,Female,Yes,Fiber optic,Yes,Two year,7508.55,No
+8152-UOBNY,Female,Yes,Fiber optic,Yes,One year,5347.95,No
+7351-KYHQH,Female,Yes,DSL,Yes,Month-to-month,493.65,No
+8387-MOJJT,Female,Yes,Fiber optic,Yes,Month-to-month,3384,Yes
+5327-CNLUQ,Male,Yes,Fiber optic,Yes,Two year,4473.45,No
+5816-JMLGY,Female,Yes,DSL,Yes,Two year,5717.85,No
+3068-OMWZA,Male,Yes,Fiber optic,Yes,Month-to-month,88.8,Yes
+2927-QRRQV,Male,Yes,Fiber optic,Yes,One year,4312.5,No
+6032-KRXXO,Male,Yes,Fiber optic,Yes,Month-to-month,2755.35,Yes
+6265-SXWBU,Male,Yes,Fiber optic,Yes,One year,6511.25,No
+6374-NTQLP,Male,Yes,Fiber optic,Yes,Two year,7447.7,No
+3584-WKTTW,Male,Yes,Fiber optic,Yes,One year,5720.35,No
+1971-DTCZB,Female,Yes,DSL,Yes,Two year,6468.6,No
+8017-LXHFA,Female,Yes,Fiber optic,Yes,Month-to-month,2293.6,Yes
+6352-TWCAU,Female,Yes,Fiber optic,Yes,Month-to-month,3029.1,Yes
+6035-RIIOM,Female,Yes,Fiber optic,Yes,Two year,5129.45,No
+2929-QNSRW,Female,Yes,Fiber optic,Yes,One year,5508.35,Yes
+6267-DCFFZ,Female,Yes,Fiber optic,Yes,Month-to-month,2627.2,No
+2439-LYPMQ,Male,Yes,Fiber optic,Yes,Month-to-month,4009.2,No
+1899-VXWXM,Male,Yes,Fiber optic,Yes,One year,5082.8,Yes
+2988-PLAHS,Female,Yes,DSL,Yes,One year,220.45,No
+5980-BDHPY,Male,Yes,DSL,Yes,Two year,6230.1,No
+3331-HQDTW,Female,Yes,Fiber optic,Yes,Month-to-month,3587.25,Yes
+9490-DFPMD,Female,Yes,Fiber optic,Yes,Month-to-month,3541.35,Yes
+5442-XSDCW,Male,Yes,Fiber optic,Yes,Month-to-month,868.5,Yes
+8580-AECUZ,Male,Yes,Fiber optic,Yes,Month-to-month,79.1,Yes
+1228-FZFRV,Male,Yes,Fiber optic,Yes,Month-to-month,5341.8,Yes
+3761-FLYZI,Female,Yes,Fiber optic,Yes,Month-to-month,7082.45,No
+5364-XYIRR,Male,Yes,Fiber optic,Yes,Month-to-month,4812.75,Yes
+4829-AUOAX,Female,Yes,Fiber optic,Yes,Month-to-month,4399.5,Yes
+9659-QEQSY,Female,Yes,Fiber optic,Yes,Month-to-month,5125.5,No
+1442-OKRJE,Male,Yes,Fiber optic,Yes,One year,7031.3,No
+9158-VCTQB,Female,Yes,Fiber optic,Yes,Month-to-month,4594.95,Yes
+6311-UEUME,Female,Yes,Fiber optic,Yes,Month-to-month,2384.15,Yes
+9225-BZLNZ,Male,Yes,DSL,Yes,Two year,6083.1,No
+5740-YHGTW,Male,Yes,Fiber optic,Yes,Month-to-month,6669.05,No
+7359-WWYJV,Male,Yes,Fiber optic,Yes,Two year,8375.05,No
+4906-ZHGPK,Male,Yes,DSL,Yes,One year,3770,No
+3795-GWTRD,Female,Yes,DSL,Yes,Two year,4707.85,No
+6097-EQISJ,Female,Yes,Fiber optic,Yes,One year,6615.15,Yes
+4423-YLHDV,Female,Yes,Fiber optic,Yes,Month-to-month,2200.25,Yes
+0107-YHINA,Male,Yes,Fiber optic,Yes,Month-to-month,99.75,Yes
+0727-BNRLG,Male,Yes,Fiber optic,Yes,Two year,6743.55,No
+8640-SDGKB,Male,Yes,DSL,Yes,Month-to-month,299.7,Yes
+3280-MRDOF,Male,Yes,DSL,Yes,Two year,2093.9,No
+2081-VEYEH,Male,Yes,Fiber optic,Yes,Month-to-month,318.6,No
+6407-UTSLV,Female,Yes,Fiber optic,Yes,Month-to-month,163.7,No
+7398-SKNQZ,Female,Yes,Fiber optic,Yes,Month-to-month,273.2,No
+5935-FCCNB,Female,Yes,Fiber optic,Yes,Month-to-month,1608.15,No
+5136-RGMZO,Male,Yes,DSL,Yes,Month-to-month,2168.15,No
+8345-MVDYC,Female,Yes,DSL,Yes,Two year,3618.7,No
+3877-JRJIP,Male,Yes,DSL,Yes,Month-to-month,59.85,Yes
+9705-IOVQQ,Male,Yes,Fiber optic,Yes,One year,5969.3,No
+2040-XBAVJ,Male,Yes,Fiber optic,Yes,Two year,8100.55,No
+5318-IXUZF,Female,Yes,Fiber optic,Yes,Month-to-month,183.75,Yes
+8952-WCVCD,Female,Yes,Fiber optic,Yes,One year,4162.05,No
+3963-RYFNS,Female,Yes,Fiber optic,Yes,Two year,8013.55,No
+1320-REHCS,Male,Yes,Fiber optic,Yes,Month-to-month,5832,No
+9436-ZBZCT,Male,Yes,Fiber optic,Yes,Month-to-month,1178.4,Yes
+3658-QQJYD,Male,Yes,DSL,Yes,One year,4698.05,No
+0134-XWXCE,Female,Yes,DSL,Yes,One year,3268.05,No
+9470-XCCEM,Male,Yes,Fiber optic,Yes,Month-to-month,3161.6,No
+0409-WTMPL,Female,Yes,Fiber optic,Yes,One year,6526.65,No
+3669-WHAFY,Female,Yes,Fiber optic,Yes,Two year,8078.1,No
+7279-BUYWN,Female,Yes,Fiber optic,Yes,Month-to-month,4689.5,Yes
+7156-MHUGY,Male,Yes,Fiber optic,Yes,Month-to-month,1201.15,Yes
+7198-GLXTC,Male,Yes,Fiber optic,Yes,Month-to-month,143.65,Yes
+2307-FYNNL,Male,Yes,Fiber optic,Yes,Two year,7108.2,No
+5091-HFAZW,Female,Yes,Fiber optic,Yes,Month-to-month,168.5,No
+2519-LBNQL,Male,Yes,Fiber optic,Yes,One year,6339.45,No
+1568-LJSZU,Male,Yes,DSL,Yes,Two year,6392.85,No
+7789-HKSBS,Female,Yes,Fiber optic,Yes,One year,4599.15,No
+8401-EMUWF,Male,Yes,DSL,Yes,Month-to-month,3058.3,No
+5377-NDTOU,Female,Yes,DSL,Yes,Two year,6293.75,No
+2474-LCNUE,Female,Yes,DSL,Yes,Month-to-month,1642.75,No
+9172-ANCRX,Female,Yes,Fiber optic,Yes,Month-to-month,973.25,Yes
+2085-BOJKI,Male,Yes,Fiber optic,Yes,One year,1588.25,No
+0817-HSUSE,Male,Yes,DSL,Yes,Month-to-month,75.5,No
+5663-QBGIS,Male,Yes,Fiber optic,Yes,Two year,6929.4,No
+4911-BANWH,Female,Yes,Fiber optic,Yes,Month-to-month,2697.4,Yes
+6365-MTGZX,Male,Yes,Fiber optic,Yes,Month-to-month,2122.45,Yes
+6990-YNRIO,Male,Yes,Fiber optic,Yes,Two year,6937.95,Yes
+6959-GQEGV,Male,Yes,DSL,Yes,Month-to-month,3273.8,No
+1265-HVPZB,Male,Yes,DSL,Yes,One year,3958.2,No
+7064-FRRSW,Male,Yes,Fiber optic,Yes,One year,4744.35,No
+7940-UQQUG,Female,Yes,Fiber optic,Yes,One year,6721.6,No
+0923-PNFUB,Female,Yes,Fiber optic,Yes,Month-to-month,247.25,Yes
+0973-KYVNF,Female,Yes,DSL,Yes,Two year,5011.15,No
+5129-HHMZC,Female,Yes,DSL,Yes,Two year,3574.5,No
+9637-CDTKZ,Male,Yes,Fiber optic,Yes,Two year,8086.4,No
+3946-JEWRQ,Male,Yes,Fiber optic,Yes,One year,4563,No
+7873-CVMAW,Male,Yes,DSL,Yes,Two year,6362.35,No
+8840-DQLGN,Female,Yes,Fiber optic,Yes,Month-to-month,3653.35,Yes
+3638-VBZTA,Male,Yes,DSL,Yes,Two year,5882.75,No
+1951-IEYXM,Male,Yes,DSL,Yes,Two year,6441.85,No
+3318-NMQXL,Male,Yes,Fiber optic,Yes,Month-to-month,266.8,No
+2272-UOINI,Female,Yes,DSL,Yes,Month-to-month,571.05,No
+5668-MEISB,Female,Yes,Fiber optic,Yes,Two year,7657.4,No
+7188-CBBBA,Female,Yes,Fiber optic,Yes,One year,6153.85,No
+5356-CSVSQ,Female,Yes,DSL,Yes,Month-to-month,174.2,No
+3219-JQRSL,Female,Yes,DSL,Yes,Two year,6352.4,No
+6732-VAILE,Male,Yes,DSL,Yes,Two year,5931.75,No
+8201-AAXCB,Male,Yes,DSL,Yes,Month-to-month,1404.65,No
+1845-CSBRZ,Female,Yes,Fiber optic,Yes,Month-to-month,1961.6,No
+2123-VSCOT,Female,Yes,DSL,Yes,Two year,4194.85,No
+6651-AZVTJ,Male,Yes,Fiber optic,Yes,Month-to-month,4872.45,Yes
+4566-GOLUK,Male,Yes,Fiber optic,Yes,Month-to-month,5118.95,Yes
+7409-JURKQ,Female,Yes,Fiber optic,Yes,One year,5809.75,No
+7449-HVPIV,Male,Yes,Fiber optic,Yes,Month-to-month,5099.15,No
+8466-PZBLH,Male,Yes,Fiber optic,Yes,Two year,6885.75,No
+9614-RMGHA,Male,Yes,Fiber optic,Yes,Month-to-month,5940.85,Yes
+0701-RFGFI,Female,Yes,Fiber optic,Yes,Month-to-month,4613.95,No
+0019-EFAEP,Female,Yes,Fiber optic,Yes,Two year,7261.25,No
+3511-APPBJ,Male,Yes,Fiber optic,Yes,One year,2292.75,No
+5447-WZAFP,Female,Yes,Fiber optic,Yes,One year,5200.8,No
+5445-UTODQ,Female,Yes,Fiber optic,Yes,Month-to-month,576.65,Yes
+9675-ICXCT,Male,Yes,DSL,Yes,Two year,5728.55,No
+9497-QCMMS,Male,Yes,Fiber optic,Yes,Month-to-month,93.55,Yes
+5692-ICXLW,Male,Yes,Fiber optic,Yes,Month-to-month,2845.15,No
+0602-DDUML,Female,Yes,DSL,Yes,Two year,3894.4,No
+0348-SDKOL,Female,Yes,Fiber optic,Yes,Month-to-month,5885.4,Yes
+7336-RLLRH,Male,Yes,DSL,Yes,One year,2204.35,No
+5419-KLXBN,Female,Yes,Fiber optic,Yes,Month-to-month,2257.75,Yes
+3424-NMNBO,Male,Yes,Fiber optic,Yes,One year,6287.25,Yes
+4514-GFCFI,Female,Yes,Fiber optic,Yes,Month-to-month,1350.15,Yes
+0607-MVMGC,Male,Yes,DSL,Yes,One year,3600.65,No
+3365-SAIGS,Female,Yes,Fiber optic,Yes,Month-to-month,1329.15,No
+0266-CLZKZ,Female,Yes,Fiber optic,Yes,Two year,6717.9,No
+1447-PJGGA,Female,Yes,Fiber optic,Yes,Two year,5464.65,Yes
+8565-CLBZW,Male,Yes,Fiber optic,Yes,Month-to-month,2165.05,Yes
+9139-WQQDY,Female,Yes,Fiber optic,Yes,One year,4941.8,Yes
+7639-OPLNG,Male,Yes,DSL,Yes,Two year,5731.85,No
+1492-QGCLU,Male,Yes,DSL,Yes,Month-to-month,4616.1,No
+6845-RGTYS,Female,Yes,Fiber optic,Yes,Month-to-month,4533.7,Yes
+7694-VLBWQ,Male,Yes,Fiber optic,Yes,One year,7040.85,Yes
+2546-KZAAT,Male,Yes,DSL,Yes,One year,3865.45,No
+0181-RITDD,Male,Yes,Fiber optic,Yes,Two year,6825.65,No
+8272-ONJLV,Male,Yes,Fiber optic,Yes,One year,1184,No
+1488-PBLJN,Female,Yes,Fiber optic,Yes,Two year,8477.7,No
+0308-GIQJT,Male,Yes,Fiber optic,Yes,One year,7382.85,No
+3753-TSEMP,Female,Yes,Fiber optic,Yes,Month-to-month,1390.6,Yes
+9172-JITSM,Female,Yes,Fiber optic,Yes,Month-to-month,2361.8,Yes
+7398-HPYZQ,Male,Yes,DSL,Yes,Two year,6404,No
+7519-JTWQH,Female,Yes,Fiber optic,Yes,Two year,7455.45,No
+8543-MSDMF,Male,Yes,DSL,Yes,Month-to-month,206.15,No
+9961-JBNMK,Male,Yes,Fiber optic,Yes,Month-to-month,2030.3,Yes
+2038-LLMLM,Female,Yes,Fiber optic,Yes,Month-to-month,4946.05,No
+1216-BGTSP,Male,Yes,Fiber optic,Yes,Month-to-month,4964.7,No
+2189-UXTKY,Female,Yes,DSL,Yes,Month-to-month,1742.75,Yes
+0744-BIKKF,Male,Yes,DSL,Yes,Two year,6224.8,No
+7483-IQWIB,Male,Yes,Fiber optic,Yes,Month-to-month,3415.25,No
+5248-KWLAR,Male,Yes,DSL,Yes,Two year,6325.25,No
+7833-PKIHD,Male,Yes,DSL,Yes,One year,3966.3,No
+5153-RTHKF,Female,Yes,Fiber optic,Yes,Month-to-month,2896.6,No
+4832-VRBMR,Male,Yes,Fiber optic,Yes,One year,6792.45,No
+9079-LWTFD,Male,Yes,Fiber optic,Yes,Month-to-month,4669.2,No
+6356-ELRKD,Female,Yes,Fiber optic,Yes,Month-to-month,95.6,Yes
+3392-EHMNK,Female,Yes,Fiber optic,Yes,Two year,6302.8,No
+6179-GJPSO,Female,Yes,Fiber optic,Yes,Month-to-month,4600.7,Yes
+7901-TBKJX,Male,Yes,Fiber optic,Yes,Month-to-month,5594,No
+5804-HYIEZ,Male,Yes,Fiber optic,Yes,Month-to-month,7554.05,No
+9919-FZDED,Male,Yes,DSL,Yes,Two year,5981.65,No
+8290-YWKHZ,Female,Yes,Fiber optic,Yes,Month-to-month,2931,Yes
+2955-BJZHG,Male,Yes,Fiber optic,Yes,Month-to-month,1400.85,Yes
+9300-RENDD,Male,Yes,Fiber optic,Yes,Month-to-month,79.95,Yes
+8087-LGYHQ,Male,Yes,Fiber optic,Yes,Month-to-month,811.65,No
+6227-FBDXH,Male,Yes,Fiber optic,Yes,One year,6841.45,No
+8984-HPEMB,Female,Yes,Fiber optic,Yes,Two year,8477.6,No
+4123-FCVCB,Female,Yes,DSL,Yes,One year,854.45,No
+8311-UEUAB,Female,Yes,DSL,Yes,Two year,5229.45,No
+1163-ONYEY,Male,Yes,DSL,Yes,Month-to-month,3023.55,No
+8945-MUQUF,Male,Yes,Fiber optic,Yes,One year,4837.6,Yes
+4010-YLMVT,Female,Yes,Fiber optic,Yes,Month-to-month,5893.95,No
+1379-FRVEB,Male,Yes,Fiber optic,Yes,Month-to-month,1430.05,No
+8160-HOWOX,Female,Yes,DSL,Yes,Month-to-month,458.1,No
+4079-VTGLK,Male,Yes,DSL,Yes,Two year,2181.75,No
+8894-JVDCV,Female,Yes,Fiber optic,Yes,One year,7133.45,No
+2014-MKGMH,Female,Yes,Fiber optic,Yes,One year,4674.4,No
+1784-EZDKJ,Male,Yes,Fiber optic,Yes,One year,5498.8,No
+9297-FVVDH,Female,Yes,DSL,Yes,Two year,4845.4,No
+7101-HRBLJ,Female,Yes,DSL,Yes,Two year,6096.9,No
+6635-CPNUN,Male,Yes,Fiber optic,Yes,Month-to-month,2684.35,No
+4021-RQSNY,Male,Yes,Fiber optic,Yes,Month-to-month,3004.15,Yes
+5453-YBTWV,Male,Yes,Fiber optic,Yes,Two year,6994.8,No
+9061-TIHDA,Male,Yes,Fiber optic,Yes,Month-to-month,1233.65,Yes
+6418-PIQSP,Female,Yes,DSL,Yes,Two year,4985.9,No
+7927-AUXBZ,Female,Yes,Fiber optic,Yes,Month-to-month,2555.9,Yes
+1136-XGEQU,Female,Yes,DSL,Yes,One year,4164.4,No
+2530-FMFXO,Male,Yes,Fiber optic,Yes,Two year,5873.75,No
+8879-XUAHX,Male,Yes,Fiber optic,Yes,Two year,8564.75,No
+5003-XZWWO,Male,Yes,DSL,Yes,Two year,5956.85,No
+3988-RQIXO,Female,Yes,Fiber optic,Yes,Month-to-month,91.3,Yes
+7622-FWGEW,Male,Yes,DSL,Yes,Two year,4824.45,No
+2514-GINMM,Male,Yes,Fiber optic,Yes,Month-to-month,79.5,Yes
+6296-DDOOR,Female,Yes,DSL,Yes,One year,1045.25,No
+7951-VRDVK,Female,Yes,DSL,Yes,One year,3003.55,No
+2659-VXMWZ,Male,Yes,Fiber optic,Yes,One year,7482.1,Yes
+0380-NEAVX,Male,Yes,Fiber optic,Yes,One year,3343.15,No
+4285-GYRQC,Female,Yes,Fiber optic,Yes,Month-to-month,587.1,Yes
+7216-EWTRS,Female,Yes,Fiber optic,Yes,Month-to-month,100.8,Yes
+7036-TYDEC,Female,Yes,Fiber optic,Yes,Two year,7028.5,No
+5802-ADBRC,Female,Yes,Fiber optic,Yes,One year,5232.9,No
+8495-LJDFO,Female,Yes,Fiber optic,Yes,Month-to-month,7111.3,No
+0839-JTCUD,Female,Yes,DSL,Yes,Two year,5958.85,No
+5494-WOZRZ,Female,Yes,DSL,Yes,Two year,5999.85,No
+1302-UHBDD,Male,Yes,Fiber optic,Yes,Month-to-month,1648.45,No
+2234-EOFPT,Male,Yes,DSL,Yes,Two year,5753.25,No
+8378-LKJAF,Male,Yes,Fiber optic,Yes,Month-to-month,3956.7,No
+3597-YASZG,Female,Yes,Fiber optic,Yes,Two year,7349.35,No
+8097-VBQTZ,Male,Yes,DSL,Yes,Month-to-month,3883.3,No
+9917-KWRBE,Female,Yes,DSL,Yes,One year,3211.2,No
+1393-IMKZG,Female,Yes,Fiber optic,Yes,Month-to-month,95.85,No
+3398-GCPMU,Female,Yes,DSL,Yes,Two year,6448.85,No
+1013-QCWAM,Female,Yes,Fiber optic,Yes,Month-to-month,6690.75,No
+6050-FFXES,Female,Yes,Fiber optic,Yes,Two year,7240.65,No
+7181-BQYBV,Female,Yes,Fiber optic,Yes,Month-to-month,102.45,Yes
+5527-ACHSO,Female,Yes,DSL,Yes,Month-to-month,829.3,No
+1399-UBQIU,Male,Yes,DSL,Yes,Month-to-month,712.25,No
+0336-PIKEI,Male,Yes,DSL,Yes,Two year,5360.75,No
+2054-PJOCK,Female,Yes,DSL,Yes,One year,4847.05,No
+4529-CKBCL,Female,Yes,Fiber optic,Yes,Month-to-month,146.05,Yes
+7176-WRTNX,Male,Yes,Fiber optic,Yes,Two year,7711.25,No
+1583-IHQZE,Male,Yes,Fiber optic,Yes,Month-to-month,1384.75,Yes
+5732-IKGQH,Male,Yes,Fiber optic,Yes,One year,5481.25,No
+9239-GZHZE,Female,Yes,Fiber optic,Yes,Two year,8124.2,No
+4140-MUHUG,Female,Yes,Fiber optic,Yes,Month-to-month,220.95,Yes
+0093-EXYQL,Female,Yes,Fiber optic,Yes,Month-to-month,3673.6,No
+0320-JDNQG,Male,Yes,Fiber optic,Yes,Month-to-month,2331.3,Yes
+9168-INPSZ,Female,Yes,Fiber optic,Yes,Month-to-month,4495.65,No
+3571-RFHAR,Male,Yes,Fiber optic,Yes,Month-to-month,6941.2,Yes
+2754-SDJRD,Female,Yes,Fiber optic,Yes,Month-to-month,908.55,No
+1587-FKLZB,Male,Yes,Fiber optic,Yes,Month-to-month,6822.15,Yes
+5440-FLBQG,Male,Yes,Fiber optic,Yes,Two year,7318.2,Yes
+2135-DQWAQ,Female,Yes,Fiber optic,Yes,Month-to-month,420.45,No
+4056-QHXHZ,Female,Yes,Fiber optic,Yes,Two year,7576.7,No
+7488-MXJIV,Female,Yes,Fiber optic,Yes,Month-to-month,321.65,Yes
+7401-JIXNM,Female,Yes,DSL,Yes,Two year,4965,No
+9339-FIIJL,Male,Yes,DSL,Yes,Two year,6151.9,No
+2027-FECZV,Male,Yes,Fiber optic,Yes,Month-to-month,1253.9,Yes
+3870-MQAMG,Female,Yes,Fiber optic,Yes,One year,5893.15,Yes
+4800-CZMPC,Female,Yes,Fiber optic,Yes,One year,5037.55,Yes
+7579-KKLOE,Male,Yes,DSL,Yes,Two year,6589.6,No
+8402-EIVQS,Male,Yes,Fiber optic,Yes,One year,6733.15,No
+4947-DSMXK,Male,Yes,Fiber optic,Yes,Month-to-month,3410,No
+0002-ORFBO,Female,Yes,DSL,Yes,One year,593.3,No
+3324-OIRTO,Male,Yes,Fiber optic,Yes,One year,7288.4,No
+5414-OFQCB,Male,Yes,Fiber optic,Yes,Two year,5229.8,No
+8552-OBVRU,Female,Yes,Fiber optic,Yes,Month-to-month,5068.05,No
+9154-QDGTH,Male,Yes,Fiber optic,Yes,One year,4451.85,No
+8197-BFWVU,Female,Yes,DSL,Yes,Two year,6688.95,No
+2577-GVSIL,Male,Yes,DSL,Yes,One year,2661.1,No
+6463-HHXJR,Female,Yes,Fiber optic,Yes,Two year,7030.65,No
+7928-VJYAB,Male,Yes,Fiber optic,Yes,Month-to-month,1020.2,No
+1187-WILMM,Male,Yes,DSL,Yes,Two year,5597.65,No
+9776-OJUZI,Female,Yes,Fiber optic,Yes,Month-to-month,6223.3,No
+8949-JTMAY,Female,Yes,Fiber optic,Yes,Month-to-month,2933.2,Yes
+2266-SJNAT,Female,Yes,Fiber optic,Yes,One year,7789.6,No
+0869-PAPRP,Female,Yes,Fiber optic,Yes,Month-to-month,2067,No
+4238-JSSWH,Female,Yes,Fiber optic,Yes,Month-to-month,3452.55,No
+5499-ECUTN,Female,Yes,DSL,Yes,One year,3021.45,No
+9121-PHQSR,Male,Yes,Fiber optic,Yes,Month-to-month,1391.15,No
+4612-THJBS,Female,Yes,Fiber optic,Yes,One year,5510.65,Yes
+4094-NSEDU,Female,Yes,Fiber optic,Yes,Month-to-month,1973.75,Yes
+4304-TSPVK,Female,Yes,Fiber optic,Yes,Two year,7843.55,No
+1552-AAGRX,Female,Yes,Fiber optic,Yes,Month-to-month,3211.9,No
+8739-XNIKG,Female,Yes,Fiber optic,Yes,Month-to-month,424.75,No
+2616-UUTFK,Male,Yes,DSL,Yes,Month-to-month,2447.45,No
+7268-IGMFD,Male,Yes,Fiber optic,Yes,Month-to-month,1743.9,No
+0235-KGSLC,Female,Yes,Fiber optic,Yes,Month-to-month,85.55,Yes
+6650-BWFRT,Female,Yes,Fiber optic,Yes,Two year,8529.5,No
+6993-YGFJV,Male,Yes,Fiber optic,Yes,Two year,7806.5,No
+0730-BGQGF,Male,Yes,DSL,Yes,Two year,6287.3,No
+0013-SMEOE,Female,Yes,Fiber optic,Yes,Two year,7904.25,No
+9314-QDMDW,Male,Yes,DSL,Yes,One year,729.95,No
+3757-NJYBX,Male,Yes,Fiber optic,Yes,Month-to-month,3520.75,Yes
+3413-DHLPB,Male,Yes,Fiber optic,Yes,Month-to-month,5969.95,No
+6734-GMPVK,Male,Yes,Fiber optic,Yes,Month-to-month,550.6,No
+6161-ERDGD,Male,Yes,DSL,Yes,One year,6300.85,No
+7318-EIVKO,Male,Yes,DSL,Yes,Month-to-month,436.6,No
+3771-PZOBW,Male,Yes,Fiber optic,Yes,Month-to-month,1781.35,No
+5136-KCKGI,Female,Yes,Fiber optic,Yes,One year,3467,Yes
+6486-LHTMA,Female,Yes,Fiber optic,Yes,One year,2835.5,No
+3722-WPXTK,Male,Yes,Fiber optic,Yes,Month-to-month,88.35,Yes
+0310-SUCIN,Female,Yes,DSL,Yes,One year,6046.1,No
+5197-PYEPU,Female,Yes,Fiber optic,Yes,One year,3923.8,No
+2929-ERCFZ,Female,Yes,Fiber optic,Yes,Month-to-month,777.3,Yes
+7548-SEPYI,Female,Yes,Fiber optic,Yes,Month-to-month,512.45,Yes
+6901-GOGZG,Male,Yes,DSL,Yes,Two year,4984.85,No
+9898-KZQDZ,Female,Yes,Fiber optic,Yes,Month-to-month,3640.45,Yes
+8982-NHAVY,Male,Yes,Fiber optic,Yes,One year,2673.45,No
+5236-PERKL,Female,Yes,Fiber optic,Yes,Two year,6465,Yes
+2519-FAKOD,Male,Yes,Fiber optic,Yes,Month-to-month,3777.15,Yes
+9481-SFCQY,Female,Yes,DSL,Yes,Month-to-month,824.85,No
+7089-IVVAZ,Female,Yes,Fiber optic,Yes,Month-to-month,847.3,Yes
+9050-IKDZA,Female,Yes,Fiber optic,Yes,Month-to-month,162.55,No
+2205-YMZZJ,Male,Yes,Fiber optic,Yes,Month-to-month,546.95,Yes
+9802-CAQUT,Female,Yes,Fiber optic,Yes,Two year,7887.25,No
+1254-IZEYF,Female,Yes,Fiber optic,Yes,Month-to-month,3186.65,Yes
+9492-TOKRI,Female,Yes,Fiber optic,Yes,Month-to-month,1527.35,Yes
+9221-OTIVJ,Female,Yes,Fiber optic,Yes,Month-to-month,1531.4,Yes
+1357-MVDOZ,Male,Yes,DSL,Yes,Month-to-month,683.25,No
+7602-MVRMB,Female,Yes,Fiber optic,Yes,Two year,8058.85,No
+3325-FUYCG,Male,Yes,Fiber optic,Yes,One year,2847.4,Yes
+5198-EFNBM,Male,Yes,Fiber optic,Yes,One year,5199.8,No
+7516-GMHUV,Male,Yes,Fiber optic,Yes,Two year,5163.3,No
+6559-RAKOZ,Male,Yes,Fiber optic,Yes,One year,4917.9,No
+1323-OOEPC,Female,Yes,Fiber optic,Yes,Month-to-month,5149.5,Yes
+5630-IXDXV,Female,Yes,Fiber optic,Yes,Month-to-month,4849.1,No
+9135-MGVPY,Male,Yes,DSL,Yes,Two year,5878.9,No
+0397-GZBBC,Male,Yes,Fiber optic,Yes,Month-to-month,5574.75,Yes
+7641-EUYET,Male,Yes,Fiber optic,Yes,Month-to-month,4541.2,Yes
+7641-TQFHN,Male,Yes,Fiber optic,Yes,Two year,3895.35,No
+6061-GWWAV,Male,Yes,DSL,Yes,One year,2894.55,No
+0679-TDGAK,Male,Yes,DSL,Yes,One year,4025.6,No
+9405-GPBBG,Female,Yes,Fiber optic,Yes,Two year,7069.25,No
+8869-LIHMK,Female,Yes,Fiber optic,Yes,Two year,7334.05,No
+8245-UMPYT,Female,Yes,Fiber optic,Yes,Month-to-month,1581.2,Yes
+0447-RXSGD,Male,Yes,Fiber optic,Yes,Month-to-month,2404.85,No
+4927-WWOOZ,Male,Yes,Fiber optic,Yes,Month-to-month,171.45,No
+5788-YPOEG,Female,Yes,DSL,Yes,Two year,2839.45,No
+0661-KBKPA,Male,Yes,DSL,Yes,One year,3942.45,No
+4277-PVRAN,Female,Yes,Fiber optic,Yes,Month-to-month,679.3,Yes
+0722-SVSFK,Female,Yes,Fiber optic,Yes,Month-to-month,715,No
+9825-YCXWZ,Female,Yes,Fiber optic,Yes,One year,4016.2,No
+2000-DHJUY,Female,Yes,DSL,Yes,Two year,6474.45,No
+8670-ERCJH,Male,Yes,Fiber optic,Yes,Two year,8164.1,No
+7055-JCGNI,Female,Yes,Fiber optic,Yes,Two year,7795.95,No
+4826-DXMUP,Male,Yes,DSL,Yes,One year,2495.15,No
+0952-KMEEH,Male,Yes,Fiber optic,Yes,Month-to-month,1230.25,Yes
+7285-KLOTR,Female,Yes,DSL,Yes,One year,876.75,No
+0654-PQKDW,Female,Yes,DSL,Yes,One year,4263.45,No
+7175-NTIXE,Female,Yes,DSL,Yes,Month-to-month,1992.95,No
+1849-RJYIG,Female,Yes,DSL,Yes,Month-to-month,487.75,No
+8263-QMNTJ,Male,Yes,Fiber optic,Yes,Two year,8425.3,No
+3230-JCNZS,Female,Yes,Fiber optic,Yes,Two year,7061.65,No
+5130-IEKQT,Male,Yes,Fiber optic,Yes,Month-to-month,2655.25,Yes
+3230-WYKIR,Male,Yes,DSL,Yes,One year,1425.45,Yes
+3227-WLKLI,Female,Yes,DSL,Yes,Two year,5963.95,No
+0407-BDJKB,Male,Yes,Fiber optic,Yes,Month-to-month,5742.9,Yes
+9600-UDOPK,Male,Yes,Fiber optic,Yes,Month-to-month,2866.45,Yes
+8216-AZUUZ,Female,Yes,Fiber optic,Yes,Two year,4303.65,No
+3269-ATYWD,Male,Yes,Fiber optic,Yes,Month-to-month,3759.05,Yes
+1074-AMIOH,Female,Yes,Fiber optic,Yes,Month-to-month,5935.1,No
+4910-GMJOT,Female,Yes,Fiber optic,Yes,Month-to-month,94.6,Yes
+0354-WYROK,Female,Yes,Fiber optic,Yes,Month-to-month,2911.3,Yes
+7748-UMTRK,Female,Yes,Fiber optic,Yes,Month-to-month,2974.5,No
+7145-FEJWU,Female,Yes,Fiber optic,Yes,Month-to-month,1275.65,No
+6463-MVYRY,Female,Yes,DSL,Yes,Two year,4003,No
+3969-JQABI,Female,Yes,DSL,Yes,Month-to-month,3791.6,No
+8384-FZBJK,Female,Yes,Fiber optic,Yes,Month-to-month,5611.7,No
+3096-YXENJ,Female,Yes,Fiber optic,Yes,Two year,7082.85,No
+1265-BCFEO,Female,Yes,DSL,Yes,Two year,5662.25,No
+5837-LXSDN,Female,Yes,DSL,Yes,One year,1215.45,No
+5945-AZYHT,Male,Yes,Fiber optic,Yes,One year,7854.15,No
+1135-HIORI,Female,Yes,Fiber optic,Yes,One year,7266.95,No
+0164-APGRB,Female,Yes,Fiber optic,Yes,Two year,8496.7,No
+6481-ESCNL,Female,Yes,Fiber optic,Yes,Month-to-month,2878.75,No
+1550-EENBN,Female,Yes,Fiber optic,Yes,Month-to-month,3205.6,No
+4446-BZKHU,Male,Yes,Fiber optic,Yes,Month-to-month,6281.45,Yes
+8198-RKSZG,Female,Yes,DSL,Yes,Month-to-month,1137.05,No
+9297-EONCV,Female,Yes,DSL,Yes,Two year,6697.2,No
+3336-JORSO,Female,Yes,Fiber optic,Yes,Month-to-month,3655.45,Yes
+7799-DSEWS,Male,Yes,DSL,Yes,Month-to-month,1299.8,No
+8766-PAFNE,Male,Yes,DSL,Yes,Two year,5564.85,No
+6861-XWTWQ,Male,Yes,Fiber optic,Yes,Month-to-month,665.45,Yes
+4837-QUSFT,Female,Yes,Fiber optic,Yes,One year,6643.5,No
+6877-TJMBR,Male,Yes,Fiber optic,Yes,Month-to-month,84.8,Yes
+0907-HQNTS,Female,Yes,Fiber optic,Yes,Two year,7987.6,No
+6769-DCQLI,Male,Yes,Fiber optic,Yes,One year,5426.85,Yes
+5893-PYOLZ,Male,Yes,DSL,Yes,Two year,4534.45,No
+4873-ILOLJ,Male,Yes,Fiber optic,Yes,Month-to-month,2238.5,Yes
+9481-WHGWY,Female,Yes,DSL,Yes,Two year,5437.75,No
+2725-KXXWT,Male,Yes,Fiber optic,Yes,Month-to-month,90.75,Yes
+9565-DJPIB,Female,Yes,Fiber optic,Yes,Month-to-month,365.65,Yes
+3166-PNEOF,Female,Yes,DSL,Yes,Two year,5175.3,No
+5140-FOMCQ,Female,Yes,Fiber optic,Yes,One year,6557.75,No
+6242-SGYTS,Male,Yes,Fiber optic,Yes,One year,5791.85,No
+8414-OOEEL,Male,Yes,DSL,Yes,Two year,5196.1,No
+8454-AATJP,Female,Yes,Fiber optic,Yes,Two year,8405,No
+4531-AUZNK,Female,Yes,Fiber optic,Yes,One year,5000.05,No
+4191-XOVOM,Male,Yes,Fiber optic,Yes,Month-to-month,6713.2,No
+8429-XIBUM,Male,Yes,Fiber optic,Yes,Month-to-month,2317.1,Yes
+6997-UVGOX,Male,Yes,DSL,Yes,Two year,6029.9,No
+5440-VHLUL,Male,Yes,Fiber optic,Yes,One year,7386.05,No
+5781-BKHOP,Female,Yes,Fiber optic,Yes,Two year,7334.05,No
+8628-MFKAX,Female,Yes,Fiber optic,Yes,Two year,8277.05,No
+2397-BRLOM,Male,Yes,Fiber optic,Yes,Month-to-month,583.45,Yes
+6461-SZMCV,Female,Yes,DSL,Yes,Two year,6365.35,No
+9508-ILZDG,Female,Yes,Fiber optic,Yes,Month-to-month,3190.25,No
+7938-OUHIO,Male,Yes,Fiber optic,Yes,Month-to-month,293.65,Yes
+8510-AWCXC,Female,Yes,Fiber optic,Yes,Month-to-month,1308.1,Yes
+0431-APWVY,Female,Yes,Fiber optic,Yes,One year,2598.95,Yes
+0244-LGNFY,Female,Yes,DSL,Yes,Two year,6733,No
+4295-YURET,Female,Yes,DSL,Yes,Two year,4084.35,No
+3387-VATUS,Male,Yes,Fiber optic,Yes,Month-to-month,462.8,Yes
+1169-SAOCL,Male,Yes,Fiber optic,Yes,One year,5168.1,No
+1110-KYLGQ,Female,Yes,Fiber optic,Yes,Month-to-month,6780.1,No
+3518-PZXZQ,Female,Yes,DSL,Yes,Month-to-month,55.3,No
+5074-FBGHB,Male,Yes,Fiber optic,Yes,One year,6889.8,No
+2351-BKRZW,Female,Yes,DSL,Yes,Two year,3254.35,No
+4455-BFSPD,Female,Yes,Fiber optic,Yes,One year,6383.9,No
+1724-BQUHA,Male,Yes,Fiber optic,Yes,Month-to-month,477.7,Yes
+2323-ARSVR,Male,Yes,Fiber optic,Yes,Two year,7321.05,No
+0815-MFZGM,Female,Yes,Fiber optic,Yes,Two year,4135,No
+4826-XTSOH,Male,Yes,Fiber optic,Yes,Month-to-month,86.05,Yes
+9086-YJYXS,Male,Yes,DSL,Yes,One year,2753.8,No
+6857-VWJDT,Female,Yes,Fiber optic,Yes,Month-to-month,95.65,Yes
+8929-KSWIH,Male,Yes,Fiber optic,Yes,Two year,2513.5,No
+1229-RCALF,Female,Yes,Fiber optic,Yes,One year,7396.15,No
+6100-QQHEB,Male,Yes,Fiber optic,Yes,Month-to-month,1515.1,Yes
+3470-OBUET,Female,Yes,DSL,Yes,Two year,4868.4,No
+2691-NZETQ,Male,Yes,Fiber optic,Yes,Month-to-month,758.6,Yes
+4404-HIBDJ,Female,Yes,DSL,Yes,One year,1863.8,Yes
+7037-MTYVW,Male,Yes,DSL,Yes,Two year,3297,No
+7295-JOMMD,Female,Yes,Fiber optic,Yes,Month-to-month,396.3,Yes
+4016-BJKTZ,Female,Yes,Fiber optic,Yes,Two year,2809.05,No
+0581-MDMPW,Female,Yes,Fiber optic,Yes,Month-to-month,2072.75,No
+5013-SBUIH,Female,Yes,Fiber optic,Yes,Two year,5551.15,Yes
+1023-BQXZE,Male,Yes,DSL,Yes,Two year,4317.35,No
+0058-EVZWM,Female,Yes,Fiber optic,Yes,Month-to-month,4959.6,No
+6023-YEBUP,Male,Yes,Fiber optic,Yes,Month-to-month,329.95,Yes
+7209-JCUDS,Male,Yes,Fiber optic,Yes,Month-to-month,1048.85,Yes
+1017-FBQMM,Female,Yes,Fiber optic,Yes,One year,6703.5,No
+3001-CBHLQ,Male,Yes,Fiber optic,Yes,Month-to-month,3351.55,Yes
+3259-QMXUN,Male,Yes,DSL,Yes,Two year,4890.5,No
+6645-MXQJT,Male,Yes,Fiber optic,Yes,Month-to-month,184.15,No
+8433-WPJTV,Female,Yes,Fiber optic,Yes,One year,6767.1,No
+3763-GCZHZ,Male,Yes,Fiber optic,Yes,One year,6890,Yes
+0772-GYEQQ,Male,Yes,Fiber optic,Yes,Month-to-month,262.05,Yes
+0536-ACXIP,Female,Yes,Fiber optic,Yes,Two year,8165.1,No
+4831-EOBFE,Male,Yes,Fiber optic,Yes,Month-to-month,2649.15,Yes
+2454-RPBRZ,Female,Yes,Fiber optic,Yes,Month-to-month,1060.2,Yes
+0635-WKOLD,Male,Yes,DSL,Yes,One year,2921.75,No
+6988-CJEYV,Male,Yes,Fiber optic,Yes,Month-to-month,4920.55,No
+2265-CYWIV,Female,Yes,Fiber optic,Yes,Month-to-month,347.65,Yes
+2277-DJJDL,Male,Yes,Fiber optic,Yes,Month-to-month,6017.9,No
+1897-OKVMW,Female,Yes,DSL,Yes,Two year,5817.45,No
+5485-ITNPC,Male,Yes,DSL,Yes,Two year,5595.3,No
+4644-PIZRT,Male,Yes,DSL,Yes,One year,1201.65,No
+6963-EZQEE,Male,Yes,DSL,Yes,Two year,6306.5,No
+2452-KDRRH,Male,Yes,Fiber optic,Yes,Month-to-month,6841.05,No
+1564-HJUVY,Male,Yes,DSL,Yes,Month-to-month,226.2,No
+3617-XLSGQ,Female,Yes,Fiber optic,Yes,Two year,7082.5,No
+5226-NoZFC,Male,Yes,Fiber optic,Yes,Month-to-month,2146.5,No
+2672-HUYVI,Female,Yes,Fiber optic,Yes,Month-to-month,455.3,Yes
+1400-WIVLL,Male,Yes,Fiber optic,Yes,Two year,5969.85,No
+7508-MYBOG,Male,Yes,Fiber optic,Yes,Month-to-month,1235.55,Yes
+0148-DCDOS,Male,Yes,Fiber optic,Yes,Month-to-month,2362.1,Yes
+0310-MVLET,Female,Yes,Fiber optic,Yes,Month-to-month,6010.05,Yes
+0428-IKYCP,Male,Yes,Fiber optic,Yes,Month-to-month,1850.65,No
+4550-VBOFE,Male,Yes,Fiber optic,Yes,Month-to-month,7101.5,Yes
+6652-YFFJO,Female,Yes,DSL,Yes,Month-to-month,716.1,No
+5248-RPYWW,Female,Yes,DSL,Yes,Two year,6716.45,No
+7923-IYJWY,Male,Yes,Fiber optic,Yes,Two year,7839.85,No
+3170-GWYKC,Female,Yes,Fiber optic,Yes,Month-to-month,6236.75,No
+7765-LWVVH,Female,Yes,Fiber optic,Yes,Two year,6843.15,No
+0611-DFXKO,Male,Yes,Fiber optic,Yes,Month-to-month,1820.45,Yes
+7780-OTDSO,Male,Yes,Fiber optic,Yes,Month-to-month,1742.95,Yes
+0484-FFVBJ,Male,Yes,DSL,Yes,One year,2010.95,No
+9453-PATOS,Female,Yes,DSL,Yes,Two year,6155.4,No
+0564-JJHGS,Male,Yes,Fiber optic,Yes,Month-to-month,829.1,Yes
+3348-CFRNX,Female,Yes,Fiber optic,Yes,Month-to-month,2602.9,Yes
+4402-FTBXC,Male,Yes,Fiber optic,Yes,Month-to-month,4667,No
+2931-XIQBR,Female,Yes,Fiber optic,Yes,One year,5153.5,No
+0106-UGRDO,Female,Yes,Fiber optic,Yes,Two year,8182.85,No
+8059-UDZFY,Female,Yes,Fiber optic,Yes,Month-to-month,3465.05,No
+7740-BTPUX,Male,Yes,Fiber optic,Yes,Two year,6292.7,No
+9435-JMLSX,Male,Yes,DSL,Yes,Two year,6045.9,No
+3352-ALMCK,Male,Yes,Fiber optic,Yes,Month-to-month,4108.15,No
+6176-YJWAS,Male,Yes,Fiber optic,Yes,Two year,7114.25,No
+5131-PONJI,Male,Yes,Fiber optic,Yes,Month-to-month,4494.65,No
+2845-AFFTX,Male,Yes,Fiber optic,Yes,Month-to-month,4259.3,Yes
+2249-YPRNG,Female,Yes,Fiber optic,Yes,Month-to-month,2239.65,Yes
+4626-GYCZP,Male,Yes,Fiber optic,Yes,Month-to-month,635.6,Yes
+5649-RXQTV,Male,Yes,Fiber optic,Yes,Month-to-month,5038.15,No
+7587-AOVVU,Male,Yes,Fiber optic,Yes,Month-to-month,2793.55,No
+5590-BYNII,Male,Yes,Fiber optic,Yes,Month-to-month,2095,Yes
+7663-CUXZB,Male,Yes,Fiber optic,Yes,Two year,6561.25,No
+1163-VIPRI,Female,Yes,Fiber optic,Yes,Two year,7337.55,No
+9348-ROUAI,Female,Yes,DSL,Yes,Two year,5194.05,No
+0596-BQCEQ,Female,Yes,Fiber optic,Yes,Month-to-month,6283.3,Yes
+4674-HGNUA,Male,Yes,DSL,Yes,Two year,6457.15,No
+9786-IJYDL,Female,Yes,Fiber optic,Yes,Two year,3914.05,No
+6295-OSINB,Male,Yes,Fiber optic,Yes,Two year,7880.25,No
+2207-QPJED,Female,Yes,Fiber optic,Yes,Month-to-month,3371.75,No
+1891-FZYSA,Male,Yes,Fiber optic,Yes,Month-to-month,6143.15,Yes
+7613-LLQFO,Male,Yes,Fiber optic,Yes,Month-to-month,1059.55,Yes
+9513-DXHDA,Male,Yes,DSL,Yes,One year,2212.55,No
+3801-HMYNL,Male,Yes,Fiber optic,Yes,Month-to-month,89.15,Yes
+2065-MMKGR,Female,Yes,DSL,Yes,One year,2080.1,No
+5857-TYBCJ,Male,Yes,Fiber optic,Yes,Month-to-month,4040.2,No
+1498-NHTLT,Male,Yes,DSL,Yes,Two year,5186,No
+0238-WHBIQ,Male,Yes,DSL,Yes,Two year,6339.3,No
+6127-ISGTU,Female,Yes,Fiber optic,Yes,Month-to-month,1378.25,Yes
+1761-AEZZR,Male,Yes,Fiber optic,Yes,Month-to-month,79.55,Yes
+5795-KTGUD,Female,Yes,Fiber optic,Yes,Two year,7553.6,No
+7120-RFMVS,Male,Yes,Fiber optic,Yes,Month-to-month,84.5,Yes
+5897-ZYEKH,Female,Yes,Fiber optic,Yes,One year,7112.15,No
+7317-GGVPB,Male,Yes,Fiber optic,Yes,Two year,7690.9,Yes
+8715-KKTFG,Female,Yes,Fiber optic,Yes,One year,6518.35,No
+5117-ZSMHQ,Female,Yes,DSL,Yes,Two year,6342.7,No
+0960-HUWBM,Male,Yes,Fiber optic,Yes,Two year,6700.05,No
+6465-GSRCL,Female,Yes,Fiber optic,Yes,One year,7244.7,No
+0263-FJTQO,Male,Yes,DSL,Yes,Two year,3486.65,No
+8118-LSUEL,Male,Yes,Fiber optic,Yes,Month-to-month,2483.5,Yes
+1666-JXLKU,Female,Yes,Fiber optic,Yes,Month-to-month,3810.55,No
+9224-VTYID,Male,Yes,DSL,Yes,Two year,4318.35,No
+5569-IDSEY,Male,Yes,Fiber optic,Yes,One year,7472.15,No
+5277-ZLOOR,Female,Yes,Fiber optic,Yes,Month-to-month,187.45,Yes
+2141-RRYGO,Female,Yes,DSL,Yes,Month-to-month,261.25,Yes
+6376-GAHQE,Male,Yes,Fiber optic,Yes,Month-to-month,299.2,Yes
+5052-PNLOS,Male,Yes,Fiber optic,Yes,Month-to-month,323.25,Yes
+6979-ZNSFF,Female,Yes,Fiber optic,Yes,Month-to-month,762.1,Yes
+5751-USDBL,Male,Yes,DSL,Yes,Two year,3846.35,No
+5680-LQOGP,Female,Yes,DSL,Yes,Two year,5646.6,No
+2386-LAHRK,Male,Yes,DSL,Yes,Month-to-month,53.5,Yes
+1898-JSNDC,Female,Yes,DSL,Yes,One year,2224.5,No
+7271-AJDTL,Female,Yes,Fiber optic,Yes,Month-to-month,5073.1,No
+5038-ETMLM,Female,Yes,Fiber optic,Yes,Two year,8182.75,No
+5056-FIMPT,Female,Yes,Fiber optic,Yes,One year,4532.3,No
+8809-RIHDD,Male,Yes,Fiber optic,Yes,Two year,7372.65,Yes
+0396-YCHWO,Male,Yes,Fiber optic,Yes,Month-to-month,3474.2,No
+0867-LDTTC,Male,Yes,DSL,Yes,Month-to-month,392.65,No
+9844-FELAJ,Female,Yes,Fiber optic,Yes,One year,7475.85,No
+5307-DZCVC,Female,Yes,Fiber optic,Yes,Month-to-month,2628.6,Yes
+8679-JOEVF,Female,Yes,DSL,Yes,Month-to-month,1023.9,Yes
+3889-VWBID,Male,Yes,DSL,Yes,Two year,5776.45,No
+7080-TNUWP,Male,Yes,Fiber optic,Yes,One year,6602.9,No
+0496-AHOOK,Male,Yes,DSL,Yes,One year,1712.9,No
+4803-AXVYP,Female,Yes,Fiber optic,Yes,Month-to-month,3734.25,Yes
+4567-AKPIA,Female,Yes,Fiber optic,Yes,One year,4454.25,No
+5924-IFQTT,Male,Yes,DSL,Yes,Month-to-month,930.05,No
+4236-XPXAV,Female,Yes,Fiber optic,Yes,Month-to-month,465.05,Yes
+8903-WMRNW,Female,Yes,Fiber optic,Yes,Month-to-month,1669.4,No
+5150-ITWWB,Male,Yes,Fiber optic,Yes,Month-to-month,335.75,No
+6429-SHBCB,Male,Yes,DSL,Yes,Month-to-month,1394.55,No
+2603-HVKCG,Male,Yes,Fiber optic,Yes,Month-to-month,3143.65,No
+4578-PHJYZ,Male,Yes,DSL,Yes,One year,3482.85,No
+7272-QDCKA,Male,Yes,Fiber optic,Yes,One year,2688.45,No
+8393-DLHGA,Male,Yes,Fiber optic,Yes,Month-to-month,2448.75,Yes
+2834-SPCJV,Male,Yes,Fiber optic,Yes,Month-to-month,4348.65,Yes
+6568-POCUI,Female,Yes,Fiber optic,Yes,Two year,4285.8,No
+5197-LQXXH,Female,Yes,DSL,Yes,Two year,5894.5,No
+7682-AZNDK,Male,Yes,Fiber optic,Yes,Month-to-month,3091.75,No
+3523-QRQLL,Female,Yes,DSL,Yes,One year,1498.2,Yes
+8564-LDKFL,Male,Yes,Fiber optic,Yes,One year,4178.65,No
+0895-DQHEW,Male,Yes,Fiber optic,Yes,Month-to-month,5278.15,Yes
+4717-GHADL,Female,Yes,DSL,Yes,Two year,4024.2,No
+5879-HMFFH,Female,Yes,DSL,Yes,Two year,6520.8,No
+3810-DVDQQ,Female,Yes,Fiber optic,Yes,Two year,8308.9,No
+8149-RSOUN,Female,Yes,Fiber optic,Yes,Month-to-month,93.85,Yes
+9055-MOJJJ,Female,Yes,DSL,Yes,One year,4068,No
+4013-UBXWQ,Female,Yes,DSL,Yes,Month-to-month,521.1,Yes
+4931-TRZWN,Female,Yes,DSL,Yes,Month-to-month,923.85,No
+7669-LCRSD,Male,Yes,DSL,Yes,Month-to-month,628.65,No
+3567-PQTSO,Male,Yes,Fiber optic,Yes,One year,5576.3,No
+5519-NPHVG,Female,Yes,Fiber optic,Yes,Month-to-month,1046.1,Yes
+9938-EKRGF,Female,Yes,DSL,Yes,Month-to-month,1287.85,No
+8849-GYOKR,Female,Yes,Fiber optic,Yes,One year,5763.3,Yes
+8806-EAGWC,Male,Yes,DSL,Yes,Month-to-month,159.15,Yes
+8853-TZDGH,Female,Yes,Fiber optic,Yes,Two year,8012.75,No
+9710-ZUSHQ,Female,Yes,Fiber optic,Yes,Month-to-month,4056.75,Yes
+8123-QBNAZ,Female,Yes,Fiber optic,Yes,Month-to-month,3684.95,No
+3629-ZNKXA,Male,Yes,Fiber optic,Yes,Month-to-month,1752.45,No
+4827-LTQRJ,Female,Yes,Fiber optic,Yes,One year,7210.85,No
+7711-YIJWC,Male,Yes,DSL,Yes,One year,5264.5,No
+5482-VXSXJ,Male,Yes,Fiber optic,Yes,Month-to-month,2157.3,No
+2378-YIZKA,Female,Yes,DSL,Yes,Two year,5607.75,No
+5498-TXHLF,Female,Yes,Fiber optic,Yes,Month-to-month,2874.15,Yes
+6818-DJXAA,Female,Yes,Fiber optic,Yes,Month-to-month,964.35,No
+6778-EICRF,Male,Yes,DSL,Yes,One year,1821.2,No
+4132-KALRO,Female,Yes,Fiber optic,Yes,Month-to-month,399.25,No
+3902-FOIGH,Male,Yes,Fiber optic,Yes,Month-to-month,1218.55,Yes
+2874-YXVVA,Female,Yes,Fiber optic,Yes,Month-to-month,3634.8,No
+4293-ETKAP,Female,Yes,DSL,Yes,Two year,5071.9,No
+6322-PJJDJ,Male,Yes,Fiber optic,Yes,Two year,4690.65,No
+0330-BGYZE,Male,Yes,Fiber optic,Yes,One year,6157.6,No
+7586-ZATGZ,Male,Yes,Fiber optic,Yes,Month-to-month,3369.05,No
+3318-OSATS,Male,Yes,Fiber optic,Yes,Month-to-month,3474.05,Yes
+5828-AVIPD,Male,Yes,Fiber optic,Yes,One year,1875.55,Yes
+9626-VFRGG,Female,Yes,Fiber optic,Yes,Month-to-month,3645.05,No
+4900-MSOMT,Female,Yes,DSL,Yes,Two year,5714.2,No
+9194-GFVOI,Female,Yes,DSL,Yes,Two year,3571.6,No
+4282-MSACW,Male,Yes,Fiber optic,Yes,One year,8035.95,No
+7774-OJSXI,Male,Yes,Fiber optic,Yes,One year,3066.45,Yes
+0136-IFMYD,Male,Yes,Fiber optic,Yes,Two year,7634.25,No
+5144-TVGLP,Male,Yes,Fiber optic,Yes,Month-to-month,3653,No
+0253-ZTEOB,Female,Yes,DSL,Yes,Two year,3870.3,No
+9885-CSMWE,Female,Yes,Fiber optic,Yes,Month-to-month,78.45,Yes
+9659-ZTWSM,Male,Yes,Fiber optic,Yes,One year,7051.95,No
+6685-GBWJZ,Male,Yes,DSL,Yes,One year,4448.8,No
+3866-MDTUB,Female,Yes,DSL,Yes,Month-to-month,146.9,Yes
+7657-DYEPJ,Male,Yes,DSL,Yes,One year,2497.35,Yes
+8276-MQBYC,Male,Yes,Fiber optic,Yes,Month-to-month,4913.3,Yes
+0337-CNPZE,Female,Yes,Fiber optic,Yes,Month-to-month,4443.45,Yes
+8690-ZVLCL,Female,Yes,DSL,Yes,Two year,6161.9,No
+6015-VVHHE,Female,Yes,Fiber optic,Yes,Month-to-month,446.05,Yes
+1335-HQMKX,Female,Yes,Fiber optic,Yes,One year,7323.15,No
+2172-EJXVF,Female,Yes,Fiber optic,Yes,One year,7521.95,No
+0897-FEGMU,Female,Yes,Fiber optic,Yes,Month-to-month,1056.95,Yes
+0689-NKYLF,Male,Yes,Fiber optic,Yes,Month-to-month,1060.6,Yes
+5519-YLDGW,Female,Yes,Fiber optic,Yes,Month-to-month,2254.2,Yes
+1855-AGAWH,Male,Yes,Fiber optic,Yes,One year,2939.8,No
+7109-CQYUZ,Male,Yes,DSL,Yes,Two year,4652.4,No
+2883-ILGWO,Male,Yes,Fiber optic,Yes,Month-to-month,5913.95,No
+5766-FTRTS,Male,Yes,DSL,Yes,Two year,6033.1,No
+5178-LMXOP,Male,Yes,Fiber optic,Yes,Month-to-month,95.1,Yes
+8879-ZKJOF,Female,Yes,DSL,Yes,One year,3320.75,No
+7526-BEZQB,Male,Yes,Fiber optic,Yes,Month-to-month,1148.1,Yes
+4683-WYDOU,Male,Yes,Fiber optic,Yes,Two year,6912.7,No
+5578-NKCXI,Female,Yes,Fiber optic,Yes,One year,5846.65,No
+1642-HMARX,Female,Yes,DSL,Yes,Two year,6424.7,No
+8434-PNQZX,Female,Yes,DSL,Yes,Two year,3373.4,No
+5950-AAAGJ,Male,Yes,Fiber optic,Yes,Month-to-month,1537.9,No
+4806-DXQCE,Female,Yes,Fiber optic,Yes,Two year,7714.65,No
+4918-QLLIW,Male,Yes,DSL,Yes,Month-to-month,188.7,Yes
+7056-IMHCC,Male,Yes,Fiber optic,Yes,Month-to-month,5549.4,Yes
+5294-DMSFH,Female,Yes,Fiber optic,Yes,Month-to-month,2621.75,No
+1625-JAIIY,Female,Yes,Fiber optic,Yes,One year,5685.8,Yes
+0603-OLQDC,Male,Yes,DSL,Yes,Month-to-month,837.5,No
+4176-FXYBO,Male,Yes,Fiber optic,Yes,Month-to-month,6118.95,No
+1063-DHQJF,Male,Yes,Fiber optic,Yes,Two year,6480.9,No
+8663-UPDGF,Female,Yes,DSL,Yes,Month-to-month,1800.05,No
+4112-LUEIZ,Male,Yes,Fiber optic,Yes,Month-to-month,863.1,Yes
+9919-KNPOO,Female,Yes,Fiber optic,Yes,Month-to-month,1948.35,No
+8749-JMNKX,Male,Yes,Fiber optic,Yes,Month-to-month,4750.95,Yes
+2430-USGXP,Male,Yes,Fiber optic,Yes,Month-to-month,2391.8,Yes
+8174-TBVCF,Female,Yes,DSL,Yes,Two year,6859.05,No
+1698-XFZCI,Male,Yes,Fiber optic,Yes,One year,6521.9,No
+5955-ERIHD,Male,Yes,Fiber optic,Yes,Month-to-month,1687.95,Yes
+0917-EZOLA,Male,Yes,Fiber optic,Yes,Two year,7689.95,Yes
+3508-VLHCZ,Female,Yes,DSL,Yes,Two year,6239.05,No
+0468-YRPXN,Male,Yes,Fiber optic,Yes,Month-to-month,2807.1,No
+5996-NRVXR,Male,Yes,Fiber optic,Yes,One year,4116.8,No
+7047-FWEYA,Female,Yes,Fiber optic,Yes,One year,4594.65,No
+2000-MPKCA,Female,Yes,Fiber optic,Yes,One year,6332.75,No
+5473-KHBPS,Female,Yes,Fiber optic,Yes,One year,4976.15,No
+0100-DUVFC,Male,Yes,Fiber optic,Yes,One year,7308.95,No
+0326-VDYXE,Female,Yes,Fiber optic,Yes,One year,6982.5,No
+7274-RTAPZ,Male,Yes,Fiber optic,Yes,Month-to-month,90.55,Yes
+0436-TWFFZ,Female,Yes,DSL,Yes,Two year,5714.2,No
+0311-UNPFF,Female,Yes,Fiber optic,Yes,Month-to-month,2274.35,Yes
+2669-OIDSD,Female,Yes,Fiber optic,Yes,Month-to-month,4834,No
+9576-SYUHJ,Male,Yes,Fiber optic,Yes,Month-to-month,3369.25,No
+8414-MYSHR,Male,Yes,Fiber optic,Yes,Month-to-month,449.75,Yes
+9402-ORRAH,Female,Yes,Fiber optic,Yes,Month-to-month,1400.3,No
+4840-ORQXB,Female,Yes,Fiber optic,Yes,Month-to-month,5841.35,No
+7599-FKVXZ,Male,Yes,Fiber optic,Yes,Month-to-month,4512.7,Yes
+3756-VNWDH,Male,Yes,Fiber optic,Yes,One year,6674.65,No
+7673-LPRNY,Female,Yes,DSL,Yes,One year,1843.05,No
+2558-BUOZZ,Male,Yes,Fiber optic,Yes,One year,4535.85,No
+0975-UYDTX,Female,Yes,DSL,Yes,One year,2312.55,No
+4682-BLBUC,Male,Yes,DSL,Yes,One year,3250.45,No
+5569-KGJHX,Female,Yes,Fiber optic,Yes,Month-to-month,754.65,Yes
+8295-KMENE,Female,Yes,DSL,Yes,Two year,4519.5,No
+9821-BESNZ,Male,Yes,Fiber optic,Yes,One year,6860.6,No
+2368-GAKKQ,Female,Yes,Fiber optic,Yes,Two year,7939.25,No
+6993-YCOBK,Male,Yes,Fiber optic,Yes,Two year,6586.85,No
+0748-RDGGM,Male,Yes,Fiber optic,Yes,One year,7534.65,Yes
+5019-GQVCR,Male,Yes,Fiber optic,Yes,Month-to-month,3645.6,No
+0378-CJKPV,Female,Yes,Fiber optic,Yes,Two year,7965.95,No
+5889-JTMUL,Female,Yes,Fiber optic,Yes,Month-to-month,4888.7,Yes
+1703-MGIAB,Female,Yes,DSL,Yes,Month-to-month,1108,No
+2165-VOEGB,Female,Yes,Fiber optic,Yes,One year,4822.85,Yes
+3612-YUNGG,Male,Yes,Fiber optic,Yes,Two year,6741.15,No
+9028-LIHRP,Male,Yes,Fiber optic,Yes,Two year,7209,No
+1053-MXTTK,Female,Yes,Fiber optic,Yes,Two year,7726.35,No
+8914-RBTSB,Male,Yes,Fiber optic,Yes,Month-to-month,3019.5,Yes
+6212-ATMLK,Female,Yes,Fiber optic,Yes,Month-to-month,4729.75,No
+8200-LGKSR,Male,Yes,DSL,Yes,Two year,6126.1,No
+1568-BEKZM,Male,Yes,DSL,Yes,Two year,6333.4,No
+0963-ZBDRN,Male,Yes,Fiber optic,Yes,Month-to-month,3183.4,Yes
+6331-EWIEB,Male,Yes,Fiber optic,Yes,Month-to-month,1734.5,Yes
+8417-GSODA,Male,Yes,Fiber optic,Yes,One year,2568.15,No
+9677-AVKED,Female,Yes,DSL,Yes,One year,4449.75,No
+2227-JRSJX,Female,Yes,Fiber optic,Yes,Month-to-month,1956.4,No
+4795-WRNVT,Female,Yes,DSL,Yes,Month-to-month,2586,No
+0260-ZDLGK,Female,Yes,DSL,Yes,Month-to-month,651.4,Yes
+7860-UXCRM,Male,Yes,DSL,Yes,Two year,4674.55,No
+6357-JJPQT,Female,Yes,Fiber optic,Yes,Month-to-month,232.35,No
+5913-INRQV,Male,Yes,Fiber optic,Yes,One year,3128.8,No
+6210-KBBPI,Male,Yes,Fiber optic,Yes,Month-to-month,919.4,Yes
+7011-CVEUC,Male,Yes,Fiber optic,Yes,Month-to-month,2338.35,No
+7925-PNRGI,Female,Yes,DSL,Yes,Month-to-month,3541.1,No
+2623-DRYAM,Female,Yes,Fiber optic,Yes,One year,7069.3,No
+4488-KQFDT,Female,Yes,Fiber optic,Yes,One year,6423,No
+2612-RANWT,Female,Yes,Fiber optic,Yes,Month-to-month,1164.3,Yes
+5693-PIPCS,Male,Yes,Fiber optic,Yes,Two year,4220.35,No
+6900-PXRMS,Male,Yes,Fiber optic,Yes,Month-to-month,2710.25,Yes
+6479-VDGRK,Female,Yes,DSL,Yes,Two year,6129.2,No
+3569-JFODW,Female,Yes,DSL,Yes,Two year,6652.45,No
+5186-EJEGL,Male,Yes,DSL,Yes,Month-to-month,653.25,No
+3258-SYSWS,Male,Yes,Fiber optic,Yes,Two year,7845.8,No
+0512-FLFDW,Female,Yes,Fiber optic,Yes,One year,6029,No
+0487-CRLZF,Female,Yes,DSL,Yes,Two year,3721.9,No
+2107-FBPTK,Female,Yes,Fiber optic,Yes,Month-to-month,3121.1,No
+0795-GMVQO,Male,Yes,Fiber optic,Yes,One year,7332.4,No
+1142-IHLOO,Female,Yes,Fiber optic,Yes,One year,4475.9,No
+4633-MKHYU,Female,Yes,Fiber optic,Yes,Month-to-month,788.6,No
+1545-JFUML,Male,Yes,Fiber optic,Yes,Two year,6994.6,No
+3194-ORPIK,Female,Yes,Fiber optic,Yes,Month-to-month,4116.15,Yes
+7826-VVKWT,Female,Yes,Fiber optic,Yes,Two year,2263.45,No
+1353-GHZOS,Male,Yes,DSL,Yes,One year,1374.35,No
+2587-EKXTS,Male,Yes,Fiber optic,Yes,Month-to-month,4915.15,No
+9378-FXTIZ,Female,Yes,DSL,Yes,One year,3715.65,Yes
+1723-HKXJQ,Male,Yes,Fiber optic,Yes,Month-to-month,4273.45,Yes
+2364-UFROM,Male,Yes,DSL,Yes,One year,2044.75,No
+6473-ULUHT,Male,Yes,DSL,Yes,Month-to-month,1398.25,No
+4433-JCGCG,Male,Yes,Fiber optic,Yes,Month-to-month,4680.05,Yes
+6849-OYAMU,Male,Yes,Fiber optic,Yes,One year,1888.65,Yes
+5312-UXESG,Female,Yes,Fiber optic,Yes,Month-to-month,3990.6,No
+2150-WLKUW,Female,Yes,DSL,Yes,One year,2635,No
+7159-FVYPK,Female,Yes,DSL,Yes,Month-to-month,235,No
+7032-LMBHI,Female,Yes,DSL,Yes,One year,2347.85,No
+1150-WFARN,Female,Yes,Fiber optic,Yes,Two year,7156.2,Yes
+6088-BXMRG,Female,Yes,Fiber optic,Yes,Month-to-month,3089.6,No
+4821-SJHJV,Female,Yes,Fiber optic,Yes,Month-to-month,2901.8,No
+4227-OJHAL,Female,Yes,DSL,Yes,One year,5163,No
+9209-NWPGU,Male,Yes,DSL,Yes,One year,2774.55,No
+6688-UZPWD,Female,Yes,Fiber optic,Yes,Month-to-month,1145.35,Yes
+8468-EHYJA,Female,Yes,Fiber optic,Yes,Month-to-month,5497.05,No
+9057-SIHCH,Female,Yes,Fiber optic,Yes,Month-to-month,291.9,Yes
+6352-GIGGQ,Male,Yes,DSL,Yes,One year,5903.15,No
+6771-XWBDM,Female,Yes,Fiber optic,Yes,Month-to-month,5921.35,Yes
+3082-YVEKW,Female,Yes,DSL,Yes,Two year,1759.4,No
+7134-HBPBS,Female,Yes,Fiber optic,Yes,Two year,7774.05,No
+3489-HHPFY,Female,Yes,Fiber optic,Yes,Month-to-month,134.05,No
+9822-WMWVG,Female,Yes,Fiber optic,Yes,Month-to-month,4282.4,No
+2645-QTLMB,Male,Yes,Fiber optic,Yes,Month-to-month,669,Yes
+6339-RZCBJ,Male,Yes,DSL,Yes,Two year,3771.5,No
+4424-TKOPW,Male,Yes,Fiber optic,Yes,Month-to-month,196.75,Yes
+4415-WNGVR,Female,Yes,DSL,Yes,One year,943.85,No
+2522-AHJXR,Male,Yes,Fiber optic,Yes,Month-to-month,6572.85,No
+7479-NITWS,Male,Yes,Fiber optic,Yes,Month-to-month,631.85,Yes
+9385-NXKDA,Female,Yes,DSL,Yes,Two year,5919.35,No
+2959-MJHIC,Male,Yes,Fiber optic,Yes,Month-to-month,307.4,Yes
+9351-HXDMR,Male,Yes,Fiber optic,Yes,Two year,8240.85,No
+5960-WPXQM,Male,Yes,Fiber optic,Yes,Month-to-month,79.05,Yes
+0684-AOSIH,Male,Yes,Fiber optic,Yes,Month-to-month,95,Yes
+1309-XGFSN,Male,Yes,DSL,Yes,One year,4079.55,No
+1866-RZZQS,Male,Yes,Fiber optic,Yes,Month-to-month,4187.75,Yes
+6968-URWQU,Male,Yes,DSL,Yes,One year,2391.15,No
+8631-NBHFZ,Male,Yes,DSL,Yes,Two year,5154.6,Yes
+8800-JOOCF,Female,Yes,Fiber optic,Yes,Month-to-month,966.55,No
+1469-LBJQJ,Female,Yes,Fiber optic,Yes,Month-to-month,6936.85,No
+4958-XCBDQ,Male,Yes,Fiber optic,Yes,Month-to-month,3496.3,Yes
+2386-OWURY,Female,Yes,Fiber optic,Yes,Month-to-month,5817.7,No
+1725-IQNIY,Male,Yes,Fiber optic,Yes,Two year,6110.2,Yes
+6712-OAWRH,Female,Yes,Fiber optic,Yes,Month-to-month,2351.8,Yes
+1508-DFXCU,Male,Yes,Fiber optic,Yes,Month-to-month,912,No
+7868-BGSZA,Male,Yes,DSL,Yes,One year,3581.6,No
+2800-QQUSO,Male,Yes,Fiber optic,Yes,Month-to-month,4222.95,No
+2533-QVMSK,Male,Yes,Fiber optic,Yes,Two year,5638.3,Yes
+8625-AZYZY,Male,Yes,Fiber optic,Yes,Month-to-month,2542.45,Yes
+6837-HAEVO,Male,Yes,Fiber optic,Yes,Two year,7297.75,No
+6701-YVNQG,Male,Yes,DSL,Yes,Two year,6301.7,No
+8819-ZBYNA,Female,Yes,Fiber optic,Yes,Two year,6393.65,No
+9481-IEBZY,Male,Yes,Fiber optic,Yes,Month-to-month,8061.5,No
+6137-NICCO,Female,Yes,Fiber optic,Yes,Month-to-month,518.75,No
+8374-XGEJJ,Male,Yes,Fiber optic,Yes,Month-to-month,4388.4,Yes
+2656-TABEH,Male,Yes,Fiber optic,Yes,Month-to-month,420.2,Yes
+4626-OZDTJ,Female,Yes,DSL,Yes,One year,3950.85,No
+9169-BSVIN,Male,Yes,DSL,Yes,Month-to-month,827.05,No
+2325-ZUSFD,Female,Yes,DSL,Yes,One year,3913.3,Yes
+3932-CMDTD,Female,Yes,Fiber optic,Yes,One year,443.9,Yes
+7714-YXSMB,Female,Yes,Fiber optic,Yes,Month-to-month,2599.95,No
+4039-HEUNW,Male,Yes,Fiber optic,Yes,Month-to-month,3436.1,Yes
+1194-HVAIF,Female,Yes,Fiber optic,Yes,Month-to-month,2462.55,No
+3594-UVONA,Female,Yes,DSL,Yes,One year,3110.1,Yes
+5089-IFSDP,Female,Yes,Fiber optic,Yes,Two year,6144.55,Yes
+6418-HNFED,Male,Yes,DSL,Yes,Two year,4089.45,No
+0237-YFUTL,Female,Yes,Fiber optic,Yes,Month-to-month,5405.8,No
+7691-KGKGP,Male,Yes,DSL,Yes,Month-to-month,3363.8,No
+6710-HSJRD,Male,Yes,Fiber optic,Yes,Month-to-month,7132.15,No
+0840-DCNZE,Male,Yes,DSL,Yes,One year,4138.9,No
+1732-FEKLD,Female,Yes,Fiber optic,Yes,One year,5121.75,No
+0479-HMSWA,Female,Yes,Fiber optic,Yes,Two year,2715.3,No
+0365-BZUWY,Male,Yes,Fiber optic,Yes,Month-to-month,1742.5,No
+4817-VYYWS,Female,Yes,Fiber optic,Yes,Month-to-month,2983.8,Yes
+4922-CVPDX,Female,Yes,DSL,Yes,Two year,1905.7,No
+1357-BIJKI,Male,Yes,Fiber optic,Yes,One year,4858.7,No
+5299-SJCZT,Male,Yes,Fiber optic,Yes,Month-to-month,298.35,Yes
+2018-PZKMU,Male,Yes,Fiber optic,Yes,Month-to-month,970.45,No
+2403-BCASL,Male,Yes,Fiber optic,Yes,One year,4534.9,Yes
+7392-YYPYJ,Male,Yes,Fiber optic,Yes,Month-to-month,2415.95,No
+2223-GDSHL,Male,Yes,Fiber optic,Yes,Two year,8297.5,No
+9470-RTWDV,Male,Yes,DSL,Yes,One year,2083.1,No
+4521-YEEHE,Female,Yes,Fiber optic,Yes,Month-to-month,1594.75,No
+3786-WOVKF,Female,Yes,Fiber optic,Yes,One year,7677.4,No
+3886-CERTZ,Female,Yes,Fiber optic,Yes,One year,8109.8,Yes
+5989-AXPUC,Female,Yes,Fiber optic,Yes,Two year,7990.05,No
+8015-IHCGW,Female,Yes,Fiber optic,Yes,Two year,8425.15,No
+9278-VZKCD,Female,Yes,Fiber optic,Yes,Month-to-month,5647.95,No
+2773-OVBPK,Male,Yes,Fiber optic,Yes,Two year,7567.2,No
+6372-RFVNS,Female,Yes,Fiber optic,Yes,Month-to-month,78.8,Yes
+2139-FQHLM,Male,Yes,Fiber optic,Yes,Month-to-month,1682.4,No
+8261-GWDBQ,Female,Yes,Fiber optic,Yes,Two year,6925.9,No
+8938-UMKPI,Female,Yes,Fiber optic,Yes,Month-to-month,5127.95,Yes
+3882-IYOIJ,Female,Yes,Fiber optic,Yes,Two year,6758.45,No
+6319-IEJWJ,Male,Yes,Fiber optic,Yes,Month-to-month,1776.55,Yes
+9025-AOMKI,Female,Yes,Fiber optic,Yes,Month-to-month,536.4,Yes
+6173-GOLSU,Male,Yes,Fiber optic,Yes,Month-to-month,6079,No
+4647-MUZON,Female,Yes,Fiber optic,Yes,Month-to-month,1745.5,No
+8849-PRIQJ,Female,Yes,Fiber optic,Yes,One year,7281.6,No
+4355-CVPVS,Female,Yes,Fiber optic,Yes,One year,4968,No
+5655-JSMZM,Male,Yes,Fiber optic,Yes,Month-to-month,4718.25,Yes
+5915-ANoEI,Male,Yes,DSL,Yes,Two year,5536.5,No
+9861-PDSZP,Female,Yes,Fiber optic,Yes,Two year,7806.6,No
+7225-CBZPL,Male,Yes,Fiber optic,Yes,Month-to-month,1563.9,No
+4587-VVTOX,Female,Yes,Fiber optic,Yes,Month-to-month,545.2,Yes
+2019-HDCZY,Male,Yes,Fiber optic,Yes,Two year,6296.75,No
+7404-JLKQG,Female,Yes,DSL,Yes,Month-to-month,161.45,No
+2632-IVXVF,Female,Yes,Fiber optic,Yes,Two year,7511.3,No
+3692-JHONH,Female,Yes,Fiber optic,Yes,One year,5621.85,No
+8915-NNTRC,Male,Yes,Fiber optic,Yes,Two year,7919.8,No
+9592-ERDKV,Male,Yes,DSL,Yes,One year,2911.8,No
+4778-IZARL,Male,Yes,Fiber optic,Yes,Two year,6705.7,No
+0432-CAJZV,Male,Yes,Fiber optic,Yes,Month-to-month,237.65,No
+8868-WOZGU,Male,Yes,Fiber optic,Yes,Month-to-month,2979.5,Yes
+6194-HBGQN,Male,Yes,DSL,Yes,One year,4126.2,No
+6986-IXNDM,Male,Yes,Fiber optic,Yes,Month-to-month,1337.45,No
+2987-BJXIK,Female,Yes,DSL,Yes,Two year,5991.05,No
+0406-BPDVR,Female,Yes,Fiber optic,Yes,One year,5373.1,Yes
+0420-HLGXF,Female,Yes,Fiber optic,Yes,Month-to-month,4036,No
+7446-KQISO,Male,Yes,Fiber optic,Yes,Two year,4900.65,No
+9823-EALYC,Male,Yes,DSL,Yes,Two year,5727.45,No
+4006-HKYHO,Male,Yes,DSL,Yes,Two year,5309.5,No
+3657-COGMW,Female,Yes,Fiber optic,Yes,Month-to-month,5839.3,No
+2969-WGHQO,Female,Yes,DSL,Yes,One year,477.05,No
+6615-NGGZJ,Male,Yes,Fiber optic,Yes,Month-to-month,1415.55,Yes
+0266-GMEAO,Male,Yes,Fiber optic,Yes,Two year,8058.55,No
+5574-NXZIU,Male,Yes,Fiber optic,Yes,Two year,7049.75,No
+8309-PPCED,Female,Yes,Fiber optic,Yes,Two year,7982.5,No
+8161-QYMTT,Male,Yes,Fiber optic,Yes,Month-to-month,701.3,No
+2126-GSEGL,Female,Yes,DSL,Yes,Two year,5917.55,No
+2434-EEVDB,Female,Yes,Fiber optic,Yes,Two year,5948.7,No
+6199-IWKGC,Female,Yes,Fiber optic,Yes,One year,4753.85,No
+2675-DHUTR,Male,Yes,Fiber optic,Yes,Month-to-month,5780.7,No
+8152-VETUR,Female,Yes,Fiber optic,Yes,Two year,6869.7,No
+3415-TAILE,Female,Yes,DSL,Yes,Month-to-month,134.35,Yes
+9140-CZQZZ,Female,Yes,DSL,Yes,Two year,5515.8,No
+9938-TKDGL,Male,Yes,Fiber optic,Yes,Two year,6668,No
+7683-CBDKJ,Male,Yes,DSL,Yes,Month-to-month,937.6,Yes
+0946-CLJTI,Male,Yes,Fiber optic,Yes,Month-to-month,5812.6,Yes
+1325-USMEC,Male,Yes,Fiber optic,Yes,Two year,6944.5,No
+0916-QOFDP,Female,Yes,Fiber optic,Yes,Month-to-month,1346.3,No
+0628-CNQRM,Male,Yes,DSL,Yes,One year,1544.05,Yes
+0112-QWPNC,Male,Yes,DSL,Yes,One year,4059.35,Yes
+0324-BRPCJ,Female,Yes,Fiber optic,Yes,Month-to-month,6851.65,Yes
+2777-PHDEI,Female,Yes,Fiber optic,Yes,Month-to-month,78.05,Yes
+2235-EZAIK,Female,Yes,DSL,Yes,Two year,5401.9,No
+0829-XXPLX,Female,Yes,Fiber optic,Yes,Month-to-month,1871.15,No
+9974-JFBHQ,Male,Yes,Fiber optic,Yes,Month-to-month,6171.2,No
+5055-BRMNE,Female,Yes,Fiber optic,Yes,Two year,7009.5,No
+9189-JWSHV,Female,Yes,Fiber optic,Yes,Month-to-month,2264.05,Yes
+7184-LRUUR,Female,Yes,DSL,Yes,One year,1441.8,No
+7247-XOZPB,Male,Yes,DSL,Yes,One year,4155.95,No
+6211-WWLTF,Male,Yes,Fiber optic,Yes,Two year,6330.4,No
+3452-GWUIN,Female,Yes,Fiber optic,Yes,Month-to-month,1760.25,No
+3192-LNKRK,Male,Yes,Fiber optic,Yes,Month-to-month,2909.95,No
+2208-UGTGR,Male,Yes,Fiber optic,Yes,Month-to-month,5581.05,No
+3005-TYFRD,Female,Yes,Fiber optic,Yes,Month-to-month,5676.65,No
+8670-MEFCP,Female,Yes,DSL,Yes,Two year,3379.25,No
+5597-GLBUC,Female,Yes,Fiber optic,Yes,Month-to-month,85.45,Yes
+2748-MYRVK,Female,Yes,Fiber optic,Yes,One year,6137,Yes
+7181-OQCUT,Male,Yes,Fiber optic,Yes,Month-to-month,2215,No
+0187-QSXOE,Male,Yes,Fiber optic,Yes,Month-to-month,605.45,No
+6904-JLBGY,Female,Yes,Fiber optic,Yes,Two year,8436.25,No
+5049-MUBWG,Male,Yes,DSL,Yes,One year,1908.35,No
+7030-FZTFM,Male,Yes,Fiber optic,Yes,Two year,7922.75,No
+5120-ZBLAI,Female,Yes,DSL,Yes,One year,3876.2,No
+3663-MITLP,Female,Yes,Fiber optic,Yes,Month-to-month,1457.25,Yes
+0906-QVPMS,Male,Yes,Fiber optic,Yes,Two year,8349.45,No
+4553-DVPZG,Female,Yes,Fiber optic,Yes,Month-to-month,6164.7,No
+4902-OHLSK,Female,Yes,Fiber optic,Yes,Month-to-month,2862.75,Yes
+7572-KPVKK,Male,Yes,Fiber optic,Yes,Two year,6590.5,No
+2357-COQEK,Female,Yes,Fiber optic,Yes,Month-to-month,2890.65,Yes
+7103-ZGVNT,Female,Yes,DSL,Yes,One year,4885.85,No
+3737-GCSPV,Female,Yes,Fiber optic,Yes,Month-to-month,1222.05,Yes
+2027-WKXMW,Female,Yes,Fiber optic,Yes,Month-to-month,6871.7,No
+4088-YLDSU,Male,Yes,Fiber optic,Yes,One year,5743.05,Yes
+6427-FEFIG,Female,Yes,DSL,Yes,Two year,1846.65,No
+0017-IUDMW,Female,Yes,Fiber optic,Yes,Two year,8456.75,No
+5446-DKWYW,Female,Yes,DSL,Yes,One year,3965.05,No
+2034-CGRHZ,Male,Yes,Fiber optic,Yes,Month-to-month,2496.7,Yes
+5797-APWZC,Female,Yes,Fiber optic,Yes,Month-to-month,90.6,Yes
+9031-ZVQPT,Male,Yes,Fiber optic,Yes,Two year,7840.6,No
+2990-IAJSV,Male,Yes,DSL,Yes,Two year,6632.75,No
+6480-YAGIY,Male,Yes,Fiber optic,Yes,One year,5031.85,No
+5457-COLHT,Male,Yes,DSL,Yes,Two year,5542.55,No
+5451-YHYPW,Female,Yes,Fiber optic,Yes,Two year,8443.7,No
+6715-OFDBP,Male,Yes,DSL,Yes,Month-to-month,346.4,Yes
+1567-DSCIC,Male,Yes,Fiber optic,Yes,Month-to-month,773.65,Yes
+9362-MWODR,Female,Yes,DSL,Yes,Month-to-month,2460.35,No
+5153-LXKDT,Male,Yes,Fiber optic,Yes,Two year,7467.5,No
+5161-UBZXI,Male,Yes,Fiber optic,Yes,Two year,7261.75,No
+0565-JUPYD,Male,Yes,Fiber optic,Yes,One year,6590.8,No
+9054-FOWNV,Male,Yes,Fiber optic,Yes,Month-to-month,1885.15,No
+2157-MXBJS,Male,Yes,DSL,Yes,One year,989.45,Yes
+9732-EQMWY,Female,Yes,Fiber optic,Yes,Month-to-month,5025,No
+9360-AHGNL,Female,Yes,Fiber optic,Yes,One year,4830.25,Yes
+5269-NRGDP,Male,Yes,DSL,Yes,One year,3088.25,No
+5485-WUYWF,Male,Yes,DSL,Yes,Month-to-month,94.55,Yes
+2121-JAFOM,Female,Yes,Fiber optic,Yes,Two year,8312.4,No
+8818-DOPVL,Female,Yes,Fiber optic,Yes,Month-to-month,4863.85,No
+2632-UCGVD,Male,Yes,Fiber optic,Yes,Month-to-month,6871.9,Yes
+1227-UDMZR,Female,Yes,DSL,Yes,Two year,6637.9,No
+5198-HQAEN,Male,Yes,Fiber optic,Yes,One year,3165.6,No
+2167-FQSTQ,Female,Yes,DSL,Yes,Two year,6786.1,No
+6821-JPCDC,Female,Yes,Fiber optic,Yes,One year,4692.95,No
+5811-IWXYM,Female,Yes,Fiber optic,Yes,One year,5301.1,No
+8189-XRIKE,Female,Yes,Fiber optic,Yes,Month-to-month,2897.95,No
+1506-YJTYT,Male,Yes,DSL,Yes,Two year,3371,No
+6425-YQLLO,Female,Yes,Fiber optic,Yes,One year,6975.25,Yes
+2789-CZANW,Female,Yes,Fiber optic,Yes,Two year,6997.3,No
+2114-MGINA,Female,Yes,Fiber optic,Yes,Month-to-month,1129.1,Yes
+7596-LDUXP,Female,Yes,Fiber optic,Yes,One year,979.05,No
+4489-SNoJF,Female,Yes,DSL,Yes,Month-to-month,2568.55,Yes
+9134-WYRVP,Male,Yes,Fiber optic,Yes,One year,4267.15,No
+2931-SVLTV,Male,Yes,Fiber optic,Yes,Month-to-month,4469.1,No
+6899-PPEEA,Female,Yes,Fiber optic,Yes,Month-to-month,3580.3,Yes
+1431-AIDJQ,Male,Yes,DSL,Yes,Two year,2603.1,No
+4597-NUCQV,Male,Yes,Fiber optic,Yes,Month-to-month,2440.15,Yes
+9019-QVLZD,Female,Yes,Fiber optic,Yes,Month-to-month,79.55,Yes
+8413-YNHNV,Male,Yes,DSL,Yes,Two year,6322.1,No
+4369-NYSCF,Male,Yes,DSL,Yes,One year,4284.65,No
+6333-YDVLT,Male,Yes,Fiber optic,Yes,One year,7138.65,No
+3707-LRWZD,Female,Yes,Fiber optic,Yes,One year,2781.85,Yes
+1455-ESIQH,Male,Yes,Fiber optic,Yes,Month-to-month,89.1,Yes
+2979-SXESE,Female,Yes,Fiber optic,Yes,Month-to-month,1607.2,Yes
+3244-CQPHU,Female,Yes,Fiber optic,Yes,Two year,7746.7,No
+2674-MLXMN,Female,Yes,Fiber optic,Yes,Month-to-month,6951.15,No
+2200-DSAAL,Female,Yes,DSL,Yes,Two year,5330.2,No
+4366-CTOUZ,Female,Yes,Fiber optic,Yes,Two year,5038.45,No
+6253-WRFHY,Male,Yes,DSL,Yes,One year,877.35,No
+9133-AYJZG,Female,Yes,Fiber optic,Yes,Month-to-month,2249.1,No
+2675-OTVVJ,Male,Yes,Fiber optic,Yes,Month-to-month,2807.65,No
+5018-GWURO,Female,Yes,Fiber optic,Yes,Month-to-month,4902.8,No
+4737-HOBAX,Male,Yes,DSL,Yes,Two year,5034.05,No
+1704-NRWYE,Female,Yes,Fiber optic,Yes,Month-to-month,751.65,Yes
+8200-KLNYW,Female,Yes,DSL,Yes,One year,1714.95,No
+9896-UYMIE,Male,Yes,Fiber optic,Yes,One year,7383.7,No
+0853-NWIFK,Female,Yes,Fiber optic,Yes,One year,4483.95,No
+8212-CRQXP,Female,Yes,Fiber optic,Yes,Month-to-month,1706.45,No
+7691-XVTZH,Female,Yes,Fiber optic,Yes,Two year,5974.3,No
+1482-OXZSY,Male,Yes,Fiber optic,Yes,Month-to-month,2936.25,No
+5778-BVOFB,Female,Yes,DSL,Yes,Month-to-month,530.05,No
+5502-RLUYV,Female,Yes,Fiber optic,Yes,Month-to-month,7446.9,Yes
+7663-YJHSN,Female,Yes,Fiber optic,Yes,Two year,7556.9,No
+4915-BFSXL,Male,Yes,DSL,Yes,Two year,4858.7,No
+7576-JMYWV,Female,Yes,Fiber optic,Yes,Month-to-month,4972.1,No
+3714-XPXBW,Female,Yes,DSL,Yes,Month-to-month,2976.95,No
+2824-DXNKN,Female,Yes,DSL,Yes,Two year,5025.85,No
+0848-ZGQIJ,Female,Yes,Fiber optic,Yes,Month-to-month,1461.15,No
+1792-UXAFY,Female,Yes,Fiber optic,Yes,Month-to-month,1496.9,Yes
+6217-TOWGS,Female,Yes,DSL,Yes,Month-to-month,1322.55,No
+1544-JJMYL,Male,Yes,DSL,Yes,One year,1927.3,No
+6874-SGLHU,Male,Yes,Fiber optic,Yes,One year,3021.3,No
+5951-AOFIH,Male,Yes,DSL,Yes,Month-to-month,2245.4,No
+5278-PNYOX,Female,Yes,Fiber optic,Yes,Two year,4917.75,No
+5449-FIBXJ,Male,Yes,Fiber optic,Yes,Month-to-month,2012.7,Yes
+3486-HOOGQ,Female,Yes,DSL,Yes,Two year,5743.3,No
+3716-LRGXK,Male,Yes,Fiber optic,Yes,Two year,6067.4,No
+9837-BMCLM,Male,Yes,Fiber optic,Yes,Month-to-month,242.05,Yes
+3134-DSHVC,Female,Yes,Fiber optic,Yes,Two year,6218.45,No
+6161-UUUTA,Male,Yes,Fiber optic,Yes,Month-to-month,260.9,Yes
+7821-DPRQE,Male,Yes,Fiber optic,Yes,Month-to-month,7320.9,No
+6543-XRMYR,Female,Yes,Fiber optic,Yes,Month-to-month,2967.35,Yes
+2001-EWBQU,Female,Yes,Fiber optic,Yes,Two year,6333.8,No
+1608-GMEWB,Male,Yes,Fiber optic,Yes,Month-to-month,4200.25,No
+6695-AMZUF,Female,Yes,DSL,Yes,Two year,5950.2,No
+1455-UGQVH,Male,Yes,Fiber optic,Yes,Month-to-month,1037.75,Yes
+2037-SGXHH,Male,Yes,Fiber optic,Yes,Month-to-month,3624.3,Yes
+3178-FESZO,Female,Yes,Fiber optic,Yes,Month-to-month,100.25,Yes
+0082-OQIQY,Male,Yes,Fiber optic,Yes,Month-to-month,2607.6,No
+2665-NPTGL,Female,Yes,Fiber optic,Yes,Month-to-month,2510.7,No
+0988-JRWWP,Female,Yes,DSL,Yes,Month-to-month,140.4,No
+7975-JMZNT,Male,Yes,DSL,Yes,Two year,6075.9,No
+0442-ZXKVS,Female,Yes,Fiber optic,Yes,One year,6431.05,No
+9489-JMTTN,Female,Yes,DSL,Yes,Two year,6595.9,No
+0575-CUQOV,Male,Yes,Fiber optic,Yes,One year,5867,No
+2830-LEWOA,Male,Yes,Fiber optic,Yes,One year,6449.15,No
+1264-BYWMS,Male,Yes,Fiber optic,Yes,Month-to-month,5283.95,Yes
+9658-WYUFB,Female,Yes,Fiber optic,Yes,Month-to-month,1617.5,Yes
+5329-KRDTM,Male,Yes,DSL,Yes,Two year,5396.25,No
+2013-SGDXK,Female,Yes,Fiber optic,Yes,Month-to-month,84.3,Yes
+3633-CDBUW,Male,Yes,DSL,Yes,One year,1445.95,No
+0707-HOVVN,Female,Yes,DSL,Yes,Two year,5212.65,No
+8580-QVLOC,Female,Yes,DSL,Yes,Two year,6440.25,Yes
+9274-UARKJ,Female,Yes,Fiber optic,Yes,Month-to-month,1130,No
+4077-HWUYD,Male,Yes,DSL,Yes,Two year,6463.15,No
+2012-NWRPA,Female,Yes,Fiber optic,Yes,Month-to-month,1131.2,Yes
+0103-CSITQ,Female,Yes,Fiber optic,Yes,One year,6252.7,No
+3934-HXCFZ,Male,Yes,Fiber optic,Yes,Month-to-month,2186.4,Yes
+9688-YGXVR,Female,Yes,Fiber optic,Yes,Month-to-month,3973.2,No
+5360-LJCNJ,Female,Yes,Fiber optic,Yes,Two year,7555,No
+9647-ERGBE,Female,Yes,Fiber optic,Yes,Month-to-month,3046.15,Yes
+4355-HBJHH,Male,Yes,DSL,Yes,Two year,5293.4,Yes
+0318-QUUOB,Male,Yes,Fiber optic,Yes,Month-to-month,80.55,Yes
+5339-TJFEK,Male,Yes,Fiber optic,Yes,Month-to-month,6487.2,No
+5827-MWCZK,Male,Yes,Fiber optic,Yes,Month-to-month,5432.2,No
+5914-XRFQB,Male,Yes,Fiber optic,Yes,Two year,8424.9,No
+4329-YPDDQ,Male,Yes,Fiber optic,Yes,Month-to-month,2203.7,No
+2252-ISRNH,Male,Yes,Fiber optic,Yes,One year,767.9,No
+5322-TEUJK,Female,Yes,Fiber optic,Yes,Two year,8100.25,No
+8375-KVTHK,Male,Yes,Fiber optic,Yes,One year,6754.35,No
+2697-NQBPF,Male,Yes,Fiber optic,Yes,Month-to-month,3540.65,No
+6377-WHAOX,Female,Yes,Fiber optic,Yes,Month-to-month,6411.25,No
+8999-XXGNS,Female,Yes,Fiber optic,Yes,One year,7629.85,No
+0471-ARVMX,Female,Yes,Fiber optic,Yes,One year,6312.9,No
+6122-LJADA,Male,Yes,DSL,Yes,Two year,6237.05,No
+2400-XIWIO,Female,Yes,DSL,Yes,Two year,6310.9,No
+7569-NMZYQ,Female,Yes,Fiber optic,Yes,Two year,8672.45,No
+4658-HCOHW,Female,Yes,Fiber optic,Yes,Month-to-month,2110.15,Yes
+2211-RMNHO,Female,Yes,DSL,Yes,Two year,5560,No
+2432-TFSMK,Male,Yes,Fiber optic,Yes,One year,1633,No
+3440-JPSCL,Female,Yes,Fiber optic,Yes,Month-to-month,547.65,Yes
+1741-WTPON,Male,Yes,Fiber optic,Yes,Two year,6567.9,No
+3932-IJWDZ,Male,Yes,Fiber optic,Yes,Month-to-month,4747.85,No
+8065-BVEPF,Male,Yes,Fiber optic,Yes,Month-to-month,6496.15,No
+0813-TAXXS,Male,Yes,DSL,Yes,Two year,4323.35,No
+2889-FPWRM,Male,Yes,Fiber optic,Yes,One year,8684.8,Yes
+4338-EYCER,Male,Yes,DSL,Yes,Month-to-month,1125.2,No
+6350-XFYGW,Male,Yes,Fiber optic,Yes,Month-to-month,422.4,No
+8513-OLYGY,Male,Yes,Fiber optic,Yes,Two year,8332.15,No
+0325-XBFAC,Male,Yes,Fiber optic,Yes,Month-to-month,740.3,Yes
+3680-CTHUH,Male,Yes,Fiber optic,Yes,One year,7049.5,No
+2462-XIIJB,Male,Yes,Fiber optic,Yes,Month-to-month,452.7,Yes
+9470-YFUYI,Male,Yes,DSL,Yes,One year,5012.1,No
+7402-EYFXX,Male,Yes,Fiber optic,Yes,Month-to-month,2404.1,No
+5458-CQJTA,Male,Yes,DSL,Yes,Two year,4820.15,Yes
+1230-QAJDW,Male,Yes,DSL,Yes,Month-to-month,209.9,No
+5219-YIPTK,Female,Yes,Fiber optic,Yes,Month-to-month,3409.6,Yes
+5172-RKOCB,Male,Yes,Fiber optic,Yes,Two year,7875,No
+3540-RZJYU,Female,Yes,Fiber optic,Yes,Month-to-month,1270.2,Yes
+5985-TBABQ,Female,Yes,DSL,Yes,One year,2282.95,No
+6616-AALSR,Female,Yes,Fiber optic,Yes,Two year,6725.3,No
+9415-ZNBSX,Female,Yes,DSL,Yes,Two year,6293.2,No
+3393-FMZPV,Female,Yes,Fiber optic,Yes,Month-to-month,2387.75,Yes
+6402-ZFPPI,Female,Yes,Fiber optic,Yes,Month-to-month,2660.2,Yes
+7486-KSRVI,Male,Yes,Fiber optic,Yes,One year,4211.55,Yes
+8443-WVPSS,Male,Yes,Fiber optic,Yes,Month-to-month,990.9,Yes
+3006-XIMLN,Female,Yes,Fiber optic,Yes,Month-to-month,193.8,Yes
+8218-FFJDS,Female,Yes,DSL,Yes,Two year,6058.95,No
+9360-OMDZZ,Male,Yes,Fiber optic,Yes,Month-to-month,2322.85,No
+6305-YLBMM,Male,Yes,Fiber optic,Yes,One year,7262,Yes
+0345-XMMUG,Female,Yes,Fiber optic,Yes,Two year,4854.3,No
+3647-GMGDH,Male,Yes,Fiber optic,Yes,Month-to-month,1914.9,Yes
+3791-LGQCY,Female,Yes,Fiber optic,Yes,Month-to-month,5688.05,Yes
+0265-PSUAE,Female,Yes,Fiber optic,Yes,Month-to-month,1522.7,No
+9128-CPXKI,Female,Yes,Fiber optic,Yes,Two year,5655.45,No
+0129-KPTWJ,Male,Yes,Fiber optic,Yes,Month-to-month,6747.35,No
+8166-ZZTFS,Female,Yes,DSL,Yes,Two year,5265.1,Yes
+5956-YHHRX,Male,Yes,Fiber optic,Yes,Month-to-month,2271.85,No
+0961-ZWLVI,Male,Yes,Fiber optic,Yes,One year,5290.45,No
+7550-WIQVA,Male,Yes,Fiber optic,Yes,One year,5431.4,No
+7544-ZVIKX,Male,Yes,Fiber optic,Yes,One year,6004.85,No
+0016-QLJIS,Female,Yes,DSL,Yes,Two year,5957.9,No
+7508-DQAKK,Female,Yes,DSL,Yes,Two year,5442.05,No
+9356-AXGMP,Male,Yes,Fiber optic,Yes,One year,4428.6,No
+8979-CAMGB,Male,Yes,Fiber optic,Yes,One year,6688.1,No
+7581-EBBOU,Female,Yes,DSL,Yes,One year,4224.7,No
+7813-ZGGAW,Male,Yes,Fiber optic,Yes,Month-to-month,2877.95,No
+4106-HADHQ,Male,Yes,DSL,Yes,One year,3182.95,Yes
+0723-FDLAY,Male,Yes,DSL,Yes,One year,3704.15,No
+3050-RLLXC,Female,Yes,DSL,Yes,Two year,4620.4,No
+9298-WGMRW,Female,Yes,Fiber optic,Yes,Two year,8312.75,No
+2369-UAPKZ,Male,Yes,Fiber optic,Yes,Month-to-month,541.9,Yes
+6583-KQJLK,Female,Yes,Fiber optic,Yes,Month-to-month,1285.05,No
+6116-RFVHN,Female,Yes,Fiber optic,Yes,Month-to-month,3414.65,No
+8849-AYPTR,Male,Yes,Fiber optic,Yes,Month-to-month,2964.05,No
+9518-IMLHK,Male,Yes,DSL,Yes,Month-to-month,2156.25,No
+8740-CRYFY,Male,Yes,Fiber optic,Yes,Month-to-month,78.95,Yes
+3569-VLDHH,Male,Yes,DSL,Yes,One year,5013,No
+4001-TSBTV,Female,Yes,Fiber optic,Yes,Month-to-month,5511.65,No
+1043-UXOVO,Female,Yes,Fiber optic,Yes,Two year,7993.3,No
+1678-FYZOW,Female,Yes,Fiber optic,Yes,Month-to-month,244.65,Yes
+5480-TBGPH,Female,Yes,Fiber optic,Yes,Month-to-month,2431.35,Yes
+0480-BIXDE,Female,Yes,Fiber optic,Yes,Month-to-month,1743.05,No
+8760-ZRHKE,Female,Yes,DSL,Yes,One year,4982.5,No
+6749-UTDVX,Male,Yes,Fiber optic,Yes,Two year,7634.8,No
+7067-KSAZT,Female,Yes,Fiber optic,Yes,One year,6979.8,Yes
+2284-VFLKH,Male,Yes,Fiber optic,Yes,One year,4920.8,No
+3807-BPOMJ,Female,Yes,Fiber optic,Yes,One year,5276.1,No
+3892-NXAZG,Male,Yes,Fiber optic,Yes,Two year,8289.2,No
+9300-AGZNL,Male,Yes,Fiber optic,Yes,Month-to-month,94,Yes
+3717-LNXKW,Male,Yes,Fiber optic,Yes,Month-to-month,3479.05,No
+5734-EJKXG,Female,Yes,Fiber optic,Yes,One year,7365.7,No
+9695-IDRZR,Female,Yes,Fiber optic,Yes,Two year,3946.9,No
+8144-DGHXP,Female,Yes,DSL,Yes,Two year,4299.95,No
+5174-RNGBH,Female,Yes,DSL,Yes,Month-to-month,620.55,Yes
+8631-WUXGY,Female,Yes,Fiber optic,Yes,Month-to-month,4391.25,No
+7270-BDIOA,Female,Yes,Fiber optic,Yes,Month-to-month,1993.8,Yes
+5906-DVAPM,Female,Yes,DSL,Yes,One year,4213.9,No
+5641-DMBFJ,Female,Yes,DSL,Yes,Two year,4916.4,No
+2664-XJZNo,Male,Yes,Fiber optic,Yes,Two year,7559.55,No
+3339-EAQNV,Male,Yes,Fiber optic,Yes,One year,7133.1,No
+3389-YGYAI,Female,Yes,Fiber optic,Yes,Month-to-month,829.55,Yes
+9560-ARGQJ,Female,Yes,Fiber optic,Yes,Month-to-month,1312.15,Yes
+0536-ESJEP,Male,Yes,DSL,Yes,Two year,4191.45,No
+2360-RDGRO,Male,Yes,Fiber optic,Yes,Month-to-month,6812.95,No
+0584-BJQGZ,Female,Yes,DSL,Yes,Month-to-month,1837.9,No
+1360-XFJMR,Female,Yes,Fiber optic,Yes,One year,7344.45,No
+9058-MJLZC,Female,Yes,Fiber optic,Yes,Month-to-month,2283.15,No
+5380-AFSSK,Female,Yes,Fiber optic,Yes,Month-to-month,486.85,Yes
+0931-MHTEM,Female,Yes,Fiber optic,Yes,One year,5299.65,No
+0868-VJRDR,Male,Yes,Fiber optic,Yes,Two year,6605.55,No
+8041-TMEID,Male,Yes,Fiber optic,Yes,Two year,6991.9,No
+9475-NNDGC,Male,Yes,Fiber optic,Yes,One year,7953.25,No
+0899-LIIBW,Male,Yes,Fiber optic,Yes,Month-to-month,3527.3,No
+2568-OIADY,Female,Yes,Fiber optic,Yes,Month-to-month,3762,Yes
+6848-YLDFR,Male,Yes,DSL,Yes,One year,4300.8,No
+8125-QPFJD,Female,Yes,DSL,Yes,Two year,6065.3,No
+2302-ANTDP,Female,Yes,Fiber optic,Yes,Month-to-month,5438.9,Yes
+5923-GXUOC,Male,Yes,Fiber optic,Yes,Month-to-month,1081.45,Yes
+4973-RLZVI,Female,Yes,DSL,Yes,One year,2308.6,No
+7869-ZYDST,Male,Yes,DSL,Yes,Month-to-month,1882.8,No
+2359-KLTEK,Female,Yes,Fiber optic,Yes,Month-to-month,3848,No
+5304-EFJLP,Male,Yes,Fiber optic,Yes,Two year,8022.85,No
+4393-RYCRE,Male,Yes,Fiber optic,Yes,One year,4510.8,No
+9746-MDMBK,Male,Yes,Fiber optic,Yes,One year,5317.8,No
+3162-ZJZFU,Male,Yes,Fiber optic,Yes,Month-to-month,4779.45,No
+8404-GFGCZ,Male,Yes,DSL,Yes,Month-to-month,250.1,No
+8875-AKBYH,Male,Yes,Fiber optic,Yes,Month-to-month,1745.2,No
+0533-UCAAU,Male,Yes,DSL,Yes,One year,4140.1,No
+7137-RYLPP,Male,Yes,Fiber optic,Yes,Month-to-month,3171.15,Yes
+7330-WZLNC,Female,Yes,Fiber optic,Yes,Month-to-month,455.5,Yes
+0114-PEGZZ,Female,Yes,Fiber optic,Yes,Month-to-month,3645.5,No
+8639-NHQEI,Female,Yes,Fiber optic,Yes,Two year,6954.15,No
+3957-LXOLK,Female,Yes,Fiber optic,Yes,Month-to-month,3152.5,Yes
+3720-DBRWL,Male,Yes,DSL,Yes,Two year,4307.1,No
+6635-MYYYZ,Female,Yes,DSL,Yes,One year,2530.4,Yes
+5281-BUZGT,Male,Yes,Fiber optic,Yes,Month-to-month,3186.7,Yes
+0562-FGDCR,Female,Yes,DSL,Yes,Two year,5430.65,No
+0089-IIQKO,Female,Yes,Fiber optic,Yes,Month-to-month,3767.4,No
+5966-EMAZU,Male,Yes,Fiber optic,Yes,One year,6880.85,No
+2055-BFOCC,Male,Yes,DSL,Yes,One year,5329.55,No
+4298-OYIFC,Male,Yes,Fiber optic,Yes,Month-to-month,1539.8,No
+2272-WUSPA,Female,Yes,Fiber optic,Yes,Two year,7751.7,No
+3898-GUYTS,Female,Yes,Fiber optic,Yes,Month-to-month,4385.05,No
+0930-EHUZA,Female,Yes,DSL,Yes,One year,2606.35,No
+6413-XKKPU,Male,Yes,Fiber optic,Yes,Month-to-month,1539.45,Yes
+4973-MGTON,Female,Yes,DSL,Yes,Two year,5969.3,No
+2612-RRIDN,Male,Yes,Fiber optic,Yes,Month-to-month,340.85,Yes
+4735-ASGMA,Male,Yes,Fiber optic,Yes,Month-to-month,2515.3,Yes
+3446-QDSZF,Female,Yes,DSL,Yes,Month-to-month,227.35,No
+6892-EZDTG,Female,Yes,Fiber optic,Yes,Month-to-month,365.4,Yes
+7379-FNIUJ,Male,Yes,Fiber optic,Yes,Month-to-month,198.5,No
+9725-SCPZG,Male,Yes,Fiber optic,Yes,Month-to-month,90.85,Yes
+3217-FZDMN,Female,Yes,Fiber optic,Yes,Month-to-month,742.95,Yes
+0060-FUALY,Female,Yes,Fiber optic,Yes,Month-to-month,5597.65,No
+7480-QNVZJ,Male,Yes,Fiber optic,Yes,Month-to-month,4816.7,Yes
+7088-FBAWU,Female,Yes,DSL,Yes,Month-to-month,1215.8,No
+8313-AFGBW,Male,Yes,DSL,Yes,Two year,3522.65,No
+4398-HSCJH,Female,Yes,DSL,Yes,Month-to-month,155.65,Yes
+4822-LPTYJ,Male,Yes,Fiber optic,Yes,Two year,7346.2,No
+7124-UGSUR,Female,Yes,Fiber optic,Yes,One year,6405,Yes
+4827-DPADN,Female,Yes,DSL,Yes,Two year,6042.7,No
+1502-XFCVR,Female,Yes,Fiber optic,Yes,One year,6145.85,Yes
+9692-TUSXH,Female,Yes,Fiber optic,Yes,Month-to-month,1740.7,Yes
+8920-NAVAY,Male,Yes,Fiber optic,Yes,One year,7053.35,No
+2067-QYTCF,Female,Yes,Fiber optic,Yes,Month-to-month,6953.4,No
+2359-QWQUL,Female,Yes,Fiber optic,Yes,One year,4134.85,Yes
+0052-DCKON,Male,Yes,Fiber optic,Yes,One year,7942.15,No
+3654-ARMGP,Female,Yes,DSL,Yes,Two year,5321.25,No
+9699-UBQFS,Female,Yes,Fiber optic,Yes,Month-to-month,4156.8,No
+0708-SJDIS,Female,Yes,DSL,Yes,Month-to-month,2157.5,No
+3320-VEOYC,Male,Yes,Fiber optic,Yes,Month-to-month,1273.3,No
+2599-CIPQE,Male,Yes,Fiber optic,Yes,Two year,7782.85,No
+0254-FNMCI,Female,Yes,Fiber optic,Yes,Two year,7624.2,No
+6101-IMRMM,Male,Yes,Fiber optic,Yes,Month-to-month,575.45,Yes
+8118-TJAFG,Male,Yes,Fiber optic,Yes,Month-to-month,906.85,No
+3955-JBZZM,Male,Yes,Fiber optic,Yes,Month-to-month,1641.3,No
+8943-URTMR,Female,Yes,Fiber optic,Yes,Month-to-month,152.7,Yes
+9909-IDLEK,Male,Yes,Fiber optic,Yes,Month-to-month,1826.7,No
+4325-NFSKC,Male,Yes,Fiber optic,Yes,Month-to-month,1660,Yes
+9927-DSWDF,Male,Yes,Fiber optic,Yes,Month-to-month,2180.55,No
+1360-JYXKQ,Female,Yes,Fiber optic,Yes,One year,5437.1,No
+7762-URZQH,Male,Yes,Fiber optic,Yes,Two year,6981.35,Yes
+0899-WZRSD,Male,Yes,Fiber optic,Yes,Month-to-month,5794.45,No
+3262-EIDHV,Female,Yes,DSL,Yes,Two year,5893.9,No
+6907-NZZIJ,Female,Yes,Fiber optic,Yes,Month-to-month,3615.6,Yes
+4135-FRWKJ,Female,Yes,DSL,Yes,One year,4154.55,No
+4628-WQCQQ,Male,Yes,Fiber optic,Yes,One year,3030.6,Yes
+5995-SNNEW,Male,Yes,Fiber optic,Yes,Month-to-month,2184.85,No
+4879-GZLFH,Female,Yes,Fiber optic,Yes,Month-to-month,3875.4,No
+1644-IRKSF,Female,Yes,Fiber optic,Yes,One year,3124.5,Yes
+5707-ZMDJP,Male,Yes,DSL,Yes,Two year,3729.6,No
+0277-BKSQP,Male,Yes,DSL,Yes,Month-to-month,475.1,No
+2676-SSLTO,Male,Yes,DSL,Yes,Two year,3199,No
+0363-SVHYR,Male,Yes,DSL,Yes,Two year,6263.8,No
+6591-QGOYB,Male,Yes,Fiber optic,Yes,Month-to-month,1672.1,No
+9070-BCKQP,Female,Yes,Fiber optic,Yes,Two year,7881.2,No
+2995-UPRYS,Female,Yes,Fiber optic,Yes,One year,4062.2,Yes
+9633-DENPU,Female,Yes,DSL,Yes,Month-to-month,2723.4,No
+9258-CNWAC,Female,Yes,Fiber optic,Yes,Two year,8166.8,No
+2982-VPSGI,Female,Yes,Fiber optic,Yes,Month-to-month,1078.9,Yes
+4188-FRABG,Male,Yes,Fiber optic,Yes,Month-to-month,5925.75,No
+8199-ZLLSA,Male,Yes,Fiber optic,Yes,One year,7804.15,Yes
+4128-ETESU,Female,Yes,Fiber optic,Yes,Month-to-month,4747.2,No
+0620-DLSLK,Female,Yes,Fiber optic,Yes,Month-to-month,1028.9,No
+5980-NoPLP,Female,Yes,Fiber optic,Yes,Month-to-month,4364.1,Yes
+3850-OKINF,Male,Yes,DSL,Yes,One year,4692.55,No
+6892-XPFPU,Male,Yes,Fiber optic,Yes,Month-to-month,2433.9,Yes
+8016-NCFVO,Male,Yes,Fiber optic,Yes,Month-to-month,6382.55,No
+4119-ZYPZY,Male,Yes,Fiber optic,Yes,Two year,7623.2,No
+7577-SWIFR,Male,Yes,Fiber optic,Yes,Month-to-month,89.25,No
+6408-OTUBZ,Female,Yes,Fiber optic,Yes,One year,6779.05,No
+5204-HMGYF,Female,Yes,DSL,Yes,One year,4345,No
+6196-HBOBZ,Male,Yes,Fiber optic,Yes,Two year,6347.55,No
+5439-WIKXB,Male,Yes,Fiber optic,Yes,Month-to-month,3851.45,No
+9874-QLCLH,Female,Yes,Fiber optic,Yes,Month-to-month,1743.5,Yes
+8294-UIMBA,Female,Yes,Fiber optic,Yes,One year,2638.1,No
+2252-JHJGE,Male,Yes,Fiber optic,Yes,One year,6363.45,No
+4188-PCPIG,Female,Yes,DSL,Yes,Two year,4124.65,No
+0947-IDHRQ,Female,Yes,Fiber optic,Yes,Month-to-month,526.7,Yes
+4350-ZTLPI,Female,Yes,Fiber optic,Yes,One year,5718.2,No
+9048-JVYVF,Male,Yes,DSL,Yes,Month-to-month,191.35,Yes
+5727-MYATE,Male,Yes,DSL,Yes,Two year,6397.6,No
+3021-VLNRJ,Female,Yes,DSL,Yes,One year,3478.15,No
+2080-CAZNM,Female,Yes,Fiber optic,Yes,Month-to-month,4133.95,No
+1028-FFNJK,Male,Yes,Fiber optic,Yes,Month-to-month,2917.65,No
+3001-UNBTL,Male,Yes,Fiber optic,Yes,Month-to-month,2964.8,No
+5982-PSMKW,Female,Yes,DSL,Yes,Two year,2198.3,No
+1902-XBTFB,Male,Yes,Fiber optic,Yes,Month-to-month,2001.5,Yes
+1676-MQAOA,Male,Yes,DSL,Yes,Two year,5336.35,No
+0786-IVLAW,Female,Yes,Fiber optic,Yes,One year,7238.6,No
+7566-DSRLQ,Female,Yes,Fiber optic,Yes,Two year,7998.8,No
+7245-JMTTQ,Female,Yes,Fiber optic,Yes,One year,5703.25,No
+6050-IJRHS,Female,Yes,Fiber optic,Yes,One year,7397,No
+8591-TKMZH,Male,Yes,Fiber optic,Yes,Two year,6555.2,No
+0734-OXWBT,Male,Yes,DSL,Yes,Month-to-month,225.65,No
+1841-YSJGV,Male,Yes,Fiber optic,Yes,Two year,7852.4,No
+7668-XCFYV,Female,Yes,Fiber optic,Yes,Month-to-month,1614.7,No
+5336-UFNZP,Female,Yes,Fiber optic,Yes,One year,7047.5,No
+9233-PSYHO,Female,Yes,Fiber optic,Yes,One year,4459.8,No
+5376-PCKNB,Male,Yes,Fiber optic,Yes,One year,7459,No
+4060-LDNLU,Male,Yes,Fiber optic,Yes,Month-to-month,639.7,No
+8327-LZKAS,Female,Yes,Fiber optic,Yes,One year,4533.9,Yes
+1075-BGWOH,Male,Yes,Fiber optic,Yes,Month-to-month,1587.55,Yes
+0302-JOIVN,Female,Yes,Fiber optic,Yes,Month-to-month,842.9,Yes
+3858-XHYJO,Female,Yes,Fiber optic,Yes,One year,4228.55,No
+7025-IWFHT,Male,Yes,Fiber optic,Yes,One year,3729.75,No
+2056-EVGZL,Male,Yes,Fiber optic,Yes,One year,7322.5,No
+8777-MBMTS,Female,Yes,Fiber optic,Yes,Two year,6725.5,No
+5366-IJEQJ,Male,Yes,Fiber optic,Yes,Month-to-month,1761.45,Yes
+1981-INRFU,Female,Yes,Fiber optic,Yes,Month-to-month,164.5,Yes
+4971-PUYQO,Female,Yes,Fiber optic,Yes,Month-to-month,2724.6,Yes
+3338-CVVEH,Male,Yes,Fiber optic,Yes,Month-to-month,1173.55,No
+2615-YVMYX,Male,Yes,Fiber optic,Yes,Month-to-month,7713.55,No
+2851-STERV,Male,Yes,DSL,Yes,One year,2471.25,No
+4393-GEADV,Male,Yes,Fiber optic,Yes,Two year,7842.3,No
+6029-WTIPC,Male,Yes,Fiber optic,Yes,Month-to-month,3744.05,Yes
+8634-CILSZ,Male,Yes,Fiber optic,Yes,One year,7220.35,Yes
+1409-PHXTF,Male,Yes,Fiber optic,Yes,Two year,6077.75,No
+4274-DRSQT,Female,Yes,Fiber optic,Yes,One year,6000.1,No
+2885-HIJDH,Male,Yes,DSL,Yes,Two year,6194.1,No
+5424-RLQLC,Male,Yes,DSL,Yes,Month-to-month,638.95,No
+6507-DTJZV,Male,Yes,DSL,Yes,Month-to-month,831.75,No
+8780-IXSTS,Female,Yes,Fiber optic,Yes,Month-to-month,521.3,Yes
+6723-WSNTY,Female,Yes,Fiber optic,Yes,One year,7181.95,No
+0345-HKJVM,Female,Yes,Fiber optic,Yes,Month-to-month,577.6,Yes
+1061-PNTHC,Female,Yes,Fiber optic,Yes,Month-to-month,5953,No
+6574-MCOEH,Female,Yes,DSL,Yes,One year,2531.4,No
+3049-SOLAY,Female,Yes,Fiber optic,Yes,Month-to-month,292.85,Yes
+9479-HYNYL,Female,Yes,DSL,Yes,Two year,5705.05,No
+8058-INTPH,Female,Yes,Fiber optic,Yes,Month-to-month,79.65,Yes
+3642-GKTCT,Female,Yes,Fiber optic,Yes,One year,6993.65,No
+2144-BFDSO,Female,Yes,Fiber optic,Yes,Month-to-month,5431.9,No
+5647-FXOTP,Female,Yes,Fiber optic,Yes,Month-to-month,6401.25,No
+5569-OUICF,Female,Yes,Fiber optic,Yes,Month-to-month,2812.2,Yes
+8821-XNHVZ,Female,Yes,Fiber optic,Yes,Month-to-month,80.05,Yes
+9027-TMATR,Female,Yes,DSL,Yes,Two year,3460.3,No
+1941-HOSAM,Male,Yes,Fiber optic,Yes,Month-to-month,90.1,No
+9110-HSGTV,Female,Yes,DSL,Yes,Two year,5555.3,No
+1935-IMVBB,Male,Yes,Fiber optic,Yes,Month-to-month,4952.95,No
+1470-PSXNM,Male,Yes,Fiber optic,Yes,One year,4520.15,No
+9866-OCCKE,Female,Yes,Fiber optic,Yes,Two year,8075.35,No
+7718-UPSKJ,Female,Yes,Fiber optic,Yes,One year,7251.9,No
+8731-WBBMB,Female,Yes,DSL,Yes,Month-to-month,2078.55,No
+1448-CYWKC,Female,Yes,Fiber optic,Yes,One year,6225.4,No
+5747-PMBSQ,Male,Yes,Fiber optic,Yes,Month-to-month,934.1,Yes
+3143-JQEGI,Female,Yes,Fiber optic,Yes,Month-to-month,1222.8,Yes
+6386-SZZKH,Female,Yes,Fiber optic,Yes,Two year,5293.2,Yes
+3327-YBAKM,Female,Yes,Fiber optic,Yes,One year,6314.35,No
+3370-GQEAL,Male,Yes,Fiber optic,Yes,Month-to-month,2509.95,No
+5032-USPKF,Female,Yes,DSL,Yes,One year,3187.65,No
+3521-SYVOR,Female,Yes,DSL,Yes,Month-to-month,2345.2,Yes
+6283-GITPX,Male,Yes,DSL,Yes,Two year,5522.7,No
+9526-JAWYF,Male,Yes,Fiber optic,Yes,Month-to-month,2335.3,Yes
+9788-HNGUT,Male,Yes,Fiber optic,Yes,Two year,8594.4,No
+5375-XLDOF,Male,Yes,Fiber optic,Yes,Two year,7665.8,No
+5649-VUKMC,Female,Yes,Fiber optic,Yes,One year,1115.15,Yes
+6559-PDZLR,Male,Yes,Fiber optic,Yes,Month-to-month,2537,No
+4273-MBHYA,Female,Yes,Fiber optic,Yes,Month-to-month,89.35,No
+8232-CTLKO,Female,Yes,DSL,Yes,Two year,3996.8,No
+9227-YBAXE,Female,Yes,DSL,Yes,Two year,5215.1,No
+0112-QAWRZ,Male,Yes,Fiber optic,Yes,Month-to-month,1442.2,No
+0877-SDMBN,Female,Yes,Fiber optic,Yes,One year,5639.05,Yes
+2786-GCDPI,Female,Yes,Fiber optic,Yes,Month-to-month,5222.35,No
+4043-MKDTV,Male,Yes,Fiber optic,Yes,Two year,7291.75,No
+8313-KTIHG,Male,Yes,DSL,Yes,Month-to-month,249.4,No
+5320-BRKGK,Female,Yes,DSL,Yes,Two year,4415.75,No
+6284-KMNUF,Female,Yes,Fiber optic,Yes,One year,5270.6,No
+9689-PTNPG,Male,Yes,Fiber optic,Yes,Month-to-month,144.55,Yes
+3137-LUPIX,Female,Yes,DSL,Yes,Month-to-month,253,No
+0843-WTBXE,Male,Yes,Fiber optic,Yes,Month-to-month,4517.25,Yes
+7450-NWRTR,Male,Yes,Fiber optic,Yes,Month-to-month,1200.15,Yes
+5118-MUEYH,Female,Yes,Fiber optic,Yes,Month-to-month,5083.55,No
+9095-HFAFX,Female,Yes,Fiber optic,Yes,Month-to-month,389.6,Yes
+2379-ENZGV,Male,Yes,Fiber optic,Yes,Month-to-month,523.5,Yes
+0292-WEGCH,Female,Yes,DSL,Yes,Month-to-month,4524.05,No
+8910-ICHIU,Female,Yes,Fiber optic,Yes,One year,4664.2,No
+4097-YODCF,Male,Yes,Fiber optic,Yes,One year,3470.8,No
+9715-WZCLW,Male,Yes,Fiber optic,Yes,Two year,6910.3,No
+6005-OBZPH,Female,Yes,Fiber optic,Yes,Month-to-month,2277.65,Yes
+4049-ZPALD,Female,Yes,Fiber optic,Yes,Two year,6375.8,No
+6833-JMZYP,Female,Yes,Fiber optic,Yes,Month-to-month,1505.45,No
+2722-VOJQL,Male,Yes,Fiber optic,Yes,One year,6903.1,Yes
+8961-QDZZJ,Female,Yes,Fiber optic,Yes,One year,5535.8,No
+7929-SKFGK,Male,Yes,Fiber optic,Yes,Two year,8244.3,No
+6435-VWCCY,Male,Yes,Fiber optic,Yes,Two year,5968.4,No
+4998-IKFSE,Female,Yes,Fiber optic,Yes,Month-to-month,3096.9,No
+8630-QSGXK,Male,Yes,DSL,Yes,Two year,3901.25,No
+7394-FKDNK,Female,Yes,Fiber optic,Yes,Month-to-month,853.1,Yes
+6331-LWDTQ,Male,Yes,DSL,Yes,Month-to-month,794.25,Yes
+1597-FZREH,Female,Yes,DSL,Yes,Month-to-month,160.8,Yes
+7879-CGSFV,Male,Yes,Fiber optic,Yes,One year,5552.05,No
+5959-BELXA,Male,Yes,Fiber optic,Yes,Month-to-month,3019.25,Yes
+1833-TCXKK,Male,Yes,Fiber optic,Yes,Month-to-month,4882.8,No
+1832-PEUTS,Male,Yes,Fiber optic,Yes,Two year,5411.65,No
+5696-CEIQJ,Male,Yes,Fiber optic,Yes,Two year,6895.5,No
+7503-ZGUZJ,Male,Yes,Fiber optic,Yes,Month-to-month,84.65,Yes
+1696-HXOWK,Female,Yes,Fiber optic,Yes,One year,6856.95,No
+3026-ATZYV,Female,Yes,DSL,Yes,One year,2658.8,No
+2657-VPXTA,Female,Yes,Fiber optic,Yes,Month-to-month,929.45,No
+9770-KXGQU,Female,Yes,Fiber optic,Yes,One year,5311.85,No
+6437-UKHMV,Female,Yes,Fiber optic,Yes,Month-to-month,586.05,Yes
+4277-UDIEF,Male,Yes,DSL,Yes,Month-to-month,1923.85,No
+4912-PIGUY,Female,Yes,Fiber optic,Yes,Month-to-month,84.6,No
+6060-DRTNL,Female,Yes,Fiber optic,Yes,Month-to-month,415.55,Yes
+2725-TTRIQ,Female,Yes,DSL,Yes,Two year,5986.55,No
+3374-TTZTK,Male,Yes,Fiber optic,Yes,Two year,5487,No
+6289-CPNLD,Male,Yes,DSL,Yes,One year,2405.05,Yes
+4419-UJMUS,Male,Yes,Fiber optic,Yes,Two year,6856.45,No
+7609-YBPXG,Male,Yes,DSL,Yes,Two year,4735.2,No
+7856-GANIL,Male,Yes,Fiber optic,Yes,One year,4525.8,No
+3703-TTEPD,Male,Yes,DSL,Yes,Month-to-month,1424.4,No
+8837-VVWLQ,Female,Yes,Fiber optic,Yes,Month-to-month,668.4,Yes
+6693-FRIRW,Male,Yes,Fiber optic,Yes,Month-to-month,1794.65,No
+6586-MYGKD,Male,Yes,DSL,Yes,Two year,5289.8,No
+0248-PGHBZ,Female,Yes,Fiber optic,Yes,Two year,6140.85,No
+9574-RKJIF,Male,Yes,Fiber optic,Yes,Month-to-month,2838.7,Yes
+3863-QSTYI,Male,Yes,DSL,Yes,Month-to-month,3735.45,No
+5985-BEHZK,Female,Yes,Fiber optic,Yes,One year,7578.05,No
+9644-KVCNC,Female,Yes,Fiber optic,Yes,One year,6056.9,No
+9279-CJEOJ,Female,Yes,Fiber optic,Yes,Month-to-month,2025.1,No
+2404-JIBFC,Female,Yes,DSL,Yes,Two year,4657.95,No
+8029-XYPWT,Male,Yes,Fiber optic,Yes,Two year,8016.6,No
+6804-GDMOI,Female,Yes,Fiber optic,Yes,Two year,6428.4,Yes
+2990-OGYTD,Female,Yes,DSL,Yes,Two year,5883.85,No
+9572-MTILT,Male,Yes,Fiber optic,Yes,Month-to-month,6252.9,Yes
+7658-UYUQS,Male,Yes,Fiber optic,Yes,Month-to-month,1857.25,No
+9611-CTWIH,Female,Yes,Fiber optic,Yes,Month-to-month,240.45,Yes
+0329-GTIAJ,Female,Yes,Fiber optic,Yes,Month-to-month,315.3,Yes
+6918-UMQCG,Female,Yes,Fiber optic,Yes,Month-to-month,384.25,No
+0675-NCDYU,Female,Yes,Fiber optic,Yes,Two year,8543.25,No
+2302-OUZXB,Male,Yes,DSL,Yes,Two year,5784.3,No
+0013-EXCHZ,Female,Yes,Fiber optic,Yes,Month-to-month,267.4,Yes
+9107-UKCKY,Male,Yes,DSL,Yes,One year,4914.8,No
+4929-BSTRX,Female,Yes,DSL,Yes,Month-to-month,53.55,Yes
+5271-YNWVR,Male,Yes,Fiber optic,Yes,Two year,7856,Yes
+1707-HABPF,Female,Yes,Fiber optic,Yes,One year,4126.35,No
+7228-OMTPN,Male,Yes,Fiber optic,Yes,Month-to-month,370.65,Yes
+0027-KWYKW,Female,Yes,Fiber optic,Yes,Month-to-month,1849.95,No
+6284-AHOOQ,Male,Yes,Fiber optic,Yes,Month-to-month,1910.6,Yes
+2344-JMOGN,Male,Yes,Fiber optic,Yes,Month-to-month,890.6,Yes
+9152-AMKAK,Male,Yes,DSL,Yes,Two year,493.4,No
+8049-WJCLQ,Male,Yes,DSL,Yes,Month-to-month,563.5,No
+6847-KJLTS,Female,Yes,Fiber optic,Yes,Month-to-month,5749.8,No
+4619-EVPHY,Female,Yes,Fiber optic,Yes,One year,1859.5,No
+5286-YHCVC,Male,Yes,Fiber optic,Yes,Two year,7470.1,No
+4391-RESHN,Male,Yes,Fiber optic,Yes,Month-to-month,2470.1,Yes
+6821-BUXUX,Female,Yes,Fiber optic,Yes,Month-to-month,1244.5,Yes
+9801-GDWGV,Female,Yes,Fiber optic,Yes,Month-to-month,3994.45,Yes
+4942-VZZOM,Male,Yes,DSL,Yes,One year,4392.5,No
+7502-BNYGS,Female,Yes,DSL,Yes,Month-to-month,3168,No
+7638-QVMVY,Female,Yes,Fiber optic,Yes,Month-to-month,522.95,Yes
+1576-PFZIW,Male,Yes,Fiber optic,Yes,Two year,7511.9,No
+3096-GKWEB,Male,Yes,Fiber optic,Yes,Month-to-month,1691.9,No
+2371-JQHZZ,Male,Yes,Fiber optic,Yes,Month-to-month,2248.05,No
+1121-QSIVB,Female,Yes,DSL,Yes,One year,3471.1,No
+2824-MYYBN,Female,Yes,Fiber optic,Yes,Month-to-month,3314.15,No
+0147-ESWWR,Female,Yes,Fiber optic,Yes,Month-to-month,3949.15,No
+1217-VASWC,Male,Yes,Fiber optic,Yes,One year,4304,No
+2522-WLNSF,Female,Yes,DSL,Yes,One year,2106.3,No
+0193-ESZXP,Female,Yes,Fiber optic,Yes,One year,6205.5,Yes
+4369-HTUIF,Male,Yes,Fiber optic,Yes,Month-to-month,503.6,Yes
+5327-XOKKY,Male,Yes,DSL,Yes,Two year,5329,No
+1984-FCOWB,Female,Yes,Fiber optic,Yes,One year,7674.55,Yes
+0654-HMSHN,Male,Yes,Fiber optic,Yes,Month-to-month,2157.95,Yes
+6719-OXYBR,Male,Yes,Fiber optic,Yes,Month-to-month,1219.85,No
+6476-YHMGA,Female,Yes,DSL,Yes,Month-to-month,1155.6,No
+5287-QWLKY,Male,Yes,Fiber optic,Yes,Month-to-month,7548.1,Yes
+0168-XZKBB,Female,Yes,Fiber optic,Yes,Month-to-month,1564.4,No
+6297-NoOPG,Female,Yes,Fiber optic,Yes,Two year,7752.05,No
+1891-UAWWU,Female,Yes,Fiber optic,Yes,Month-to-month,1951,Yes
+6108-OQZDQ,Female,Yes,Fiber optic,Yes,Month-to-month,384.5,Yes
+0363-QJVFX,Male,Yes,Fiber optic,Yes,Month-to-month,3432.9,Yes
+9840-DVNDC,Male,Yes,Fiber optic,Yes,Month-to-month,463.05,Yes
+2325-WINES,Female,Yes,Fiber optic,Yes,One year,3416.85,No
+3096-JRDSO,Female,Yes,Fiber optic,Yes,Month-to-month,2867.75,Yes
+8707-HOEDG,Female,Yes,Fiber optic,Yes,Two year,7689.8,No
+6408-WHTEF,Male,Yes,DSL,Yes,Two year,6376.55,No
+7989-VCQOH,Male,Yes,DSL,Yes,Month-to-month,1611.15,No
+4199-QHJNM,Male,Yes,Fiber optic,Yes,Two year,6989.7,No
+5883-GTGVD,Male,Yes,Fiber optic,Yes,Month-to-month,1931.75,Yes
+5135-GRQJV,Male,Yes,Fiber optic,Yes,Two year,8331.95,No
+9730-DRTMJ,Male,Yes,DSL,Yes,One year,2333.05,No
+4686-UXDML,Female,Yes,Fiber optic,Yes,Month-to-month,1992.55,No
+3349-ANQNH,Female,Yes,Fiber optic,Yes,One year,5890,No
+5937-EORGB,Male,Yes,Fiber optic,Yes,Month-to-month,1392.25,No
+1421-HCERK,Male,Yes,Fiber optic,Yes,Month-to-month,3181.8,No
+1183-CANVH,Female,Yes,DSL,Yes,One year,1347.15,No
+1972-XMUWV,Female,Yes,DSL,Yes,Two year,3808.2,No
+8679-LZBMD,Male,Yes,Fiber optic,Yes,One year,3974.15,No
+3407-JMJQQ,Female,Yes,Fiber optic,Yes,Two year,7661.8,No
+8645-KOMJQ,Male,Yes,DSL,Yes,Two year,5601.4,No
+4057-FKCZK,Male,Yes,Fiber optic,Yes,Two year,4828.05,No
+2237-ZFSMY,Female,Yes,Fiber optic,Yes,One year,3692.85,Yes
+1415-YFWLT,Female,Yes,Fiber optic,Yes,Month-to-month,89.3,Yes
+8661-BOYNW,Female,Yes,DSL,Yes,Two year,6096.45,No
+7233-DRTRF,Male,Yes,Fiber optic,Yes,Month-to-month,6444.05,No
+1162-ECVII,Male,Yes,Fiber optic,Yes,Two year,7932.5,No
+7048-GXDAY,Male,Yes,Fiber optic,Yes,Month-to-month,4040.65,No
+4548-SDBKE,Female,Yes,Fiber optic,Yes,Month-to-month,474.8,Yes
+1697-NVVGY,Male,Yes,DSL,Yes,Month-to-month,1286.05,No
+2419-FSORS,Male,Yes,Fiber optic,Yes,Two year,7719.5,No
+6754-LZUKA,Male,Yes,DSL,Yes,Two year,4932.5,No
+8099-MZPUJ,Male,Yes,Fiber optic,Yes,Two year,5443.65,No
+3197-NNYNB,Male,Yes,Fiber optic,Yes,Two year,6631.85,No
+3396-DKDEL,Female,Yes,Fiber optic,Yes,Two year,8250,No
+1752-OZXFY,Male,Yes,DSL,Yes,One year,3561.15,No
+5321-NTRKC,Male,Yes,DSL,Yes,Two year,5234.95,No
+9507-EXLTT,Female,Yes,Fiber optic,Yes,Month-to-month,79.35,Yes
+9846-GKXAS,Female,Yes,Fiber optic,Yes,Month-to-month,809.75,Yes
+5055-MGMGF,Female,Yes,Fiber optic,Yes,Month-to-month,6914.95,No
+2971-SGAFL,Female,Yes,DSL,Yes,Month-to-month,995.35,No
+9391-YZEJW,Female,Yes,Fiber optic,Yes,One year,5757.2,No
+4118-CEVPF,Female,Yes,Fiber optic,Yes,One year,3836.3,No
+0378-NHQXU,Female,Yes,Fiber optic,Yes,Month-to-month,1460.65,Yes
+2194-IIQOF,Female,Yes,DSL,Yes,Two year,6388.65,No
+7969-AULMZ,Female,Yes,Fiber optic,Yes,Month-to-month,2119.5,Yes
+2968-SSGAA,Female,Yes,Fiber optic,Yes,Month-to-month,1060.2,Yes
+6777-TGHTM,Female,Yes,Fiber optic,Yes,One year,5785.5,Yes
+3229-USWAR,Female,Yes,DSL,Yes,One year,2727.3,No
+8610-WFCJF,Female,Yes,Fiber optic,Yes,Month-to-month,4783.5,Yes
+0383-CLDDA,Female,Yes,DSL,Yes,Two year,5897.4,No
+7881-INRLC,Male,Yes,Fiber optic,Yes,Month-to-month,4740,Yes
+8033-ATFAS,Female,Yes,DSL,Yes,Month-to-month,2341.5,No
+6172-FECYY,Male,Yes,Fiber optic,Yes,Month-to-month,4254.85,Yes
+9402-CXWPL,Female,Yes,Fiber optic,Yes,One year,6838.6,No
+0856-NAOES,Male,Yes,DSL,Yes,Month-to-month,414.1,No
+5183-KLYEM,Female,Yes,Fiber optic,Yes,Two year,8192.6,No
+0068-FIGTF,Female,Yes,DSL,Yes,One year,2078.95,No
+5965-GGPRW,Male,Yes,Fiber optic,Yes,Two year,7609.75,No
+1840-BIUOG,Male,Yes,DSL,Yes,One year,1416.2,No
+1356-MKYSK,Male,Yes,DSL,Yes,Month-to-month,483.3,No
+0011-IGKFF,Male,Yes,Fiber optic,Yes,Month-to-month,1237.85,Yes
+4192-GORJT,Male,Yes,Fiber optic,Yes,Month-to-month,498.1,Yes
+6496-SLWHQ,Male,Yes,Fiber optic,Yes,Month-to-month,294.45,Yes
+2931-FSOHN,Male,Yes,DSL,Yes,Month-to-month,788.35,No
+9971-ZWPBF,Male,Yes,Fiber optic,Yes,Month-to-month,3625.2,No
+2202-CUYXZ,Male,Yes,Fiber optic,Yes,Month-to-month,84.85,Yes
+8421-WZOOW,Female,Yes,Fiber optic,Yes,Month-to-month,5567.45,No
+5816-QVHRX,Female,Yes,Fiber optic,Yes,Month-to-month,3541.4,No
+7169-YWAMK,Male,Yes,DSL,Yes,Two year,4855.35,No
+6859-RKMZJ,Male,Yes,DSL,Yes,Month-to-month,608.15,No
+2957-JIRMN,Female,Yes,Fiber optic,Yes,One year,4959.15,No
+7163-OCEQI,Male,Yes,DSL,Yes,One year,1663.75,No
+9033-EOXWV,Female,Yes,DSL,Yes,One year,872.65,Yes
+2324-EFHVG,Male,Yes,Fiber optic,Yes,Two year,6692.65,No
+1522-VVDMG,Male,Yes,Fiber optic,Yes,Month-to-month,608.8,Yes
+7049-GKVZY,Female,Yes,DSL,Yes,One year,1387.35,No
+3585-YNADK,Female,Yes,DSL,Yes,One year,4368.95,No
+5567-WSELE,Male,Yes,Fiber optic,Yes,Month-to-month,279.55,Yes
+1472-TNCWL,Male,Yes,Fiber optic,Yes,Month-to-month,3512.5,No
+8063-RJYNF,Male,Yes,Fiber optic,Yes,Month-to-month,1483.25,Yes
+9661-ACXBS,Female,Yes,Fiber optic,Yes,Month-to-month,4400.75,Yes
+2193-SFWQW,Male,Yes,Fiber optic,Yes,Two year,8033.1,No
+3462-BJQQA,Female,Yes,Fiber optic,Yes,Month-to-month,552.65,No
+6733-LRIZX,Male,Yes,Fiber optic,Yes,Two year,4025.5,No
+3727-RJMEO,Male,Yes,Fiber optic,Yes,Month-to-month,460.25,Yes
+3779-OSWCF,Female,Yes,DSL,Yes,Two year,6506.15,No
+6646-VRFOL,Male,Yes,Fiber optic,Yes,Month-to-month,5485.5,Yes
+5671-UUNXD,Female,Yes,Fiber optic,Yes,One year,5189.75,No
+0956-ACVZC,Female,Yes,Fiber optic,Yes,One year,5060.9,No
+4250-ZBWLV,Male,Yes,Fiber optic,Yes,One year,7176.55,Yes
+0440-MOGPM,Female,Yes,DSL,Yes,One year,3263.9,No
+9090-SGQXL,Male,Yes,Fiber optic,Yes,Month-to-month,7299.65,Yes
+6595-YGXIT,Male,Yes,Fiber optic,Yes,Month-to-month,2291.2,Yes
+9835-ZIITK,Male,Yes,Fiber optic,Yes,One year,7491.75,Yes
+8008-ESFLK,Female,Yes,Fiber optic,Yes,One year,5835.5,No
+7537-CBQUZ,Male,Yes,Fiber optic,Yes,Month-to-month,7031.45,No
+1555-DJEQW,Female,Yes,Fiber optic,Yes,Two year,7723.9,Yes
+9253-QXKBE,Male,Yes,Fiber optic,Yes,Month-to-month,2653.65,Yes
+0487-RPVUM,Male,Yes,Fiber optic,Yes,Month-to-month,5943.65,No
+2516-XSJKX,Female,Yes,DSL,Yes,Two year,3126.45,No
+9445-SZLCH,Female,Yes,Fiber optic,Yes,Month-to-month,3457.9,Yes
+4003-FUSHP,Male,Yes,DSL,Yes,Month-to-month,1093.2,No
+4884-ZTHVF,Female,Yes,Fiber optic,Yes,Month-to-month,713.6,No
+5349-IECLD,Male,Yes,Fiber optic,Yes,Month-to-month,178.1,Yes
+8097-OMULG,Male,Yes,DSL,Yes,One year,4541.9,No
+6013-BHCAW,Male,Yes,DSL,Yes,Two year,4976.15,No
+0401-WDBXM,Male,Yes,Fiber optic,Yes,Two year,7542.25,No
+8085-MSNLK,Female,Yes,Fiber optic,Yes,Two year,6891.4,No
+9691-HKOVS,Female,Yes,DSL,Yes,One year,4916.95,No
+4523-WXCEF,Female,Yes,Fiber optic,Yes,Month-to-month,6039.9,Yes
+5119-KEPFY,Male,Yes,Fiber optic,Yes,Month-to-month,3440.25,No
+8775-LHDJH,Female,Yes,Fiber optic,Yes,Month-to-month,90.6,Yes
+9625-QNLUX,Male,Yes,Fiber optic,Yes,Two year,7074.4,No
+3097-NQYSN,Male,Yes,Fiber optic,Yes,Month-to-month,156.35,Yes
+4700-UBQMV,Male,Yes,DSL,Yes,One year,1549.75,No
+3565-UNoCC,Female,Yes,Fiber optic,Yes,Month-to-month,2952.85,Yes
+4627-MIHJH,Female,Yes,Fiber optic,Yes,Two year,7467.55,No
+9795-NREXC,Female,Yes,DSL,Yes,Two year,5484.4,No
+9249-FXSCK,Female,Yes,Fiber optic,Yes,One year,5916.45,Yes
+5553-AOINX,Female,Yes,Fiber optic,Yes,One year,6891.45,No
+4226-KKDON,Male,Yes,DSL,Yes,Month-to-month,520.95,No
+3831-YCPUO,Female,Yes,Fiber optic,Yes,Two year,7854.9,No
+7445-WMRBW,Female,Yes,DSL,Yes,One year,3581.4,No
+9924-JPRMC,Male,Yes,Fiber optic,Yes,Two year,8547.15,No
+6218-KNUBD,Male,Yes,DSL,Yes,Month-to-month,357.6,No
+0871-URUWO,Male,Yes,Fiber optic,Yes,Month-to-month,1359,Yes
+9190-MFJLN,Male,Yes,Fiber optic,Yes,Month-to-month,1777.9,Yes
+6198-PNNSZ,Female,Yes,Fiber optic,Yes,One year,6109.65,No
+1095-JUDTC,Female,Yes,Fiber optic,Yes,Month-to-month,4504.55,Yes
+3726-TBHQT,Male,Yes,Fiber optic,Yes,Two year,8175.9,No
+5385-SUIRI,Male,Yes,Fiber optic,Yes,Month-to-month,5568.35,Yes
+4009-ALQFH,Female,Yes,Fiber optic,Yes,Month-to-month,2369.05,Yes
+6383-ZTSIW,Female,Yes,Fiber optic,Yes,One year,3877.95,No
+5222-IMUKT,Male,Yes,Fiber optic,Yes,Month-to-month,2871.5,No
+8901-UPRHR,Female,Yes,Fiber optic,Yes,Two year,7711.45,No
+0118-JPNoY,Female,Yes,Fiber optic,Yes,Month-to-month,2193.65,No
+0725-CXOTM,Female,Yes,DSL,Yes,One year,3348.1,No
+4077-CROMM,Female,Yes,Fiber optic,Yes,Month-to-month,3243.45,Yes
+6328-ZPBGN,Female,Yes,Fiber optic,Yes,Month-to-month,997.65,Yes
+0201-MIBOL,Female,Yes,Fiber optic,Yes,Two year,6471.85,No
+4937-QPZPO,Male,Yes,Fiber optic,Yes,One year,6241.35,No
+2925-VDZHY,Male,Yes,DSL,Yes,Two year,6501.35,No
+8033-VCZGH,Male,Yes,Fiber optic,Yes,One year,5231.3,No
+4789-KWMXN,Male,Yes,Fiber optic,Yes,One year,5275.8,Yes
+4718-WXBGI,Male,Yes,DSL,Yes,Two year,6614.9,No
+5716-LIBJC,Female,Yes,Fiber optic,Yes,One year,1299.1,No
+2988-QRAJY,Male,Yes,Fiber optic,Yes,Two year,7430.75,No
+2856-NNASM,Male,Yes,Fiber optic,Yes,Month-to-month,3856.75,Yes
+8559-CIZFV,Male,Yes,DSL,Yes,One year,1625,Yes
+1090-PYKCI,Female,Yes,Fiber optic,Yes,One year,7234.8,No
+7547-EKNFS,Male,Yes,Fiber optic,Yes,Month-to-month,3959.35,Yes
+4439-JMPMT,Female,Yes,Fiber optic,Yes,Month-to-month,470.95,Yes
+2446-BEGGB,Female,Yes,Fiber optic,Yes,Month-to-month,560.6,Yes
+1452-UZOSF,Male,Yes,Fiber optic,Yes,Two year,7548.6,No
+6631-HMANX,Male,Yes,DSL,Yes,Two year,6227.5,No
+9681-OXGVC,Female,Yes,Fiber optic,Yes,Month-to-month,514,Yes
+1932-UEDCX,Male,Yes,Fiber optic,Yes,Month-to-month,3270.25,No
+0665-XHDJU,Male,Yes,Fiber optic,Yes,Two year,7285.7,No
+6521-YYTYI,Male,Yes,Fiber optic,Yes,Month-to-month,93.3,Yes
+3544-FBCAS,Female,Yes,DSL,Yes,Two year,5959.3,No
+5331-RGMTT,Male,Yes,Fiber optic,Yes,Month-to-month,5295.7,No
+4759-PXTAN,Female,Yes,DSL,Yes,One year,4693.2,No
+7054-DMVAS,Male,Yes,DSL,Yes,Two year,3512.9,No
+3428-MMGUB,Male,Yes,Fiber optic,Yes,Two year,5231.2,No
+3705-RHRFR,Female,Yes,Fiber optic,Yes,Two year,6875.35,No
+9933-QRGTX,Female,Yes,Fiber optic,Yes,Two year,5611.75,No
+4476-OSWTN,Male,Yes,Fiber optic,Yes,One year,7610.1,No
+2661-GKBTK,Male,Yes,DSL,Yes,Two year,4543.95,No
+2578-JQPHZ,Male,Yes,Fiber optic,Yes,Two year,4378.35,No
+4685-ERGHK,Male,Yes,Fiber optic,Yes,One year,4939.25,No
+7208-PSIHR,Female,Yes,Fiber optic,Yes,Two year,7188.5,No
+6956-SMUCM,Female,Yes,Fiber optic,Yes,Month-to-month,287.4,Yes
+2985-FMWYF,Female,Yes,Fiber optic,Yes,Month-to-month,2341.55,No
+9053-JZFKV,Male,Yes,Fiber optic,Yes,Two year,7752.3,Yes
+2530-ENDWQ,Female,Yes,Fiber optic,Yes,Two year,6585.35,Yes
+0327-WFZSY,Male,Yes,Fiber optic,Yes,One year,3835.55,No
+0864-FVJNJ,Female,Yes,Fiber optic,Yes,One year,7222.75,No
+9541-PWTWO,Female,Yes,DSL,Yes,Two year,4233.95,No
+6308-CQRBU,Female,Yes,Fiber optic,Yes,Two year,7707.7,No
+2754-XBHTB,Female,Yes,Fiber optic,Yes,Month-to-month,714.15,Yes
+0186-CAERR,Male,Yes,Fiber optic,Yes,One year,8309.55,No
+3162-KKZXO,Female,Yes,Fiber optic,Yes,One year,5409.75,No
+7055-VKGDA,Male,Yes,Fiber optic,Yes,One year,5643.4,Yes
+0754-UKWQP,Male,Yes,Fiber optic,Yes,Month-to-month,197.7,Yes
+8845-LWKGE,Female,Yes,DSL,Yes,One year,1985.15,No
+8752-STIVR,Female,Yes,Fiber optic,Yes,Month-to-month,303.15,Yes
+0691-NIKRI,Female,Yes,Fiber optic,Yes,One year,4335.2,No
+4558-FANTW,Female,Yes,Fiber optic,Yes,Month-to-month,1574.45,Yes
+3736-BLEPA,Male,Yes,Fiber optic,Yes,One year,2483.65,No
+4701-LKOZD,Female,Yes,DSL,Yes,Two year,6367.2,No
+6603-QWSPR,Female,Yes,Fiber optic,Yes,Two year,4904.2,No
+4378-MYPGO,Male,Yes,Fiber optic,Yes,Two year,7173.15,No
+8651-ENBZX,Female,Yes,Fiber optic,Yes,One year,6441.4,Yes
+4129-LYCOI,Female,Yes,Fiber optic,Yes,Two year,7039.05,No
+7798-JVXYM,Female,Yes,DSL,Yes,Month-to-month,921.4,No
+2696-ECXKC,Female,Yes,Fiber optic,Yes,One year,5448.6,No
+3323-CPBWR,Male,Yes,Fiber optic,Yes,Month-to-month,2085.45,No
+9330-IJWIO,Female,Yes,Fiber optic,Yes,Month-to-month,1358.85,Yes
+3384-CTMSF,Male,Yes,Fiber optic,Yes,Month-to-month,5135.15,No
+1842-EZJMK,Male,Yes,Fiber optic,Yes,Month-to-month,5071.05,Yes
+1936-UAFEH,Female,Yes,Fiber optic,Yes,Two year,7279.35,No
+3587-PMCOY,Male,Yes,Fiber optic,Yes,One year,1064.95,No
+1027-LKKQQ,Female,Yes,DSL,Yes,Two year,5886.85,No
+8884-ADFVN,Male,Yes,Fiber optic,Yes,Month-to-month,700.85,Yes
+2720-WGKHP,Male,Yes,Fiber optic,Yes,Month-to-month,181.7,Yes
+6734-FQAJX,Male,Yes,Fiber optic,Yes,Two year,7171.7,No
+2869-ADAWR,Female,Yes,Fiber optic,Yes,Month-to-month,4016.85,Yes
+0943-ZQPXH,Male,Yes,Fiber optic,Yes,Month-to-month,4122.9,No
+2378-VTKDH,Male,Yes,Fiber optic,Yes,Month-to-month,6578.55,No
+8608-OZTLB,Male,Yes,DSL,Yes,One year,2802.3,No
+0702-PGIBZ,Male,Yes,Fiber optic,Yes,Month-to-month,364.55,Yes
+6656-GULJQ,Male,Yes,DSL,Yes,Two year,6093.3,No
+6994-FGRHH,Male,Yes,Fiber optic,Yes,One year,7475.1,No
+4000-VGMQP,Male,Yes,DSL,Yes,One year,2862.55,No
+3466-RITXD,Male,Yes,Fiber optic,Yes,Month-to-month,2349.8,No
+3058-HJCUY,Male,Yes,Fiber optic,Yes,One year,4213.35,Yes
+2974-GGUXS,Female,Yes,Fiber optic,Yes,Month-to-month,3301.05,No
+3259-FDWOY,Male,Yes,Fiber optic,Yes,Two year,7723.7,Yes
+3258-ZKPAI,Male,Yes,Fiber optic,Yes,Two year,8337.45,No
+1428-IEDPR,Male,Yes,Fiber optic,Yes,Two year,5731.4,No
+5298-GSTLM,Female,Yes,Fiber optic,Yes,One year,6176.6,No
+6728-CZFEI,Female,Yes,DSL,Yes,One year,931.9,No
+5748-RNCJT,Male,Yes,Fiber optic,Yes,Two year,7348.8,Yes
+6121-TNHBO,Female,Yes,DSL,Yes,One year,5243.05,No
+6519-ZHPXP,Female,Yes,Fiber optic,Yes,Two year,7679.65,No
+2486-WYVVE,Male,Yes,DSL,Yes,One year,2484,No
+2999-AANRQ,Female,Yes,DSL,Yes,Two year,1524.85,No
+7560-QJAVJ,Female,Yes,DSL,Yes,Two year,5589.45,No
+9137-UIYPG,Female,Yes,Fiber optic,Yes,Month-to-month,3756.45,No
+2809-ZMYOQ,Female,Yes,Fiber optic,Yes,Month-to-month,3334.9,No
+6302-JGYRJ,Male,Yes,DSL,Yes,One year,2587.7,Yes
+5339-PXDVH,Male,Yes,Fiber optic,Yes,Month-to-month,367.95,No
+8782-NUUOL,Male,Yes,DSL,Yes,One year,4801.1,No
+3685-YLCMQ,Male,Yes,Fiber optic,Yes,One year,6219.6,Yes
+4868-AADLV,Male,Yes,Fiber optic,Yes,One year,7862.25,No
+9529-OFXHY,Male,Yes,Fiber optic,Yes,Month-to-month,1242.2,No
+8634-MPHTR,Male,Yes,Fiber optic,Yes,Month-to-month,4871.05,Yes
+8761-NSOBC,Male,Yes,Fiber optic,Yes,Month-to-month,4398.15,Yes
+0419-YAAPX,Male,Yes,Fiber optic,Yes,Month-to-month,4297.95,No
+8413-VONUO,Male,Yes,Fiber optic,Yes,Month-to-month,167.3,Yes
+4726-DLWQN,Male,Yes,DSL,Yes,Month-to-month,3454.6,No
+1150-FTQGN,Female,Yes,Fiber optic,Yes,One year,5811.8,No
+9223-UCPVT,Female,Yes,Fiber optic,Yes,Month-to-month,94.4,Yes
+5448-VWNAM,Female,Yes,DSL,Yes,Month-to-month,1375.6,No
+3518-FSTWG,Male,Yes,Fiber optic,Yes,Two year,7920.7,No
+9330-VOFSZ,Female,Yes,Fiber optic,Yes,Two year,6640.7,No
+4351-QLCSU,Female,Yes,DSL,Yes,Month-to-month,55,Yes
+5419-JPRRN,Male,Yes,Fiber optic,Yes,Month-to-month,101.45,Yes
+3644-QXEHN,Male,Yes,Fiber optic,Yes,Month-to-month,1334.45,No
+2911-IJORQ,Male,Yes,DSL,Yes,One year,3358.65,No
+2100-BDNSN,Female,Yes,DSL,Yes,Month-to-month,350.3,Yes
+2474-BRUCM,Male,Yes,Fiber optic,Yes,Month-to-month,4086.3,Yes
+4062-HBMOS,Male,Yes,Fiber optic,Yes,Month-to-month,5364.8,No
+4753-PADAS,Female,Yes,Fiber optic,Yes,One year,6816.95,No
+6110-OHIHY,Male,Yes,Fiber optic,Yes,Month-to-month,267.6,Yes
+8708-XPXHZ,Female,Yes,Fiber optic,Yes,Month-to-month,4186.3,Yes
+9332-GYWLO,Female,Yes,DSL,Yes,Month-to-month,355.1,No
+2754-VDLTR,Male,Yes,Fiber optic,Yes,Month-to-month,930.4,Yes
+3190-XFANI,Male,Yes,Fiber optic,Yes,One year,5069.65,Yes
+1104-TNLZA,Male,Yes,Fiber optic,Yes,Month-to-month,2998,No
+0520-FDVVT,Male,Yes,Fiber optic,Yes,One year,3626.1,Yes
+1444-VVSGW,Male,Yes,Fiber optic,Yes,One year,7968.85,Yes
+5949-HGVJL,Female,Yes,DSL,Yes,Month-to-month,1959.5,No
+6661-HBGWL,Female,Yes,Fiber optic,Yes,Month-to-month,4323.45,Yes
+1518-VOWAV,Female,Yes,DSL,Yes,Month-to-month,703.55,Yes
+1309-BXVOQ,Male,Yes,Fiber optic,Yes,Month-to-month,2249.95,Yes
+6728-VOIFY,Female,Yes,Fiber optic,Yes,One year,6109.75,No
+8709-KRDVL,Female,Yes,Fiber optic,Yes,Month-to-month,3320.6,No
+1427-VERSM,Female,Yes,Fiber optic,Yes,Month-to-month,5669.5,No
+3621-CEOVK,Female,Yes,Fiber optic,Yes,Month-to-month,1369.8,Yes
+1548-FEHVL,Male,Yes,Fiber optic,Yes,Month-to-month,6375.2,No
+3795-CAWEX,Male,Yes,Fiber optic,Yes,Two year,8152.3,No
+6215-NQCPY,Male,Yes,Fiber optic,Yes,Month-to-month,1566.75,No
+6258-PVZWJ,Male,Yes,DSL,Yes,Two year,6302.85,No
+6969-MVBAI,Female,Yes,Fiber optic,Yes,Month-to-month,816.8,No
+6953-PBDIN,Male,Yes,DSL,Yes,Two year,5265.55,No
+3938-YFPXD,Male,Yes,DSL,Yes,Two year,5997.1,No
+7696-AMHOD,Female,Yes,DSL,Yes,One year,3824.2,No
+2453-SAFNS,Female,Yes,DSL,Yes,One year,3886.05,No
+9558-IHEZX,Female,Yes,Fiber optic,Yes,Two year,7283.25,No
+7426-GSWPO,Male,Yes,Fiber optic,Yes,Month-to-month,6548.65,No
+3205-MXZRA,Male,Yes,DSL,Yes,One year,1507,No
+5702-KVQRD,Male,Yes,DSL,Yes,Two year,5832.65,No
+0083-PIVIK,Male,Yes,DSL,Yes,One year,5567.55,No
+9210-IAHGH,Female,Yes,DSL,Yes,Month-to-month,450.8,Yes
+6169-PGNCD,Female,Yes,DSL,Yes,Two year,4166.35,No
+0023-XUOPT,Female,Yes,Fiber optic,Yes,Month-to-month,1215.6,Yes
+4909-JOUPP,Male,Yes,Fiber optic,Yes,Two year,7898.45,No
+4657-FWVFY,Female,Yes,Fiber optic,Yes,Month-to-month,3915.4,No
+2257-BOVXD,Male,Yes,DSL,Yes,Month-to-month,979.5,No
+7632-MNYOY,Male,Yes,Fiber optic,Yes,One year,7432.05,Yes
+6518-LGAOV,Female,Yes,Fiber optic,Yes,Month-to-month,4026.4,Yes
+9696-RMYBA,Male,Yes,Fiber optic,Yes,Month-to-month,398.55,No
+8690-UPCZI,Male,Yes,DSL,Yes,One year,1958.45,No
+9600-NAXZN,Male,Yes,Fiber optic,Yes,Month-to-month,4528,Yes
+8822-KNBHV,Female,Yes,DSL,Yes,One year,3887.85,No
+3398-FSHON,Female,Yes,Fiber optic,Yes,Month-to-month,1094.5,Yes
+3319-DWOEP,Male,Yes,Fiber optic,Yes,Month-to-month,573.75,Yes
+9979-RGMZT,Female,Yes,Fiber optic,Yes,One year,633.45,No
+6437-UDQJM,Female,Yes,DSL,Yes,Two year,6129.65,No
+1465-VINDH,Female,Yes,Fiber optic,Yes,Month-to-month,1068.85,Yes
+3468-DRVQJ,Female,Yes,DSL,Yes,One year,676.15,No
+4816-OKWNX,Male,Yes,Fiber optic,Yes,One year,5236.4,No
+4747-LCAQL,Male,Yes,DSL,Yes,Month-to-month,1902,No
+0898-XCGTF,Male,Yes,Fiber optic,Yes,One year,5673.7,No
+8722-PRFDV,Female,Yes,DSL,Yes,Two year,5574.35,No
+1925-TIBLE,Female,Yes,Fiber optic,Yes,Month-to-month,582.5,Yes
+3967-KXAPS,Male,Yes,DSL,Yes,Two year,6719.9,No
+0674-EYYZV,Female,Yes,DSL,Yes,Month-to-month,54.65,No
+4480-MBMLB,Female,Yes,Fiber optic,Yes,One year,3886.45,No
+0822-QGCXA,Female,Yes,DSL,Yes,Month-to-month,2310.2,No
+2832-KJCRD,Female,Yes,Fiber optic,Yes,Month-to-month,3988.5,No
+3588-WSTTJ,Female,Yes,Fiber optic,Yes,Month-to-month,3554.6,No
+4075-WKNIU,Female,Yes,DSL,Yes,Two year,,No
+5090-EMGTC,Female,Yes,Fiber optic,Yes,Two year,6034.85,No
+5274-XHAKY,Female,Yes,Fiber optic,Yes,Month-to-month,3893.6,No
+9412-ARGBX,Female,Yes,Fiber optic,Yes,Two year,4627.85,Yes
+1389-CXMLU,Male,Yes,Fiber optic,Yes,Month-to-month,289.1,Yes
+9589-ABEPT,Male,Yes,Fiber optic,Yes,Two year,6460.55,No
+4670-TABXH,Male,Yes,Fiber optic,Yes,Two year,7758.9,No
+8561-NMTBD,Female,Yes,Fiber optic,Yes,One year,7388.45,No
+5161-XEUVX,Male,Yes,Fiber optic,Yes,Two year,3460.95,No
+8080-POTJR,Female,Yes,DSL,Yes,One year,2427.1,No
+8107-RZLNV,Male,Yes,Fiber optic,Yes,Two year,7565.35,No
+0516-OOHAR,Male,Yes,Fiber optic,Yes,One year,2799,No
+9912-OMZDS,Female,Yes,Fiber optic,Yes,One year,6256.2,No
+7103-IPXPJ,Male,Yes,Fiber optic,Yes,One year,5059.75,No
+4342-HFXWS,Female,Yes,DSL,Yes,One year,3023.65,No
+3545-CNWRG,Female,Yes,Fiber optic,Yes,Month-to-month,4889.2,No
+1785-BPHTP,Male,Yes,Fiber optic,Yes,Month-to-month,2289.9,No
+7315-WYOAW,Male,Yes,Fiber optic,Yes,Month-to-month,1313.25,No
+1173-XZPYF,Female,Yes,Fiber optic,Yes,Month-to-month,990.3,No
+3768-NLUBH,Male,Yes,Fiber optic,Yes,Month-to-month,5746.15,Yes
+9530-GRMJG,Male,Yes,DSL,Yes,Two year,5979.7,No
+6898-RBTLU,Female,Yes,DSL,Yes,Two year,3902.45,No
+5481-NTDOH,Female,Yes,Fiber optic,Yes,One year,7142.5,No
+7359-SSBJK,Female,Yes,DSL,Yes,Two year,4481,Yes
+2380-DAMQP,Female,Yes,Fiber optic,Yes,Two year,8349.7,No
+2256-YLYLP,Male,Yes,DSL,Yes,Two year,4953.25,No
+6365-HITVU,Female,Yes,DSL,Yes,Two year,6328.7,No
+9488-FYQAU,Female,Yes,Fiber optic,Yes,Two year,6841.4,No
+2180-DXNEG,Female,Yes,Fiber optic,Yes,Month-to-month,1062.1,Yes
+1960-UOTYM,Male,Yes,DSL,Yes,Two year,4016.3,No
+6500-JVEGC,Male,Yes,Fiber optic,Yes,One year,7110.75,No
+5515-AKOAJ,Female,Yes,Fiber optic,Yes,Month-to-month,5440.9,Yes
+8469-SNFFH,Male,Yes,DSL,Yes,One year,5528.9,No
+1754-GKYPY,Male,Yes,Fiber optic,Yes,Month-to-month,1938.9,No
+9863-JZAIC,Male,Yes,DSL,Yes,Month-to-month,2010.55,Yes
+9739-JLPQJ,Female,Yes,Fiber optic,Yes,Two year,8670.1,No
+3855-ONCAR,Female,Yes,Fiber optic,Yes,Month-to-month,299.75,No
+3990-QYKBE,Male,Yes,Fiber optic,Yes,Month-to-month,3473.4,Yes
+3259-KNMRR,Male,Yes,DSL,Yes,Two year,4438.2,No
+6120-RJKLU,Female,Yes,DSL,Yes,Two year,4819.75,No
+3090-HAWSU,Male,Yes,Fiber optic,Yes,Two year,6876.05,Yes
+3174-RKMOW,Male,Yes,Fiber optic,Yes,Month-to-month,3782.4,No
+1320-GVNHT,Male,Yes,Fiber optic,Yes,Two year,7767.25,No
+8071-SBTRN,Female,Yes,Fiber optic,Yes,Two year,7737.55,No
+1113-IUJYX,Female,Yes,Fiber optic,Yes,One year,1348.9,Yes
+5626-MGTUK,Female,Yes,Fiber optic,Yes,Month-to-month,1879.25,No
+4323-OHFOW,Female,Yes,Fiber optic,Yes,One year,7195.35,No
+1116-DXXDF,Male,Yes,Fiber optic,Yes,Two year,3801.7,No
+3005-NFMTA,Male,Yes,Fiber optic,Yes,Month-to-month,5617.75,Yes
+6300-BWMJX,Female,Yes,Fiber optic,Yes,Month-to-month,5386.5,No
+8784-CGILN,Female,Yes,Fiber optic,Yes,Month-to-month,1776.95,Yes
+1036-GUDCL,Male,Yes,DSL,Yes,Month-to-month,4663.4,No
+9129-UXERG,Female,Yes,Fiber optic,Yes,Month-to-month,1806.35,No
+7964-ZRKKG,Male,Yes,Fiber optic,Yes,One year,5798.3,No
+6229-LSCKB,Male,Yes,Fiber optic,Yes,Month-to-month,497.6,No
+2025-JKFWI,Male,Yes,Fiber optic,Yes,Month-to-month,1301.7,Yes
+4078-SAYYN,Female,Yes,Fiber optic,Yes,Month-to-month,1129.75,Yes
+6897-UUBNU,Male,Yes,Fiber optic,Yes,Month-to-month,2623.65,No
+8930-XOTDP,Female,Yes,DSL,Yes,Month-to-month,1082.8,No
+5916-QEWPT,Female,Yes,DSL,Yes,Month-to-month,147.8,No
+8465-SBRXP,Male,Yes,Fiber optic,Yes,Two year,3616.25,No
+9079-YEXQJ,Female,Yes,Fiber optic,Yes,Month-to-month,6014.85,Yes
+1930-WNXSB,Male,Yes,Fiber optic,Yes,Month-to-month,5305.05,No
+3508-CFVZL,Female,Yes,Fiber optic,Yes,Two year,7985.9,No
+0402-CQAJN,Female,Yes,Fiber optic,Yes,Month-to-month,3545.35,Yes
+6692-UDPJC,Female,Yes,Fiber optic,Yes,Month-to-month,1301,Yes
+0295-PPHDO,Male,Yes,Fiber optic,Yes,Month-to-month,95.45,Yes
+1195-OIYEJ,Male,Yes,Fiber optic,Yes,Month-to-month,1135.7,Yes
+4070-OKWVH,Female,Yes,Fiber optic,Yes,Month-to-month,5025.8,No
+6369-MCAKO,Female,Yes,DSL,Yes,Two year,6185.8,No
+6341-AEVKX,Female,Yes,Fiber optic,Yes,One year,6613.65,No
+2990-HWIML,Female,Yes,Fiber optic,Yes,Month-to-month,573.3,Yes
+0682-USIXD,Female,Yes,Fiber optic,Yes,Month-to-month,1818.9,No
+8065-QBYTO,Female,Yes,Fiber optic,Yes,One year,7181.25,No
+2133-TSRRM,Female,Yes,Fiber optic,Yes,Month-to-month,3688.6,No
+7234-FECYN,Female,Yes,Fiber optic,Yes,Month-to-month,780.5,Yes
+3191-CSNMG,Female,Yes,Fiber optic,Yes,Month-to-month,239.45,No
+7952-OBOYL,Male,Yes,Fiber optic,Yes,Month-to-month,244.45,No
+1545-ACTAS,Female,Yes,Fiber optic,Yes,One year,4977.2,No
+1400-MMYXY,Male,Yes,Fiber optic,Yes,Month-to-month,334.65,Yes
+2363-BJLSL,Male,Yes,DSL,Yes,Month-to-month,4981.15,No
+1956-YIFGE,Male,Yes,Fiber optic,Yes,One year,2090.25,No
+7921-LMDFQ,Male,Yes,Fiber optic,Yes,One year,4905.75,No
+2925-MXLSX,Female,Yes,DSL,Yes,One year,2038.7,No
+9609-BENEA,Male,Yes,DSL,Yes,One year,2441.7,No
+1750-CSKKM,Male,Yes,DSL,Yes,Month-to-month,449.75,Yes
+0530-IJVDB,Male,Yes,Fiber optic,Yes,Two year,7882.5,No
+2215-ZAFGX,Male,Yes,Fiber optic,Yes,Month-to-month,791.7,No
+8213-TAZPM,Female,Yes,Fiber optic,Yes,One year,7493.05,No
+7142-HVGBG,Male,Yes,Fiber optic,Yes,Month-to-month,4414.3,Yes
+1304-SEGFY,Female,Yes,Fiber optic,Yes,Two year,6841.3,No
+8267-ZNYVZ,Female,Yes,Fiber optic,Yes,One year,3361.05,Yes
+2371-KFUOG,Male,Yes,Fiber optic,Yes,One year,5720.95,No
+6257-DTAYD,Male,Yes,Fiber optic,Yes,Two year,7365.3,No
+4616-ULAOA,Female,Yes,Fiber optic,Yes,Two year,7245.9,No
+6797-LNAQX,Male,Yes,Fiber optic,Yes,Two year,6859.5,Yes
+2898-MRKPI,Male,Yes,Fiber optic,Yes,One year,6770.5,No
+2750-BJLSB,Female,Yes,Fiber optic,Yes,One year,4730.6,No
+6394-MFYNG,Female,Yes,Fiber optic,Yes,Month-to-month,5121.3,Yes
+3914-FDRHP,Male,Yes,Fiber optic,Yes,Month-to-month,770.5,No
+1024-KPRBB,Female,Yes,Fiber optic,Yes,One year,3342,No
+4690-PKDQG,Female,Yes,Fiber optic,Yes,Month-to-month,3930.6,No
+0886-QGENL,Female,Yes,Fiber optic,Yes,Month-to-month,2754.45,Yes
+9547-ITEFG,Male,Yes,Fiber optic,Yes,Month-to-month,897.75,No
+8739-WWKDU,Male,Yes,Fiber optic,Yes,Month-to-month,2196.15,Yes
+7240-FQLHE,Female,Yes,Fiber optic,Yes,Month-to-month,1836.25,Yes
+6664-FPDAC,Female,Yes,Fiber optic,Yes,One year,6418.9,Yes
+9972-VAFJJ,Female,Yes,Fiber optic,Yes,One year,4871.45,No
+0422-UXFAP,Female,Yes,Fiber optic,Yes,One year,4947.55,No
+5130-YPIRV,Female,Yes,DSL,Yes,Two year,4284.2,No
+6439-PKTRR,Female,Yes,DSL,Yes,Two year,5617.95,No
+5568-DMXZS,Female,Yes,DSL,Yes,Month-to-month,554.45,No
+3976-BWUCK,Female,Yes,Fiber optic,Yes,Month-to-month,2804.45,Yes
+5981-ZVXOT,Female,Yes,Fiber optic,Yes,One year,3726.15,No
+1684-FLBGS,Female,Yes,DSL,Yes,Month-to-month,1652.1,No
+1389-WNUIB,Female,Yes,DSL,Yes,One year,1588.75,No
+0376-OIWME,Male,Yes,Fiber optic,Yes,Month-to-month,3366.05,No
+3585-ISXZP,Female,Yes,Fiber optic,Yes,Month-to-month,778.1,Yes
+0218-QNVAS,Male,Yes,Fiber optic,Yes,One year,7113.75,No
+6583-QGCSI,Female,Yes,Fiber optic,Yes,Month-to-month,4367.35,Yes
+7164-BPTUT,Male,Yes,DSL,Yes,Two year,5012.35,No
+9586-JGQKH,Female,Yes,Fiber optic,Yes,Two year,6794.75,No
+0093-XWZFY,Male,Yes,Fiber optic,Yes,Month-to-month,4036.85,Yes
+6691-CCIHA,Female,Yes,DSL,Yes,Two year,5150.55,No
+1685-BQULA,Female,Yes,Fiber optic,Yes,Month-to-month,3756.4,No
+9053-EJUNL,Male,Yes,Fiber optic,Yes,Month-to-month,3645.75,No
+0666-UXTJO,Male,Yes,Fiber optic,Yes,Month-to-month,2874.45,No
+1699-HPSBG,Male,Yes,DSL,Yes,One year,727.8,Yes
+7203-OYKCT,Male,Yes,Fiber optic,Yes,One year,7544.3,No
+1035-IPQPU,Female,Yes,Fiber optic,Yes,Month-to-month,6479.4,No
+0550-DCXLH,Male,Yes,DSL,Yes,Month-to-month,931.55,No
+9281-CEDRU,Female,Yes,DSL,Yes,Two year,4326.25,No
+0639-TSIQW,Female,Yes,Fiber optic,Yes,Month-to-month,6886.25,Yes
+8456-QDAVC,Male,Yes,Fiber optic,Yes,Month-to-month,1495.1,No
+6840-RESVB,Male,Yes,DSL,Yes,One year,1990.5,No
+2234-XADUH,Female,Yes,Fiber optic,Yes,One year,7362.9,No
+3186-AJIEK,Male,Yes,Fiber optic,Yes,Two year,6844.5,No

@@ -1,0 +1,5 @@
+id name score
+5 Emma 0.9
+6 Frank 0.7
+7 Grace 0.55
+8 Henry 0.4

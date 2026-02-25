@@ -1,0 +1,5 @@
+id name score
+1 Alice 80
+2 Bob 45
+3 Carol 100
+4 David 60
