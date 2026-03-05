@@ -66,16 +66,16 @@
   "releases_url": "https://api.github.com/repos/pandas-dev/pandas/releases{/id}",
   "deployments_url": "https://api.github.com/repos/pandas-dev/pandas/deployments",
   "created_at": "2010-08-24T01:37:33Z",
-  "updated_at": "2026-02-10T22:55:13Z",
-  "pushed_at": "2026-02-10T22:52:47Z",
+  "updated_at": "2026-03-04T20:19:29Z",
+  "pushed_at": "2026-03-04T18:41:02Z",
   "git_url": "git://github.com/pandas-dev/pandas.git",
   "ssh_url": "git@github.com:pandas-dev/pandas.git",
   "clone_url": "https://github.com/pandas-dev/pandas.git",
   "svn_url": "https://github.com/pandas-dev/pandas",
   "homepage": "https://pandas.pydata.org",
-  "size": 382491,
-  "stargazers_count": 47852,
-  "watchers_count": 47852,
+  "size": 383856,
+  "stargazers_count": 48046,
+  "watchers_count": 48046,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -83,11 +83,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 19642,
+  "forks_count": 19716,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3639,
+  "open_issues_count": 3694,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -98,6 +98,8 @@
   "allow_forking": true,
   "is_template": false,
   "web_commit_signoff_required": false,
+  "has_pull_requests": true,
+  "pull_request_creation_policy": "all",
   "topics": [
     "alignment",
     "data-analysis",
@@ -107,9 +109,9 @@
     "python"
   ],
   "visibility": "public",
-  "forks": 19642,
-  "open_issues": 3639,
-  "watchers": 47852,
+  "forks": 19716,
+  "open_issues": 3694,
+  "watchers": 48046,
   "default_branch": "main",
   "temp_clone_token": null,
   "custom_properties": {
@@ -136,6 +138,6 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "network_count": 19642,
-  "subscribers_count": 1109
+  "network_count": 19716,
+  "subscribers_count": 1107
 }

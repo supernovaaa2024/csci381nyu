@@ -1,0 +1,760 @@
+Unknown Speaker  0:00  
+Servers the
+
+Unknown Speaker  0:31  
+yes, we can hear you.
+
+Speaker 1  0:40  
+Physical Guy, sometimes as you
+
+Unknown Speaker  1:00  
+device. So it is a good
+
+Speaker 1  1:07  
+idea if you can, if you can, go to the server sometime and deal with the data straight away from the server. You know, communicate with the server. In order to do that, we said, we said, well known technique to do that. Your data was in your favor or whether you decided to pitch the data to your local computer. So if you if you have your local computer, also you have your local computer, and you're going to pitch that at your local computer, you can do that as well the computer
+
+Unknown Speaker  1:41  
+to have different options. Sometimes,
+
+Unknown Speaker  1:52  
+we can go to the
+
+Unknown Speaker  2:00  
+server, whether you do that, we have some tools that allow users to that
+
+Speaker 1  2:14  
+allow we introduce different type of tools, how you can browse data, how you can see the files, see the folders, Create folders, create files, modify files, how you can just you can do navigation, you know, litigation.
+
+Unknown Speaker  2:28  
+We can talk about different instructions that you may need sometimes, or
+
+Unknown Speaker  2:33  
+files, how you can find what you want
+
+Unknown Speaker  2:37  
+to import sometimes in the file. Instructions.
+
+Speaker 1  2:46  
+Sometimes in the file, when you deal with
+
+Speaker 1  2:58  
+data, and we can talk about about how you can edit data and how you can use data, and we can develop some tools such as directing the output, such as Raising from five days. So those are the cases. And in
+
+Speaker 1  3:29  
+addition to these set of instructions, we also different tools that we already have, you know, in shape, that we can do. So we said, we can we have, we have some tools subscribed by WT to like, to count how many line, how many words, how many characters we have inside the file, if you like, to find unique values. If you would like to cut something from the file, source the content of the file, or display the content by some other instructions, such as
+
+Speaker 1  3:56  
+this, if you would like to search inside the file, we can also about combining or concatenating files to them using this contaminating files. Instead, it can be helpful if you would like to place a content a file with something so you like to replace some text with some other text, or something works with some other words. And these are also interviewed by text, and we think also about how you can split the file as well, if you like, the file into chunks. You know, instead of dealing with a file as is, so, we explained about all of these instructions. You can find all of these instructions in the course notes. Guys, okay, if you would like to get more details about one of them. And then we clarified also how you can how you can create your own secret using these tools or using some control statements that you can create actually in shell itself. So we explained about creating secret files, and we put together how you can tag parameters in the file itself,
+
+Speaker 1  5:14  
+and how you can use some control instructions or statements to do whatever you want. You know in these secret files, which is all if statement for loop y, loop do, while loop. And we verified how you can just do some other specific expressions, or how you can write some string
+
+Unknown Speaker  5:31  
+expressions as well. And we clarified also how you can compare
+
+Unknown Speaker  5:36  
+the same variables, how you can
+
+Speaker 1  5:42  
+do have different examples about that. You remember these guys. You have questions about it. Let me know all of these principles.
+
+Unknown Speaker  6:02  
+You you can run them in your
+
+Speaker 1  6:05  
+own computer or on the server itself, and if you can pitch data to a local computer or to other servers. Sometimes, sometimes you may need to switch data or to your local computer.
+
+Unknown Speaker  6:14  
+Sometimes you may need to switch data to another server.
+
+Speaker 1  6:19  
+Sometimes you so we think about some instructions which you can use in order to pitch
+
+Unknown Speaker  6:29  
+that actually provides some important
+
+Unknown Speaker  6:33  
+instructions which we can use in order
+
+Speaker 1  6:37  
+to pitch data, URL, how you can use W, get to provide to pitch data from remote servers, you can just include these instructions. If you want to switch data, you can use any of
+
+Unknown Speaker  6:52  
+these instructions, and we said also as well,
+
+Unknown Speaker  7:20  
+I really depend on one of them. We just leave the five.
+
+Unknown Speaker  8:00  
+One, you have these two instructions, you have C or L,
+
+Speaker 1  8:17  
+and you have W get, maybe you can use W get, output.
+
+Speaker 1  8:40  
+Here, if you like. So this is how you can switch the file locally, actually, if you like. You can switch the file. You can just download the file. And so as soon as you have the file, you can just deal with the file open. You have the file broken and you can you can use some instruction to Google File. We
+
+Unknown Speaker  9:18  
+clarify some instructions
+
+Unknown Speaker  9:21  
+that you can just open
+
+Speaker 1  9:24  
+the file for reading. So you can just use five or instruction if you want to deal with files, these would allow
+
+Unknown Speaker  9:33  
+you to import that into your program.
+
+Unknown Speaker  9:40  
+Actually, and that's why we clarified, or we differentiated between different data
+
+Unknown Speaker  9:54  
+structures that you can do. We clarified the difference
+
+Unknown Speaker  10:01  
+between this we talked about.
+
+Speaker 1  10:02  
+The context of steps and we spend also about the context of machinery. If you want
+
+Unknown Speaker  10:17  
+to clarify each one of these data,
+
+Speaker 1  10:20  
+as soon as you have your data, you you have your data, so we have the data here, we put these data, and it is important, because this will make big difference. So if you would like, if you maintain some other data structure
+
+Unknown Speaker  10:42  
+that you that we can use.
+
+Unknown Speaker  11:02  
+Also we can be multi dimensional array,
+
+Unknown Speaker  11:16  
+and also the concept of standard data
+
+Speaker 1  11:21  
+in as well, if you remember. And here, data is a critical decision, because it depends on what you would like to review. That was to just verify that the membership, if you wanted to verify later on, if some value exists in these data or not, or indeed, you know, part of the data, then your best choice would be used, not to use standard, not used, not library, not to use machinery or effect, because the complexity, the time complexity of these, because the way they are implemented is by using
+
+Unknown Speaker  11:58  
+experiments or things you
+
+Unknown Speaker  12:01  
+know. So this would be like,
+
+Unknown Speaker  12:04  
+size consistency
+
+Speaker 1  12:07  
+will be, will be constant, actually, all the time, you know. So it's not related to the size of the data. So whatever the data size is, you will get your answers trade away, actually. So that's why we just said, you said, or dictionary. So we clarified about the advantages of each one of them. We said when you dictionary also, because it is good idea to if your aim is not, not just to do the verification is to do some let's say you want to verify if there is duplicate in the data or not, if you would like to apply operation such as intersection or or union. Then you go with stats, if your main aim is just to verify membership, and see data is using specific key, go with dictionary, okay, to verify about all of this. And we said this is good choice sometimes, if you have data from different data type, product is useful. Data. Two.
+
+Speaker 1  13:20  
+Up and recertified at the same time, different type of data which we may get from here. It can be five according to data. It can be numbered. Sometimes, you know, it can be a float number. It can be values about the difference between all of
+
+Unknown Speaker  13:53  
+those. So introduce different
+
+Speaker 1  13:59  
+types of data, and we verified how you can create data structures in Python, thinking about this, about server, about set of machinery, okay, and this verified also, this is produced, also some,
+
+Unknown Speaker  14:12  
+some tools which you can use in Python, if you remember. So we look like
+
+Speaker 1  14:18  
+a toolbox that you can use in Python for loop
+
+Unknown Speaker  14:32  
+comprehension, we can find about the difference
+
+Unknown Speaker  14:36  
+between all of These things you
+
+Unknown Speaker  14:39  
+know when you think about them as soon
+
+Speaker 1  14:57  
+as You have your data ready in one of the data structure, and you prefer to have all data in standards if you want to analysis by membership, you know, so pandas is the easiest way to deal with, if possible. It might not be possible, sometimes five data center. So as soon as you have your data ready, you can, you
+
+Speaker 2  15:21  
+can, just solve the analysis phase, and When we do analysis, our
+
+Unknown Speaker  15:39  
+main thing would be to will be so again, the data,
+
+Unknown Speaker  15:57  
+which we have in the data plane, and that where we
+
+Speaker 1  16:08  
+introduce concepts, such as dealing with missing value system Number. That's where we produce concepts where we can
+
+Speaker 2  16:22  
+so instructions
+
+Unknown Speaker  16:31  
+to clean the data as
+
+Unknown Speaker  16:35  
+well different different types of instructions
+
+Speaker 1  16:42  
+and instructions, and we explained about instructions between the data as well to remove missing values. And these are the next phase after missing the data is using the
+
+Speaker 1  16:57  
+data. And we introduce also some, or you can just do some selection from these data solutions about something which you can do. So we certified how you can select from this data, using IRC, using LLC, and now you can create some, some useful table from these data. And we certified also how you can do aggregation from the data as well. So we send about instructions as go by, you know, and recertify. Or we can do different examples about giving robots. And then we said after, after you do that,
+
+Unknown Speaker  17:37  
+the data from the chart going to do a
+
+Unknown Speaker  17:42  
+different type of different type of chart that you can
+
+Speaker 1  17:48  
+create from Python, and we differentiate between different type of charts. So we think about dealing with one variable, two variables. We talk together how you can deal with specific attributes. We can.we can do charts that can be used with of so
+
+Unknown Speaker  18:32  
+you can and these things, you can
+
+Unknown Speaker  18:36  
+also record in data in
+
+Speaker 1  18:39  
+ingestion pages. You just pick the data from the front portion. And that's where you can start to deal with these data. And then you can select the data structure. So that's where you click data structure, and you can combine that from different sources as well. If you remember, we talked about how you can just do
+
+Unknown Speaker  19:01  
+home cache as well. So make sure you know about both of
+
+Unknown Speaker  19:06  
+these two instructions and how
+
+Speaker 1  19:09  
+data will be combined. And we clarified also how you can aggregate data using group by and summarize the data using group by, or using visit tables as well, or using the condition technique between the viewing and we can also about the exploratory data analysis phase Using now it
+
+Unknown Speaker  19:30  
+is important to pay
+
+Unknown Speaker  19:38  
+attention to performance. Optimization. Actually, certain
+
+Speaker 1  19:48  
+standards, we prefer not to use loops. We prefer to use vectorization, and that's why NumPy arrays are preferred. Actually, you can apply something on all of the data. So if your data was the same data file, you would want to apply certain operator on all of the data. They don't go with this or or troubles, or any, any ethereal data structure. It is prepared just to go with with NumPy, actually, because we can just do virtualization, and you have to pay attention also to using, for example, different difference between functions and generators as well. And we clarified that with the personal generators, especially when you have large amount of data to deal with as well. And when we when it comes to performance optimization as well, we clarified also the importance of using finding so they can describe that someone one instruction to another instruction, because he can take memory actually, then have to store the output, and one of the file can describe the output straight away to the other instruction, and he can remove that straight away. So maybe those are the things which we covered in this class. In general. You have any questions for me, guys about
+
+Speaker 1  21:12  
+what we covered so now, hopefully, hopefully we see the full puzzle right now, you know, and what we would like. We still have, we still have different things just to fill. Actually, we have not finished, you know, we have too many things just to fill. So, for example, one of the things which we have to know about, we have to get back into visualization. Our meaning is not to generate the charts, but we have to really understand what means. And we have to understand how to interpret these charts, and most of the time, we will get some unexpected charts. You know, that is meaningless. So it's our duty as a humans, you know, to sell these charts into meaningful things, actually, so that we can get some insight for some big shots. We'll talk about that. But before we talk about these thoughts, we have to talk a little bit about, about something that we have to clarify in these products. So sometimes, when we fix data from different sources, we clarify that these data which we fix from different sources. Sometimes we can fix data from server download the file as this, or sometimes we may have some, some other side of servers that we can deal with, as we said before. So we have some servers. They provide us with API which we can just call, actually in our computer, in our local computer, if you remember, similar to the weather example, which we had about time. So weather service, we send request to the server, and the server will drive you with some data format.
+
+Speaker 1  22:47  
+But what is more important, actually, and for researchers, you know, for data scientists, is driving data from the web, actually, in general. And this is way, not the way. The main issue is that that sometimes we may need to reach that
+
+Unknown Speaker  23:07  
+enough that is not structured data. We need,
+
+Speaker 1  23:11  
+sometimes, to keep data from some website, actually not from server that provides data in an organized format. So when you give data, files from server, data is already inspired, and you get the five whether it is structured, whether it is unstructured, but you have the data, at least in a clear format. Same thing when you see the data from KPI,
+
+Unknown Speaker  23:30  
+but sometime we may need to have data, and
+
+Speaker 1  23:39  
+that's what we might talk about today. So today we might just clarify how we can teach data from skills of the code, and in future, we might talk about how we can use requests and how we can how we can use input.
+
+Unknown Speaker  23:53  
+So let's just dive in and understand these
+
+Unknown Speaker  23:54  
+concepts, because it is important concept. I think,
+
+Unknown Speaker  24:40  
+so let's assume that you are
+
+Speaker 1  24:57  
+interested in news guys, let's say you would like to do some research about news, about NYU, just our website. Let's say, let's say you would like to pitch data from the website, not from traditional server. It's the web server right now. Okay, so visit those server website, and who wants to pitch all of the things that existed in about NYU, or we are, we are doing some research about about the bias of USA Today. Let's say it's one of the one on the side. Okay? And we would like to run some research. And this research, we would like to make sure that the new and published in people is not biased immediately. Not my to get into the outside union, and we would like to switch these piece of details that they publish every day, let's say, or every while. Does that make sense? So the means the main issue, and now AI will not be able to help us in this regard, unfortunately, because, because, because the data which we would like to pitch actually is substandard right now, every website has its own architecture. Does that make sense as its own structure, actually? And in order to understand how we can pitch data, we have to learn a little bit About website, and mainly
+
+Speaker 2  26:20  
+we have to understand
+
+Speaker 2  26:21  
+which you which
+
+Unknown Speaker  26:46  
+we can deal with. So
+
+Speaker 1  26:57  
+let me show you here. If you would like to communicate your oral side, you can just communicate your unified you. At the beginning
+
+Unknown Speaker  27:17  
+of the file, and we make at the end of the file
+
+Speaker 1  27:22  
+that HTML, HTML. And we have some other tags from something like title, and we have also head.
+
+Unknown Speaker  27:30  
+We have some tags such
+
+Speaker 1  27:42  
+as I call each one of these. We call that tag any web page which you visit whenever you visit a web page, whenever you
+
+Unknown Speaker  27:55  
+you so
+
+Unknown Speaker  28:00  
+that that's me. Guys, okay, this
+
+Speaker 1  28:03  
+is my computer right now, and I would like to visit nyu.edu so these will send what we call requests right now to NYU. Nyu edu is just a server. It's just a computer at the end of the day. Okay? So you can whenever, whenever you open the browser. If I open my browser here, I open, let's say, Google Chrome, and I write, www.nyu.edu,
+
+Speaker 1  28:35  
+this will send the request to www. It's just a table which is called www.ny.edu, just a table which is called NYU. May they may have different servers. Actually, one of them is www, one of them is FTP, let's say.nyu.edu one of them is whatever. So they have different servers. So you request, your browser will send the request to the server, okay, and the server will find these HTML files, and it will just return HTML file to the server. That's What? What? What? What happened actually, when you type a URL and hit enter in the browser, so request will be sent, and the server will reply with HTML content. When what is in here, inside the file. Now it
+
+Unknown Speaker  29:24  
+is the beauty of of the web browser is
+
+Speaker 1  29:28  
+to organize the data. Web browser is just a special program that understands these tags actually, and could organize the content that has been prepared using these
+
+Speaker 1  29:42  
+tags. Described by the one movement of those sites. Does that make sense? So let me show you here, basically that I am the discoverer of those sites, and I would like my website to have, let's say at the top, let's say my website, and in the body, I want to have a say. Hi everyone. Okay, so this is what I would like to have. So I'll see the file. I'll just fill the file. So this is, this is my file. Okay, almost. I Okay. This
+
+Speaker 1  30:26  
+is a file which I have created right now. Okay, now, so we can just see right now. I can open the file using,
+
+Unknown Speaker  30:33  
+using the text editor. This is
+
+Speaker 1  30:40  
+the content of the file. You can see it on the right, on the left hand side, and I can duplicate on the file, or open the file using the browser. And this is, there is whatever the browser is known, whatever the Google browser is, Google Chrome, or any browser. So this is, of course, we have inside the file. As you can see it so
+
+Speaker 1  31:06  
+what you see on the left hand side is what has been created by the developer. If I was this will be the title, and I would like to make it say everybody. In
+
+Unknown Speaker  31:32  
+when I see when I see this here, right
+
+Speaker 1  31:38  
+now, this will appear in red, as you can as developers, when, when we create website, we use these tags, these tags to format actually. So it's called hypertext markup language, just to format the content of those sites. And I would like, for salary, I would like to insert in my website a new line file, if I if I wrote welcome here, usually this will come. If I save the content here, I run here, this will come, will be on the same line. So I have to write tag, feature, tag, to add a new line. We have some tags I can use. I m, G,
+
+Unknown Speaker  32:17  
+S, R, T, equal to two. See I m g is r t equal to and I can just mention
+
+Speaker 1  32:24  
+name of the picture which I would like to add. So it's the thing that that I would like to add. Let's say an image. Let's say in one new logo, in one new image. Let's say in my order here.
+
+Unknown Speaker  32:42  
+So folder
+
+Speaker 1  32:46  
+here, I would like to add the image. Right now in my website, I have the definition here add the image, which is called Global dot CNG resource file, and now, when I remove the page, you can control also the width of the image. So I
+
+Speaker 1  33:12  
+can just make the image to be, let's say, 200 I can say the height to be 100 I can save the algorithm. We can do different type of stand, one of them in image. One of them that says, If I would want to add link, I can explain a HR to and I can just add the link so I would want To make him the say, HTTP to w.nyu.edu
+
+Unknown Speaker  33:38  
+H, A is that
+
+Unknown Speaker  33:44  
+in the HA to my website, because I look like you
+
+Speaker 1  33:48  
+click here to visit my home page. When I say this one right now, I read all here, it should be actually a link here. You know, if anyone click on this link, you can take them to my website.
+
+Unknown Speaker  34:01  
+Does that make sense within it? Live? It comment guys, okay,
+
+Speaker 1  34:07  
+so this is how we create those sites. Okay? Now we, I know that type of creating files, and we are not going to ask you to create those files manually, definitely, but we have just to understand what we mean by tags, actually, okay. And the main reason for that because I come back into what we started. So these websites, or annual sites. Now, if you would like switch data from those sides, you have to understand right now that if you write this here somewhere, if you, if you hit
+
+Unknown Speaker  34:44  
+View Page Source here,
+
+Unknown Speaker  34:47  
+this will show you the HTML that has been used actually
+
+Speaker 1  34:51  
+or created by developer. To see this will file. Does that make sense to have this will pass if we have right under today. So what I will do, I'll just create Python file, okay, Python five or multiple PI,
+
+Unknown Speaker  35:13  
+and just write import, import,
+
+Speaker 1  35:22  
+to write, import request, but guess I
+
+Speaker 1  35:34  
+would like to get the response. Give me the it will read syntax right now. It will send request to the server, and the server will return as usual, based in L code. But right now, I don't have browser that understand this experience, because I am a data scientist. Right now I'm not using the browser, okay, so when I get what has been returned right now, I live. So this was, let's say the content would look something like this. It is
+
+Speaker 1  36:12  
+the HTML code. Does that make sense? So this is what we will get to get your HTML code, and if you would like to pitch data, extract data from these HTML code. Unfortunately, we don't
+
+Unknown Speaker  36:32  
+have standard way, but what we can do right now these
+
+Unknown Speaker  36:40  
+content right now is you see right now, what is the size of what has been written right now.
+
+Speaker 1  36:46  
+This is a string right now. All of these things will be written for us as a string and and excluded initially with these things, fortunately, we have, we have a library which we can do that we will begin With
+
+Unknown Speaker  37:02  
+beautiful you don't have DS four
+
+Unknown Speaker  37:16  
+installed, CX four,
+
+Unknown Speaker  37:40  
+as follows.
+
+Speaker 1  37:56  
+Then is just to convert. Just convert this content into 2.2 convert
+
+Unknown Speaker  38:10  
+B content right now
+
+Speaker 1  38:19  
+and now, our school price now will be something that will be something that we should be able to deal with so we can agree with these two. That's right, you can find that what is
+
+Unknown Speaker  38:40  
+application here you can find tools that different
+
+Unknown Speaker  38:51  
+features. One of the things which we have actually
+
+Unknown Speaker  39:01  
+is the ability to stereotype these two
+
+Unknown Speaker  39:07  
+people soup, let's say for a for the bag now all of the a tag breaker. Does that make sense?
+
+Unknown Speaker  39:17  
+You remember the tag cooled
+
+Unknown Speaker  39:22  
+bag? Consists of number of tags. See that
+
+Speaker 1  39:26  
+I would like to extract all of the links that may exist in default page. Does that make sense? I can write the code in detail and say, search and find, find in these tools all of the all of the tags are easier the first means that may exist. You can just get those comparisons like in a disk. Okay, so this is the second a tag, this is the third a tag, this is the fourth a tag. This is actually all of the images
+
+Unknown Speaker  40:02  
+of this. Y extract all of the images,
+
+Unknown Speaker  40:05  
+all of the images, all of the tags. Know that
+
+Speaker 1  40:10  
+that is high and zero all images. Does that make sense? So this is how we have, we have to deal with, with the equation. But before, before we do that, and you can, you can see specifically, anything you can just be specifically okay about to
+
+Unknown Speaker  40:28  
+get, let's say, for example, the first image. Let's say that
+
+Unknown Speaker  40:32  
+the first image that may exist.
+
+Speaker 1  40:37  
+I would want to get the issue here. I would want to get the link, and I would like to get what you can find the link. The text that people should
+
+Unknown Speaker  40:52  
+click on here is that this Guy give me some up, wake up.
+
+Speaker 1  41:21  
+Point, yeah, and exactly, if you just organize them, try, try to understand these foods, and try just to,
+
+Unknown Speaker  41:40  
+instead of, instead of doing like, extra characters,
+
+Unknown Speaker  41:51  
+HTML, it's really just the same
+
+Speaker 1  41:56  
+exact it's the code that has been used to create the code. Mainly it is HTML, but it could include some JavaScript, sometimes that would be included. So any additional tool would be included. And our main duty, actually our main part, would be visible to select, okay, so how can I operate the thing that I would like to visit USA Today, okay? And or BBC or annual site, whatever you know, and I would like to pitch the case these news that appeared on the side, let's say so, the Trump headline. Every day I'm doing the research, and in this research, I would like to write some code that should send the request every hour to the website, get extract from this website the top headline, or, let's say I am doing a research about universities, okay, or about NYU, and I would like to visit every school in NYU, and I would like to pitch The syllabus of all the courses they have that. The main problem is that every website is a unique website. You don't have something standard, and that's where you have to pay attention. So what you have to do if you want to extra certain parts of of detail, providing any website you have to be you have to use Google, Google Chrome, okay, you have to click on these three dots. You have to move down and get into developer tools. More Tools.
+
+Unknown Speaker  43:33  
+Developer Tools, okay, you have to click on this.
+
+Speaker 1  43:37  
+And you have to make sure you have the tools selected. You can see these arrow here, the see this arrow here, back on the top, here, here, this one to make you click on this one. And what you have to do, you have to have to go through the parts which you would like to deal with to highlight the part. So I
+
+Unknown Speaker  43:55  
+want to start this piece of the university.
+
+Speaker 1  43:59  
+Just click on this one. This would show you the HTML code behind this one. Does that make sense? So the HTML code that has been used for this part is this one. You should be able to see somewhere here. Also, if you click on that, click on that, that will show you the HTML code right now. Well, I can understand that I'm thinking to click on the other one that says, if you look on
+
+Unknown Speaker  44:24  
+each one of those, you should be
+
+Speaker 1  44:29  
+able to see some similar experiences right now, which means, if I would like these headlines, I have to find all a tags. Okay, that has these class. Does that make sense. So now I can
+
+Speaker 1  44:51  
+just use the size of this data size, and I can go back right now to my HTML code.
+
+Speaker 1  45:03  
+Looking at here using these two right now, I would like to find four, you know, and I would find all a tag where the flag is, these slabs. So that makes sense. So these
+
+Unknown Speaker  45:19  
+syntax right now,
+
+Unknown Speaker  45:22  
+will return right now, all of it will return, all of those
+
+Unknown Speaker  45:39  
+you know we have on the right hand side. Now, maybe
+
+Unknown Speaker  45:43  
+just double check if I have them right now. You can
+
+Unknown Speaker  45:48  
+see, you can see, so this is, this
+
+Unknown Speaker  45:53  
+is right now with this, if I
+
+Unknown Speaker  45:57  
+get worse, and I can get,
+
+Unknown Speaker  46:00  
+let me see. So this is all prices, you know, that
+
+Speaker 1  46:04  
+make sense? Are you going to get the second piece of news right now? So let's change what the situation wants, what you want. So this is primary election update, you know. So the second piece of news and so on. Does that make sense? You sense? So I would like to extract all of these news right now. What I can do this comprehension right now and
+
+Speaker 1  46:42  
+get the this will give you the news right now, I have a good idea determine
+
+Speaker 1  46:56  
+which part of the text you need actually to pitch, you know, and will be so difficult to do that. So you have to make it manually most of the time. You have to get it rotate from you have to determine which details you would like to extract, and you have to find the tag. You have to specify the class of the tag, and this is how you can just switch the data. So let's assume that I would like to do that every day. What shall I do? Or I would like to make this frequency this day, every hour, every I'm doing a research, and my in my research, I would like to connect that right now, so we are not dealing with data that we already have. We would like to collect that right now. If I would like to collect that, it doesn't make sense. Just open the computer every hour and run the script and finish the data. You know, every time I need to do that in somehow. So first of all, I have this piece of I have to write the full code first of all, so I just combine all of these tools in one step I have this week.
+
+Unknown Speaker  48:00  
+I have just read what
+
+Speaker 1  48:03  
+I have to I have to pitch the data, the content changes, copy all of these cones and one filter.
+
+Speaker 1  48:19  
+Support, and let's assume that I will just save these content into a file so I can just save so what are the new which I was able to do again, and what I would do then, I will
+
+Unknown Speaker  48:29  
+just File New, and I will open The file
+
+Speaker 1  48:35  
+for writing, and I will just try to just write into the file, write into the file, use and move, and I can just go to the file. Now one of the important issues is we have to understand to always attend to the final attend to the file. One of the things which you have to understand that you cannot write this into a file. You have to write text into a file. Okay? And now news. News is just
+
+Unknown Speaker  49:06  
+a list. So in order to convert
+
+Speaker 1  49:09  
+this news from being a list to become a text, you have to use join this
+
+Unknown Speaker  49:20  
+life and
+
+Unknown Speaker  49:42  
+that lot of these news ads. Is
+
+Speaker 1  50:02  
+that clear? I question is, how can I make
+
+Unknown Speaker  50:09  
+it automated? In order to
+
+Speaker 1  50:12  
+make it automated, you have to think about another tool which you have to use, which is shell, secret, okay, or
+
+Unknown Speaker  50:18  
+secret part. So what we can do is create a new file, new file
+
+Unknown Speaker  50:22  
+and new file. You can just copy
+
+Speaker 1  50:31  
+all of these tools,
+
+Unknown Speaker  50:38  
+which we use before. So Python code
+
+Unknown Speaker  50:41  
+right now. Okay, and if I would like to write run this tool, what I do?
+
+Unknown Speaker  50:44  
+Okay, remind me, remember this instruction, right? So I just determine, I just write here
+
+Unknown Speaker  50:55  
+which Python has to
+
+Unknown Speaker  50:57  
+get the Python which is using, the Python
+
+Unknown Speaker  51:02  
+should use, and they have to get back to the five should be
+
+Speaker 1  51:08  
+executed using this input. Does that make sense? Now I can save these five. Let's say, let's say new.py
+
+Unknown Speaker  51:20  
+dot. And then, if you would like, if you would like this part
+
+Speaker 1  51:32  
+to be executed, next time, you can just execute the file from terminal. If you like, it is open terminal, you can make sure that you have permission to see the file, so just give the shared folder first of all, if I
+
+Speaker 1  51:57  
+like to see The file right now, did you give me an error? Permission Denied. Remember guys, so I have to give myself permission or to be able to do the file. So I just change more. Add execution permission, okay to the file. New h5,
+
+Speaker 1  52:20  
+it. And then I can, I can execute the file. Every time you screw the file, you see nothing in the output, but the file, the content of the news file, will be updated right now. So if you see right now CAD news or CXC, now, the only thing that that has been that actually is just to make this process to be repeated multiple times. We cannot repeat a process that was not a script. Does that make sense to make it a script file? And then you can open a program such as the scheduler or the Automator, if you have Mac OS or Windows, if you have Windows that say, I think program? Okay?
+
+Speaker 1  53:02  
+So. Scheduler, and you can just schedule these tabs to run this every one hour, let's say, every two hours, every day, whatever, whenever you like. So this will be run automatically. Let's say, and you will collect the news in this way. If you have MacOS, you can just open program, which is called Automator, you schedule these tabs to be executed every hour. Does that make sense? So how we collect data from, from, from? The answer.
+
+Unknown Speaker  53:26  
+Any questions. No question. You
+
+Unknown Speaker  53:53  
+go into the link and like, extract the content from the
+
+Speaker 1  54:00  
+link. Like for that file was it to just get all the links or question, can we extract the link as well, not only the text? So to get back to you right now, we were able to extract the text itself. If I would not extract the text, assume that we have this
+
+Speaker 1  54:21  
+one more time. So those are the they contain the name, yes, if you like to extract the link right now. So let's do that. We have the first one right now. I would like to extract the text, I can describe the text. And if you extract the text, if I would like to extract the link, not the text, I can describe this one. You can just extract what is in HR PDF. So this is the link, okay, so this is the link of the first piece of news, and you can proceed. Same thing is selected to that robot to define the points will apply. I would like to extract the text and the link. Okay, so when I just make the text or the link first, and then the text or whatever, you can just organize them and rewrite. So if you want just to have the text first to rethink,
+
+Speaker 2  55:22  
+we can make the same News and
+
+Speaker 1  55:37  
+we can make the same link right now, and you can just say, Save first or in single file if you're going to different The new and then you can different the link.
+
+Speaker 2  56:02  
+So that's
+
+Speaker 1  56:06  
+what you get. You get the news, guidance, protocol deadline, and then you get the link. Okay, picture. These things are not complete, so we need to concatenate these things, and we need to add other protocols to visit these things. So that's you guys. I had a research in which we had to get to do some sentiment analysis of gamers of certain game. I don't remember the game there, you know, just to see if these game has any effect, they say on, on, on the behavior of the gamers, you know. So just to get, like, to get feedback about about about gamers sentiment, about the game itself, or about the product. So what we have to do is to get into a discussion forum that these gamers usually write, used to write in actually, and that's just a fit data from there, you know. And collect this data every day. So we can just collect and research using certain keyword, actually, and we can just do the analysis. Same thing you have to do actually, most of the time, it works as that analyst. So that may exist already, but most of the time you have to go to the website and you have to fix the data coming back. So let's see that you work for for certain companies that produces certain products. Your one of your duties would be just to get into websites such as Amazon, such as WalMart, such as, let's say, big retailers, you know, website, and you have to pitch feedback about the product. So you have just to write some scripts to pitch the feedback provided by users comments, you know. And you have to do analysis about these comments, so that will not be structured. You have picked that from different sources. You have to go to Amazon, search into the work, let's say, find the work, the product footage, and you will just pitch any anything related to that product and comment, you know, and you do the analysis. Does that make sense? So these are the type of problems which you have to expect, I don't expect that will be ready in front of you most of the time. We wouldn't they take another 70%
+
+Unknown Speaker  58:19  
+of the time of data scientists will be on
+
+Unknown Speaker  58:22  
+the before doing the analysis. We have any questions. So all of this is breathing exactly when you understand
+
+Speaker 1  58:36  
+exactly you have to understand, you know. You don't have to know all of the tags, but you have to know which side is the one that you have to deal With, actually, and what are the purposes about the
+
+Unknown Speaker  59:02  
+status.
+
+Speaker 1  59:08  
+Or maybe you would like to visit five and to get the main, the main, the main piece of news, what, what I just give you here is, there is, if they focus, let's say, on economic type of news, or if they focus on political type of news, what type of news they focus on? Let's say what type of headlines they have, you know, usually in their website. So you may visit those sites multiple times as secretary and collect data during few months, and then you will be able to start your research.
+
+Speaker 1  59:49  
+And that's where I would have seen this step one more time, I'm just to click on these three dot sides. Get into develop more tools. Developer Tools. Select Developer Tools. Click on these tiny arrow here and select whatever you like. So you want these pieces of details, you know, predict that one, and you'll get details about this one in specific, you know. So you can see here on the on the left hand side, you can, you can click on these three dots in order to get the full code astronaut. You can see from here, this a tag, and this is the class of these a tag. You so this is how we can restrict details about or determine what part of the table we want. Of course, what can we do after we fix this? So let's assume that I have these, these
+
+Unknown Speaker  1:00:36  
+new so I have right now, let's say the new iconization
+
+Speaker 2  1:00:42  
+analysis. Analysis? What type of analysis can we
+
+Speaker 1  1:00:55  
+do? That's where you have to play with text right now. Okay, so our first part of the course I guys was about interpreting the tools, and now we'll see how we can use the tools efficiently, or these steps, and you might continue the 15 minutes interfere whenever we remove this is to convert all the text into one big chunk of steps to be easier for you. So we just put the equation and we
+
+Unknown Speaker  1:01:21  
+combine all the text. So it
+
+Unknown Speaker  1:01:23  
+will enable me to combine all of the text
+
+Speaker 1  1:01:27  
+as when we come Okay, and then it will be good idea to convert everything into lower case, because I don't want to differentiate
+
+Unknown Speaker  1:01:35  
+between circle letters.
+
+Unknown Speaker  1:01:39  
+And maybe you can define right now.
+
+Unknown Speaker  1:01:42  
+Let's say you can just do, I'm doing the
+
+Unknown Speaker  1:01:46  
+suppress right now. This will give you, if you this
+
+Unknown Speaker  1:01:50  
+way, this will give you the keyword. Does that make sense?
+
+Speaker 1  1:01:54  
+But you have pay attention before you submit. These keywords do not be so let's say you have to get rid from conversations such as a play period, such as code, such as comma. So it might be good ideas to get rid of it. So before, before you submit, it would be good idea
+
+Unknown Speaker  1:02:16  
+for the statistics. Anyway, let's say any period has nothing so with nothing.
+
+Unknown Speaker  1:02:25  
+Does that make sense? Make sure to clean your text, and
+
+Unknown Speaker  1:02:29  
+then you can just and
+
+Unknown Speaker  1:02:33  
+when you submit, right now you have the
+
+Unknown Speaker  1:02:40  
+keyboard, and now you can just get the frequency displayed. How can
+
+Unknown Speaker  1:02:50  
+we get the frequency? Perhaps two different ways to get the frequency side.
+
+Speaker 1  1:02:56  
+One of them is to create a dictionary. You can help you do that, but it's good to be good ideas to know how to do that as well. So one of the things so if you have the keywords, so look all the keywords, for example. If you would like to do that dictionary and just create a dictionary for any for any word in the keyword, you can just
+
+Speaker 2  1:03:22  
+make can just make add
+
+Unknown Speaker  1:03:31  
+to the machinery was not inspired the retina. Then
+
+Unknown Speaker  1:03:39  
+add the word to the return with one
+
+Speaker 1  1:03:58  
+way to do it, you know, we have that from our library that we can just use Counter I think
+
+Speaker 1  1:04:40  
+so these can be the same thing here. This wasn't the frequencies right now. So we have a sequence so you can see right now, number one, Iran, you know. So the first keyword that we have right now that has been repeated multiple times right now, number three, us, number three, Ward. But two wars can give you an idea or some insight about the importance of it. They highlight their news. Does that make sense? This is how we do the research right now. So we collect the data, we do some analysis, we clean the data, you know, the text data. We get rid of all of the details, like unwanted characters, from, from the text, and then we can just find different insights from the data, something like, let's say the most important keyword, for example. You can do that during the take we this is just for today, right now, for the piece of things which we have right now. But if you do that, let's say during the month, you can just get some more useful insights. So you'll be able to get the most important keyword that has been repeated multiple times during the day, every day, this day, or during the entire month. You know they will be able to get some insights. And that's how we move questions.
+
+Unknown Speaker  1:06:11  
+No question, of course, you can just get
+
+Speaker 1  1:06:21  
+eyes. You can get rid of numbers as well. So have some numbers now we have one important library, very important library that we need to highlight. It is an important library that enables us to create regular expressions input from the test, actually. So if you want to express context, if they Owen number, you know anything set number, you can do that as well. If you want to express a set board or check according we can do that, and we'll talk about that in one of the sessions. Now in the I can create all of these food on your behalf, but it will be good ideas to understand what's going on actually, that's it. So one of the things which we have the attention here is just that you need actually to it will be good
+
+Speaker 1  1:07:20  
+ideas to get propitiation of the get them them. Get sorted version of D, plus, how can we get sorted version? I would like to get sorted version where
+
+Unknown Speaker  1:07:30  
+the T equal to lambda, if I had them
+
+Speaker 1  1:07:38  
+to be sorted based on, you know, let me show you here.
+
+Speaker 1  1:07:52  
+Right now. If you, if you would like to solve them, you have to convert them into into machinery. You and you have to get items from the dictionary. So those are the items you know you have sold right now and now where you can just get sorted version of these items. So sorted version of these items where the T equal to lambda, if I have the sovereignty I would like to get sorted in the sovereignty application one and sold it. So they will be sorted right now based on the frequency. You can just make the sources in the
+
+Unknown Speaker  1:08:38  
+reverse order. So just make one, and I think counter will give you the eyes
+
+Speaker 1  1:08:42  
+for would already give
+
+Speaker 1  1:08:58  
+me Okay, guys, I hope this is luck to the Minister. Okay, so you miss them one more time, it will be fully online. You don't have to come here and tell them okay, to make sure you set up the environment correctly. Browsers ahead of time, so that we make sure that everything
+
+Unknown Speaker  1:09:22  
+is working as expected,
+
+Speaker 1  1:09:29  
+and you can just have printed notes. You know, no other
+
+Unknown Speaker  1:09:33  
+devices will be allowed and will run like this.
+
+Unknown Speaker  1:09:58  
+Before we don't have time frame. You are not allowed all
+
+Unknown Speaker  1:10:02  
+students. Must take that exam at 335, the
+
+Transcribed by https://otter.ai

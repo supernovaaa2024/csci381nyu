@@ -1,0 +1,5 @@
+id name score quality
+5 Emma 0.9 High
+6 Frank 0.7 High
+7 Grace 0.55 High
+8 Henry 0.4 Low

@@ -1,0 +1,5 @@
+id name score quality
+9 Irene 0.88 High
+10 Jack 0.92 High
+11 Kelly 0.76 High
+12 Liam 0.64 High
