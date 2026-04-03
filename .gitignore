@@ -1,2 +1,10 @@
 large_file.txt
 .DS_Store
+*.tar
+crime.csv
+all_data.csv
+alldata.csv
+all_stocks_5yr.csv
+ecom/
+newEcom/
+~$*
